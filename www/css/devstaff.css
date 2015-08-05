@@ -5,6 +5,10 @@ body{
   font-family: 'Open Sans', sans-serif;
 }
 
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
 .logo_img{
   text-align: center;
   padding: 60px 10px;
@@ -16,28 +20,27 @@ body{
 }
 
 .community h2{
-  font-size: 60px;
+  font-size: 93px;
   font-weight: bold;
   text-transform: uppercase;
   color: #fff;
   border-bottom:0;
   text-align: center;
-  padding: 120px 10px;
-  font-family: 'Open Sans Condensed', sans-serif;
+  padding: 120px 10px;  
 }
 
 .highlight{
   background: rgba(56,136,147,0.8);
-  padding: 20px;
+  padding: 40px;
   margin-top: 80px;
 }
 
 .highlight p{
   font-family: "Open Sans";
-  font-size: 26px;
+  font-size: 25px;
   color: #fff;
   font-weight: 100;
-  line-height: 1.2em;
+  line-height: 1.5em;
   text-align: center;
 }
 
@@ -70,7 +73,6 @@ body{
 }
 
 .event .col-md-3 h3{
-  font-family: "Open Sans Condensed";
   font-weight: bold;
   color: #fff;
   font-size: 61px;
@@ -79,7 +81,6 @@ body{
 }
 
 .event_title h4{
-  font-family: "Open Sans Condensed";
   font-weight: bold;
   text-transform: uppercase;
   color: #fefefe;
@@ -91,7 +92,7 @@ body{
   font-size: 30px!important;
 }
 
-.event_title h5{
+body .event_title h5{
   font-weight: 100;
   font-family: "Open Sans";
   font-size: 21px;
@@ -101,7 +102,6 @@ body{
 }
 
 .place h6{
-  font-family: "Open Sans Condensed";
   font-size: 48px;
   font-weight: bold;
   text-transform: uppercase;
@@ -124,7 +124,6 @@ body{
 }
 
 .time h6{
-  font-family: "Open Sans Condensed";
   font-size: 50px;
   font-weight: bold;
   text-transform: uppercase;
@@ -141,10 +140,9 @@ body{
   font-size: 86px;
   text-transform: uppercase;
   color: #fff;
-  font-family: "Open Sans Condensed";
 }
 
-.date h4 span{
+body .date h4 span{
   font-family: "Open Sans";
   font-weight: 100;
   font-size: 86px!important;
@@ -172,7 +170,7 @@ div.screens div.col-md-4 img{
   float: left;
 }
 
-.footer h3{
+body .footer h3{
   font-family: "Open Sans";
   font-size: 26px;
   font-weight: bold;
@@ -202,9 +200,53 @@ div.screens div.col-md-4 img{
   color: #4b4b4b;
 }
 
+.past-event{
+  padding: 30px 0px; 
+  color: white; 
+}
+
+.past-social{
+  padding-top: 40px;
+}
+
+.past-event-name a{
+  font-weight: 100;
+  font-size: 44px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.past-event-date h4{
+  font-size: 50px;
+}
+
+.past-event-place a{
+  font-size: 34px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.past-event .col-md-3{
+  text-align: center;
+}
+
+.past-event.odd{
+  background: #555555;
+}
+
+.past-event.even{
+  background: #707070;
+}
+
 @media (max-width: 520px){
   .logo_img img{
     width: 100%;
+  }
+
+  .community h2{
+    font-size: 60px;
   }
 }
 
