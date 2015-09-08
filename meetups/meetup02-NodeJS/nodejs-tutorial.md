@@ -1,25 +1,28 @@
-# Devstaff Meetup 02 - Introduction to Node.js
+# Devstaff Meetup 2 - An Intro to NodeJS
 
-As we're getting closer to our next meetup, this document is about to provide key points about the Node.js platform and prepare each developer to start writing some server-side javascript code.
+## Goal: 
+This walkthrough will get you started with the tooling required to write **server-side** Javascript code. Yes, you read that right. 
+
+## About Node.js
 
 Node.js is a runtime system for creating server-side applications and it's best known as a popular means for javaScript coders to build real-time Web APIs. It has become really popular among web developers and it's gaining adoption by large companies like IBM, Microsoft, Yahoo!, Walmart, Groupon, SAP, LinkedIn, PayPal and more.
 
-We'll look closer into it during our meetup, but it's a good idea to have some stuff prepared beforehand.
+We'll look closer into it during our meetup, but it's a good idea to have some stuff prepared beforehand, so you're not totally lost in case you haven't touched it before.
 
 ## Prerequisites
 
-There are very few things you will need for this meetup.
+There are *very few* things you will need for this meetup.
 
 1. The most important prerequisite is to have some kind of programming experience. Any kind and in any language.
 2. Basic knowledge of Javascript. Really basic. We are not going to build a very complicated application, so you will only need a basic understanding of the language behind Node.js, for now. Find some examples below.
 3. A console
-4. A good code editor
+4. A good code editor 
 
 ## Basic javascript examples
 
 Here you can check some basic javascript examples in order to get more familiar with the language.
 
-#### Variables
+### Variables
 ```javascript
 var hello = 'Hello world'
 var myInt = 12
@@ -27,7 +30,7 @@ var myArray = ['lemon', 'orange', 'apple']
 var myObj = {name: Nikos, age: 33 }
 ```
 
-#### Functions
+### Functions
 ```javascript
 var sayHello = function() {
     console.log('Hello again');
@@ -41,7 +44,7 @@ This is everything you will need for now but you can read more:
 
 ## Take me to the client-side
 
-Before starting to code server-side we can run some code examples client-side (in a browser) in a very similar way. One of the components Node.js was built on is the V8 javascript engine, used by Google Chrome web browser. You can start playing with javascript immediately using your Chrome browser following the steps below:
+Before starting to code on the server-side, we can run some code examples client-side (in a browser) in a very similar way. One of the components Node.js was built on, is the V8 javascript engine, used by the Google Chrome web browser. You can start playing with javascript immediately using your Chrome browser following the steps below:
 
 * Open a Chrome browser
 * Open developer tools (Cmd+Opt+I or Ctr+Shift+I)
@@ -58,7 +61,7 @@ sayHello();
 
 ## Getting started
 
-Did you get any familiar with the language? Then we can go on and install the very first tools necessary for our Node.js web application.
+If you feel the Javascript language is starting to make sense, we can go on and install the very first tools necessary for our Node.js web application!!
 
 ### Node.js
 
@@ -66,7 +69,7 @@ In order to install Node.js visit https://nodejs.org/ and download a precompiled
 
 The process will install both node and npm. Npm is the Node Package Manager which facilitates installs of additional packages for node.js.
 
-When you're done check the installation by entering in the command line node which will open a node javascript session:
+When you're done check the installation by typing `node` in the command line, which will open a node javascript session:
 ```bash
 node
 > console.log('Hello node people');
@@ -74,9 +77,9 @@ Hello node people
 undefined
 >
 ```
-You can use this console the same way you used Chrome's console.
+You can use this console pretty much in the same way you used Chrome's console.
 
-### Alternative (cooler) way
+### Alternative (cooler!) way
 
 Node.js can also be installed through nvm. Its initials mean Node Version Manager and the project contains scripts to manage multiple node versions. Go to the [github page of nvm](https://github.com/creationix/nvm) if you want to be awesome and use nvm.
 
@@ -142,7 +145,6 @@ node index.js
 Then, load http://localhost:3000/ in a browser to see the output.
 
 ### Useful modules
-
 There are some modules we (almost) never work without and it's a good idea to add them to our project.
 ```bash
 npm install --save lodash moment async
@@ -161,7 +163,7 @@ In order to test your API easily you can install a Chrome addon. Using Postman y
 
 Learn more and install here: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
 
-## Why Node.js
+## Why the fuss with NodeJS
 
 We believe this is something we should discuss during the meetup, however here are some bullet points to get your attention
 
