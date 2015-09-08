@@ -1,4 +1,4 @@
-# Devstaff Meetup 2 - An Intro to NodeJS
+# Devstaff Meetup 2 - An Intro to Node.js
 
 ## Goal: 
 This walkthrough will get you started with the tooling required to write **server-side** Javascript code. Yes, you read that right. 
@@ -163,7 +163,8 @@ In order to test your API easily you can install a Chrome addon. Using Postman y
 
 Learn more and install here: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
 
-## Why the fuss with NodeJS
+
+## Why the fuss with Node.js
 
 We believe this is something we should discuss during the meetup, however here are some bullet points to get your attention
 
@@ -172,15 +173,8 @@ We believe this is something we should discuss during the meetup, however here a
 * Performance without a complex approach.
   * Fact 1. PayPal reported: double the number of requests per-second and reduced response time by 35% or 200 milliseconds.
   * Fact 2. On Black Friday the WalMart servers didn’t go over 1% CPU utilisation and the team did a deploy with 200,000,000 users online.
-* Shorter development cycles.
 * Unified API: Node.js combined with a browser, a document DB (such as MongoDB or CouchDB) and JSON offers a unified JavaScript development stack. JavaScript was on the client-side. Now it is everywhere and it looks like it will be used for a long time ahead. You also have the Atwood's Law, "any application that can be written in JavaScript will eventually be written in JavaScript".
-* You are able to find the same libraries server and client side (see moment.js).
-* Isomorphic (or Universal) development: Furthermore, there ae ways to write your javascript code just once and run the same code server and client side.
-* Very large and fast-evolving community which creates great modules and projects.
-* Built-in support for package management using the NPM tool that comes by default with every Node.js installation. The idea of NPM modules is quite similar to that of Ruby Gems: a set of publicly available, reusable components, available through easy installation via an online repository, with version and dependency management.
-* One code-base for modules (npm) vs PHP's framework-specific modules.
-* Start with a small collection of modules and build up as you go VS large monolithic frameworks (PHP).
-* Developers love it!
+* There are many more bullet points which are off-topic for now and will be discussed at the meetup.
 
 
 ## Why RESTful API
