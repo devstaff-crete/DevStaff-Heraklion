@@ -39,6 +39,10 @@ app.get('/tasks/:task_id', function (req, res, next) {
   res.json(_.find(dbCollection, {id: task_id}));
 });
 
+app.put('/tasks/:task_id', function (req, res, next) {
+});
+
+app.delete('/tasks/:task_id', function (req, res, next) {
 });
 
 var server = app.listen(3000, function () {
