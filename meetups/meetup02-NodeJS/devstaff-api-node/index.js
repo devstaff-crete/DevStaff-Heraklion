@@ -34,6 +34,11 @@ app.post('/tasks', function (req, res, next) {
   res.json(task);
 });
 
+app.get('/tasks/:task_id', function (req, res, next) {
+  var task_id = req.params.task_id;
+  res.json(_.find(dbCollection, {id: task_id}));
+});
+
 });
 
 var server = app.listen(3000, function () {
