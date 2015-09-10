@@ -16,8 +16,9 @@ app.get('/', function (req, res) {
 });
 
 app.get('/tasks', function (req, res, next) {
-  res.setHeader('Content-Type', 'text/json');
-  res.end(JSON.stringify(dbCollection));
+  res.json(dbCollection);
+});
+
 });
 
 var server = app.listen(3000, function () {
