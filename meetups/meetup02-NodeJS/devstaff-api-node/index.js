@@ -1,5 +1,7 @@
 var express = require('express');
 var bodyParser = require('body-parser');
+var moment = require('moment');
+var _ = require('lodash');
 var app = express();
 
 var dbCollection = [
@@ -17,6 +19,19 @@ app.get('/', function (req, res) {
 
 app.get('/tasks', function (req, res, next) {
   res.json(dbCollection);
+});
+
+app.post('/tasks', function (req, res, next) {
+  var id = _.parseInt(_.last(dbCollection).id) + 1;
+  id = id.toString();
+  var task = {
+    id: id,
+    title: req.body.title || '',
+    desc: req.body.desc || '',
+    cdate: moment().format()
+  };
+  dbCollection.push(task);
+  res.json(task);
 });
 
 });
