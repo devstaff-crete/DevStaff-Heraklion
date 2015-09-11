@@ -22,7 +22,7 @@ app.get('/tasks', function (req, res, next) {
 });
 
 app.post('/tasks', function (req, res, next) {
-  var id = _.parseInt(_.last(dbCollection).id) + 1;
+  var id = parseInt(_.last(dbCollection).id) + 1;
   id = id.toString();
   var task = {
     id: id,
@@ -35,14 +35,22 @@ app.post('/tasks', function (req, res, next) {
 });
 
 app.get('/tasks/:task_id', function (req, res, next) {
-  var task_id = req.params.task_id;
-  res.json(_.find(dbCollection, {id: task_id}));
+  var id = req.params.task_id;
+  res.json(_.find(dbCollection, {id: id}));
 });
 
 app.put('/tasks/:task_id', function (req, res, next) {
+  var id = req.params.task_id;
+  var task = _.find(dbCollection, {id: id});
+  task.title = req.body.title || task.title;
+  task.desc = req.body.desc || task.desc;   
+  res.json(task);  
 });
 
 app.delete('/tasks/:task_id', function (req, res, next) {
+  var id = req.params.task_id;
+  var removedTask = _.pullAt(dbCollection, _.findIndex(dbCollection, {id: id}));
+  res.json(removedTask);
 });
 
 var server = app.listen(3000, function () {
