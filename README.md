@@ -1,6 +1,8 @@
 # DevStaff
 ## A developer Community Gathering in Crete
 
+[![Join the chat at https://gitter.im/devstaff-crete/DevStaff-Heraklion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/devstaff-crete/DevStaff-Heraklion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 So, there's a lot of us, devs, here in Crete... 
 
 Yet, we hardly ever get together in large groups, or even know each other -- somewhat strange for our small community, we hope you'll agree. 
