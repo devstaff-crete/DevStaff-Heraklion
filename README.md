@@ -21,8 +21,11 @@ Join us [now] (http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In
 
 The list of all meetups (to be) held by date:
 
-2015-07-09 The Git Version Control System @ STEP-C, Heraklion
-2015-09-10 Node.js: Building a Restful API
+* 2015-11-12 Design for Developers
+* 2015-10-08 DevOps: from concept to movement to implementation
+* 2015-09-10 Node.js: Building a Restful API
+* 2015-07-09 The Git Version Control System @ STEP-C, Heraklion
+
 
 ## Our Vision
 
