@@ -1,4 +1,4 @@
-# ![DevStaff Logo](images/logo.png)](http://www.devstaff.gr) DevStaff
+# [![DevStaff home](images/logo.png)](http://www.devstaff.gr) 
 ## A developer Community Gathering in Crete
 
 So, there's a lot of us, devs, here in Crete... 

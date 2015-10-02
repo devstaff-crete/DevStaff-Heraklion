@@ -1,5 +1,6 @@
-# TODO Intro
-Tools we use. 
+# Intro
+
+Some intro here?
 
 ## Your Mission 
 *(should you choose to accept it)*
