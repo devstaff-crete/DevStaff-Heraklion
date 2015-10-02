@@ -1,6 +1,10 @@
 # Intro
 
-Some intro here?
+So, there's a lot of us, devs, here in Crete... 
+
+Yet, we hardly ever get together in large groups, or even know each other -- somewhat strange for our small community, we hope you'll agree. 
+
+DevStaff is an attempt at bringing us all together for informal chats about what we're all passionate about: technology and software. 
 
 ## Your Mission 
 *(should you choose to accept it)*
@@ -24,3 +28,7 @@ Links to meetup and gitter
 [![Join the chat at https://gitter.im/devstaff-crete/DevStaff-Heraklion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/devstaff-crete/DevStaff-Heraklion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Join our [meetup group] (http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/)!
+
+## Contribute
+
+Check the contributing guidelines [here](CONTRIBUTING.md).
