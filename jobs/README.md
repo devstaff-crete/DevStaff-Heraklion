@@ -17,11 +17,3 @@ We are currently seeking a full time back-end developer  to join our team! Come 
 * PubDate: 2015-09-09
 * More info: https://www.imgzine.com/imgzine-is-looking-for-a-back-end-developer/#more-10662
 
-## Software Developer @ [Cytech Mobile](http://www.cytechmobile.com)
-Full-time position. More in the link below.
-
-* DevStaff member: [Yorgos Saslis](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/members/122078292/)
-* PubDate: 2015-09-05
-* Application Deadline: First Successful Candidate
-* More info: https://cytech.workable.com/jobs/115530
-
