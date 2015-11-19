@@ -13,6 +13,7 @@
 
 The list of all meetups (to be) held by date:
 
+* [2015-12-10 Unit Testing](https://github.com/devstaff-crete/meetup05-Testing)
 * [2015-11-12 Design for Developers](https://github.com/devstaff-crete/meetup04-Design)
 * [2015-10-08 DevOps: from concept to movement to implementation](https://github.com/devstaff-crete/meetup03-DevOps)
 * [2015-09-10 Node.js: Building a Restful API](https://github.com/devstaff-crete/meetup02-NodeJS)
