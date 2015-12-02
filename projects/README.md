@@ -15,3 +15,10 @@ We mainly started working on this to learn Swift 2, but, hey, it seems lots of p
 * DevStaff members: [Michael Kornelakis](https://github.com/kormic), [Yorgos Saslis](https://github.com/gsaslis)
 * Ongoing project
 * More info: https://github.com/RocketChat/Rocket.Chat.iOS and a list of TODOs here: https://waffle.io/RocketChat/Rocket.Chat.iOS
+
+## Github Analytics App
+A web application that provides beautiful charts based on data found in github issues and comments. We started working on this project because the DevStaff community neede a way to count votes (:+1:) on the suggested topics (issues).
+
+* DevStaff members: [Nikos Kampitakis](https://github.com/kabitakis), [Foivos](https://github.com/zakkak)
+* Ongoing project
+* More info: https://github.com/kabitakis/github-analytics
