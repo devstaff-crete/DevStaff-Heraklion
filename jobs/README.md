@@ -2,6 +2,11 @@
 
 In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push and create a pull request on github.
 
+## Front-End Developers at [Phaistos Networks, S.A](http://phaistosnetworks.gr/)
+* PubDate: 2015-12-11
+* More info at: https://phaistosnetworks.workable.com/jobs/172668
+
+
 ## Python Software Developer @ [Encode](http://encodegroup.com/)
 
 * DevStaff member: [Alexandros Katopodis](https://github.com/akatopo/)
