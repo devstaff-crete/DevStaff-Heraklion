@@ -22,3 +22,17 @@ A web application that provides beautiful charts based on data found in github i
 * DevStaff members: [Nikos Kampitakis](https://github.com/kabitakis), [Foivos](https://github.com/zakkak)
 * Ongoing project
 * More info: https://github.com/kabitakis/github-analytics
+
+## mwhois
+An RFC Compliant `whois(1)` server. It stores data in a file and uses this to reply to whois queries. It also features a wizard to enter IPs and/or domains with the RIPE format. It was made mostly for internal use and not for the Internet, but still. 
+
+* DevStaff Members: [Antonios A. Chariton](https://github.com/daknob)
+* Ongoing Project - No time
+* More info: https://github.com/daknob/mwhois
+
+## Zipper
+Zipper is a `zip(1)`/`gzip(1)` and in general a compression tool performance and efficiency measurement tool. It calculates the optimal amount of compression passes in terms of final size and time a specific dataset needs in order to achieve maximum efficiency. 
+
+* DevStaff Members: [Antonios A. Chariton](https://github.com/daknob)
+* Ongoing Project - Bounty
+* More info: https://github.com/daknob/zipper
