@@ -19,6 +19,10 @@ The list of all meetups (to be) held by date:
 * [2015-09-10 Node.js: Building a Restful API](https://github.com/devstaff-crete/meetup02-NodeJS)
 * [2015-07-09 The Git Version Control System](https://github.com/devstaff-crete/meetup01-Git)
 
+## Projects
+
+Find [Open Source Software](projects/README.md) and Projects currently developed by DevStaff Members. You can add your own by sending us a pull request. 
+
 ## Job Postings 
 
 Check the [job openings](jobs/README.md), posted by devstaff members. You can add your own by
