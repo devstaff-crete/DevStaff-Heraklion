@@ -35,3 +35,10 @@ Find [Open Source Software](projects/README.md) and Projects currently developed
 
 Check the [job openings](jobs/README.md), posted by devstaff members. You can add your own by
 sending us a pull request.
+
+## Chat Rooms
+
+The community uses a few different chatrooms based on [Gitter](https://gitter.im/). Use one of them to contact us!
+
+* [The Official DevStaff-Heraklion chatroom](https://gitter.im/devstaff-crete/DevStaff-Heraklion)
+* [Το Καφενείο](https://gitter.im/devstaff-crete/DevStaff-Heraklion/%CE%9A%CE%B1%CF%86%CE%B5%CE%BD%CE%B5%CE%AF%CE%BF)
