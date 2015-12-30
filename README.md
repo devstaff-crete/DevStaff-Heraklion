@@ -8,11 +8,13 @@
 
 * **Want to contribute?** Check the [Contributing Guidelines](CONTRIBUTING.md)
   and the [Code of Conduct](CodeOfConduct.md) and send a pull request!
+* **Curious about whats next?** Check the [topic voting analytics](http://analytics.devstaff.gr)!
 
 ## Meetups :speaker:
 
 The list of all meetups (to be) held by date:
 
+* [2016-01-14 Mobile Devevelopment](https://github.com/devstaff-crete/meetup06-MobileDev)
 * [2015-12-10 Unit Testing](https://github.com/devstaff-crete/meetup05-Testing)
 * [2015-11-12 Design for Developers](https://github.com/devstaff-crete/meetup04-Design)
 * [2015-10-08 DevOps: from concept to movement to implementation](https://github.com/devstaff-crete/meetup03-DevOps)
