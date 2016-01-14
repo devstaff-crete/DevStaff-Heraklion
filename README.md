@@ -45,6 +45,10 @@ A beerup is a simple get-together, open to every member of our community who wou
 * [2015-12-22 The Christmas Beerup!](beerups/20151222.md)
 * [2015-11-25 November Beerup](beerups/20151125.md)
 
+## Shared Documents :book:
+
+The documents folder contains a list of general purpose documents (e.g. legal, business, presentations, etc.) that DevStaff members have freely shared to be used by others in the community. Sharing is caring, so please open a PR with any documents you might have that you feel other DevStaff members could use!
+
 ## Chat Rooms :speech_balloon:
 
 The community uses a few different chatrooms based on [Gitter](https://gitter.im/). Use one of them to contact us!
