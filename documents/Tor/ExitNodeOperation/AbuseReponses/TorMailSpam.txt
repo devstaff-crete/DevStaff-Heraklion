@@ -1,0 +1,4 @@
+In addition, our nodes do not allow SMTP traffic to be sent using our IPs.
+Upon investigation, it appears that the source of the spam is due to
+an abusive or compromised webmail gateway running at:
+<web server here>. Did you contact their abuse department?
