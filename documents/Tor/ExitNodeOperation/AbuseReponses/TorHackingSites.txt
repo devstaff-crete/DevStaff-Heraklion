@@ -1,0 +1,16 @@
+This also does not mean that there is nothing that can be done. For
+serious incidents, traditional police work techniques of running
+stings and investigating to determine means, motive, and opportunity
+are still very effective.
+
+Additionally, the Tor project provides an automated DNSRBL for you to
+query to flag visitors coming from Tor nodes as requiring special
+treatment: https://www.torproject.org/tordnsel/. The same list is
+available through the Tor Bulk Exit List:
+https://check.torproject.org/cgi-bin/TorBulkExitList.py
+
+However, rather than banning legitimate Tor users from using your
+service in general, we recommend ensuring that such services are updated
+and maintained to free of vulnerabilities that can lead to
+situations such as this (PHP webshell/XSS compromise/SQL Injection 
+compromise).
