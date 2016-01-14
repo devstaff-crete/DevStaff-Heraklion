@@ -1,0 +1,20 @@
+If you are concerned about SSH scans, you might consider running your
+SSHD on a port other than the default of 22. Many worms, scanners, and
+botnets scan the entire Internet looking for SSH logins. The fact that
+a few logins happened to come from Tor is likely a small blip on your
+overall login attempt rate. You might also consider a rate limiting
+solution:
+http://kevin.vanzonneveld.net/techblog/article/block_brute_force_attacks_with_iptables/
+
+If it is in fact a serious problem specific to Tor, the Tor project
+provides an automated DNSRBL for you to query to block login attempts
+coming from Tor nodes: https://www.torproject.org/tordnsel/
+
+It is also possible to download a list of all Tor exit IPs that will
+connect to your SSH port:
+https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=YOUR_IP&port=22
+
+You can use this list to create iptables rules to block the network. 
+However, we still recommend using the general approach, as the attack 
+will likely simply reappear from an open proxy or other IP once Tor 
+is blocked.

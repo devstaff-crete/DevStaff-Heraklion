@@ -1,0 +1,41 @@
+We're sorry your site is experiencing this heavy load from Tor. 
+
+However, it is possible that your rate limiting alarms simply
+experienced a false positive due to the amount of traffic that flows
+through the router. We provide service to almost a gigabit of traffic
+per second, 98% of which is web traffic.
+       
+If the attack is real and ongoing, however,  the Tor project provides
+an automated DNSRBL for you to query to block login attempts coming
+from Tor nodes: https://www.torproject.org/tordnsel/
+	                                                   
+It is also possible to download a list of all Tor exit IPs that will
+connect to your server port:
+https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=YOUR_IP&port=80
+
+In general however, we believe that problems like this are best solved
+by improving the service to defend against the attack from the Internet
+at large. 
+
+Scraping and robot activity can be reduced/slowed by captchas, which is
+the approach taken by Gmail for this same problem. In fact, Google
+provides a free captcha service, complete with code for easy inclusion
+in a number of systems to help other sites deal with this issue:
+https://code.google.com/apis/recaptcha/intro.html
+
+Slow DoS attacks aimed to consume the Apache MaxClients limit
+(http://www.guerilla-ciso.com/archives/2049) can be alleviated by 
+reducing the httpd.conf TimeOut and KeepAliveTimeout config values 
+to 15-30 and raising the ServerLimit and MaxClients values to 
+something like 3000.
+
+If this fails, DoS attempts can also be solved with iptables-based rate
+limiting solutions, load balancers such as nginx, and also IPS devices,
+but be aware that Internet traffic is not always uniform in quantity by
+IP, due to large corporate and even national outproxies, NATs, and 
+services like Tor.
+													   
+http://kevin.vanzonneveld.net/techblog/article/block_brute_force_attacks_with_iptables/
+http://cd34.com/blog/webserver/ddos-attack-mitigation/
+http://deflate.medialayer.com/
+
