@@ -1,0 +1,9 @@
+Dear [Sender Company],
+
+I am responding to your ticket regarding abusive behavior for the IP Address [Tor Exit IP Address] as a member of the server administration. 
+
+First of all, I'd like to thank you for reaching to us and reporting this behavior, since we also believe in the copyright law. Unfortunately, I am not able to further process your request because this IP Address is part of the Tor Network and it more specifically an Exit Node. That means that we are routing anonymized, encrypted traffic from the Tor Network to the Internet without preprocessing or extensive filtering. We currently employ some tactics that help minimize abuse (such as block port 22). From your letter I can see that you claim this server is hosting copyrighted material, which is not the case. From what I can tell, no service can be hosted on this IP Address since it only relays outbound connections to the Internet. If you mean that the movie is pirated via BitTorrent, this could be the case but we currently cannot limit this.
+
+Since we are a Service Provider that simply routes "client" traffic, and in this case cannot assist in the investigation due to the way Tor works, I do not see a way to help with this ticket. If you have any recommendations, please let us know so we can further discuss it. 
+
+For more information, please view [Tor Exit IP Address]:[DirPort] , a website hosted on the same server, with more details.

@@ -1,0 +1,21 @@
+This does not mean that nothing can be done, however.
+
+The Tor project provides an automated DNSRBL for you to query to flag 
+posts coming from Tor nodes as requiring special review. You can also
+use this DNSRBL to only allow Tor IPs to read but not
+post comments. https://www.torproject.org/tordnsel/
+
+However, be aware that this may be just one jerk amongst many
+legitimate Tor users who use your forums. You might have luck getting
+rid of this jerk by temporarily limiting account creation to require
+gmail accounts before posting, or by requiring account creation be
+done over non-Tor before posting.
+
+In general, we believe that problems like this are best solved by 
+improving your service to defend against the attack from the Internet
+at large.  Brute force login attempts can be reduced/slowed by
+captchas, which is the approach taken by Gmail for this same problem.
+In fact, Google provides a free captcha service, complete with code
+for easy inclusion in a number of systems to help other sites deal
+with this issue: https://code.google.com/apis/recaptcha/intro.html
+

@@ -1,0 +1,18 @@
+We're sorry your account has been brute forced. We can try to prevent
+our node from connecting to this site, but since the Tor network
+has 800 or so exits, doing so wouldn't really stop the action long
+term. The attacker would probably just chain an open proxy after Tor,
+or just use open wireless and/or a proxy without Tor.
+
+The Tor project does provide an automated DNSRBL for you to query to 
+flag requests from Tor nodes as requiring special treatment: 
+https://www.torproject.org/tordnsel/
+
+In general, we believe that problems like this are best solved by
+improving the service to defend against the attack from the Internet
+at large rather than specifically tailoring behavior for Tor. Brute 
+force login attempts can be reduced/slowed by captchas, which is the 
+approach taken by Gmail for this same problem. In fact, Google
+provides a free captcha service, complete with code for easy inclusion
+in a number of systems to help other sites deal with this issue: 
+https://code.google.com/apis/recaptcha/intro.html

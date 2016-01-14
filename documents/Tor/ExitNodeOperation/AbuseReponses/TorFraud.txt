@@ -1,0 +1,21 @@
+This also does not mean that there is nothing that can be done. For
+serious incidents, traditional police work techniques of running
+stings and investigating to determine means, motive, and opportunity
+are still very effective.
+
+Additionally, the Tor project provides an automated DNSRBL for you to
+query to flag orders coming from Tor nodes as requiring special
+review: https://www.torproject.org/tordnsel/
+
+It also provides a Bulk Exit List service for retrieving the entire list:
+https://check.torproject.org/cgi-bin/TorBulkExitList.py
+
+You can use this list to help you take a closer look at Tor orders, or
+to hold them temporarily for additional verification, without losing
+legitimate customers.
+
+In fact, in my experience, the fraud processing teams contracted by
+many ISPs simply mark all requests from Tor nodes as fraud using that
+very list. So it is even possible this is a legitimate order, but was
+flagged as fraud solely based on IP, especially if you contract out
+fraud detection to a third party.
