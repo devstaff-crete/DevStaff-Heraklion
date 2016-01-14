@@ -2,6 +2,10 @@
 
 In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push and create a pull request on github.
 
+## Support Technician at [Papaki ](http://www.papaki.gr/)
+* PubDate: 2016-01-14
+* More info at: https://www.papaki.gr/en/career.htm
+
 ## Currently looking for a scientific programmer (Java)
 * PubDate: 2016-01-12
 * More info at: http://www.gnosisda.gr/we-are-hiring
