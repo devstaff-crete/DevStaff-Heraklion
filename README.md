@@ -28,6 +28,7 @@ You can [organize your own hack session](HackSessionHowTo.md) anytime.
 The list of some example hack sessions held by date:
 
 * [2015-12-01 Docker Hack Session](https://github.com/devstaff-crete/docker-hack-sessions)
+* [2016-01-12 Tor Hack Session](https://github.com/DaKnOb/TorConfig)
 
 ## Projects :construction:
 
