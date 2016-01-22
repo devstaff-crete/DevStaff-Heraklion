@@ -5,7 +5,7 @@ Sharing is caring, so in this section you'll find a list of general purpose docu
 ### Contributing a Document
 Please add your own PR that adds a document you are willing to share. Where appropriate, please add any relevant licensing. 
 
-## Contract
+## Contracts
 * [Website Support and Hosting Service](https://docs.google.com/document/d/1YKJQbq0cGxPGTOCINJhfohvg_QUo5pgtEIIwyN518mA/edit)
 * [Website Theme Creation](https://docs.google.com/document/d/1WUAKsdH2CWWEqUKpFRPp6BHCQpi51QzRvA2AVS0X_Ik/edit)
 
