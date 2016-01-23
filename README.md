@@ -48,7 +48,7 @@ A beerup is a simple get-together, open to every member of our community who wou
 
 ## Shared Documents :book:
 
-The documents folder contains a list of general purpose documents (e.g. legal, business, presentations, etc.) that DevStaff members have freely shared to be used by others in the community. Sharing is caring, so please open a PR with any documents you might have that you feel other DevStaff members could use!
+The [documents section](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/documents) contains a list of general purpose documents (e.g. legal, business, presentations, etc.) that DevStaff members have freely shared to be used by others in the community. Sharing is caring, so please open a PR with any documents you might have that you feel other DevStaff members could use!
 
 ## Chat Rooms :speech_balloon:
 
