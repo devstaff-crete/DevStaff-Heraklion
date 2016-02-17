@@ -14,6 +14,8 @@
 
 The list of all meetups (to be) held by date:
 
+* [2016-03-10 Start-Ups, Spin-offs](https://github.com/devstaff-crete/meetup08-Startups)
+* [2016-02-11 Developing with security in mind](https://github.com/devstaff-crete/meetup07-Security)
 * [2016-01-14 Mobile Devevelopment](https://github.com/devstaff-crete/meetup06-MobileDev)
 * [2015-12-10 Unit Testing](https://github.com/devstaff-crete/meetup05-Testing)
 * [2015-11-12 Design for Developers](https://github.com/devstaff-crete/meetup04-Design)
