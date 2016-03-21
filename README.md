@@ -1,7 +1,7 @@
 # [![DevStaff home](images/logo.png)](http://www.devstaff.gr)
 ## A developer Community Gathering in Crete
 
-* **Don't know where to start?** Are you new to git and meetup? Here is a short intro about the tools we use: [StartHere!](StartHere.md)
+* **Don't know where to start?** Are you new to git and MeetUp? Here is a short intro about the tools we use: [StartHere!](StartHere.md)
 
 * **You just want to join the group?** Great!
   Join our [MeetUp group](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/) or find us live on [![Join the chat at https://gitter.im/devstaff-crete/DevStaff-Heraklion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/devstaff-crete/DevStaff-Heraklion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -12,7 +12,7 @@
 
 ## Meetups :speaker:
 
-The list of all meetups (to be) held by date:
+The list of all MeetUps (to be) held by date:
 
 * [2016-03-10 Start-Ups, Spin-offs](https://github.com/devstaff-crete/meetup08-Startups)
 * [2016-02-11 Developing with security in mind](https://github.com/devstaff-crete/meetup07-Security)
