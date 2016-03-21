@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [2016-04-14 IoT - Internet of Things] (https://github.com/devstaff-crete/meetup09-IoT)
 * [2016-03-10 Start-Ups, Spin-offs](https://github.com/devstaff-crete/meetup08-Startups)
 * [2016-02-11 Developing with security in mind](https://github.com/devstaff-crete/meetup07-Security)
 * [2016-01-14 Mobile Devevelopment](https://github.com/devstaff-crete/meetup06-MobileDev)
