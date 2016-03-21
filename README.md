@@ -14,12 +14,16 @@
 
 The list of all meetups (to be) held by date:
 
+* [2016-03-10 Start-Ups, Spin-offs](https://github.com/devstaff-crete/meetup08-Startups)
+* [2016-02-11 Developing with security in mind](https://github.com/devstaff-crete/meetup07-Security)
 * [2016-01-14 Mobile Devevelopment](https://github.com/devstaff-crete/meetup06-MobileDev)
 * [2015-12-10 Unit Testing](https://github.com/devstaff-crete/meetup05-Testing)
 * [2015-11-12 Design for Developers](https://github.com/devstaff-crete/meetup04-Design)
 * [2015-10-08 DevOps: from concept to movement to implementation](https://github.com/devstaff-crete/meetup03-DevOps)
 * [2015-09-10 Node.js: Building a Restful API](https://github.com/devstaff-crete/meetup02-NodeJS)
 * [2015-07-09 The Git Version Control System](https://github.com/devstaff-crete/meetup01-Git)
+
+Subscribe to [our calendar](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/) and stay informed.
 
 ## Hack Sessions :video_game:
 
