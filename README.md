@@ -8,7 +8,7 @@
 
 * **Want to contribute?** Check the [Contributing Guidelines](CONTRIBUTING.md)
   and the [Code of Conduct](CodeOfConduct.md) and send a pull request!
-* **Curious about whats next?** Check the [topic voting analytics](http://analytics.devstaff.gr)!
+* **Curious about what's next?** Check the [topic voting analytics](http://analytics.devstaff.gr)!
 
 ## Meetups :speaker:
 
