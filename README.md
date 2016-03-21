@@ -1,18 +1,18 @@
 # [![DevStaff home](images/logo.png)](http://www.devstaff.gr)
 ## A developer Community Gathering in Crete
 
-* **Don't know where to start?** Are you new to git and meetup? Here is a short intro about the tools we use: [StartHere!](StartHere.md)
+* **Don't know where to start?** Are you new to git and MeetUp? Here is a short intro about the tools we use: [StartHere!](StartHere.md)
 
 * **You just want to join the group?** Great!
-  Join our [meetup group](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/) or find us live on [![Join the chat at https://gitter.im/devstaff-crete/DevStaff-Heraklion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/devstaff-crete/DevStaff-Heraklion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+  Join our [MeetUp group](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/) or find us live on [![Join the chat at https://gitter.im/devstaff-crete/DevStaff-Heraklion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/devstaff-crete/DevStaff-Heraklion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 * **Want to contribute?** Check the [Contributing Guidelines](CONTRIBUTING.md)
   and the [Code of Conduct](CodeOfConduct.md) and send a pull request!
-* **Curious about whats next?** Check the [topic voting analytics](http://analytics.devstaff.gr)!
+* **Curious about what's next?** Check the [topic voting analytics](http://analytics.devstaff.gr)!
 
-## Meetups :speaker:
+## MeetUps :speaker:
 
-The list of all meetups (to be) held by date:
+The list of all MeetUps (to be) held by date:
 
 * [2016-03-10 Start-Ups, Spin-offs](https://github.com/devstaff-crete/meetup08-Startups)
 * [2016-02-11 Developing with security in mind](https://github.com/devstaff-crete/meetup07-Security)
@@ -40,7 +40,7 @@ Find [Open Source Software](projects/README.md) and Projects currently developed
 
 ## Job Postings :postal_horn:
 
-Check the [job openings](jobs/README.md), posted by devstaff members. You can add your own by
+Check the [job openings](jobs/README.md), posted by DevStaff members. You can add your own by
 sending us a pull request.
 
 ## Beerups :beer:
