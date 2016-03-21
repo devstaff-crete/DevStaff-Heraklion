@@ -10,7 +10,7 @@
   and the [Code of Conduct](CodeOfConduct.md) and send a pull request!
 * **Curious about what's next?** Check the [topic voting analytics](http://analytics.devstaff.gr)!
 
-## Meetups :speaker:
+## MeetUps :speaker:
 
 The list of all MeetUps (to be) held by date:
 
