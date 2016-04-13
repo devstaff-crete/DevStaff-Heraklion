@@ -2,6 +2,25 @@
 
 In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push and create a pull request on github.
 
+## Web Developer at [Cyberlogic](http://www.cyberlogic.gr/)
+* PubDate: 2016-04-13
+* More info at: http://www.cyberlogic.gr/jobs
+
+## Senior Developer at [Cyberlogic](http://www.cyberlogic.gr/)
+* PubDate: 2016-04-13
+* More info at: http://www.cyberlogic.gr/jobs
+
+## Mobile Developer at [Cyberlogic](http://www.cyberlogic.gr/)
+* PubDate: 2016-04-13
+* More info at: http://www.cyberlogic.gr/jobs
+
+## Backend Developer at [Cyberlogic](http://www.cyberlogic.gr/)
+* PubDate: 2016-04-13
+* More info at: http://www.cyberlogic.gr/jobs
+
+## User Support Specialist at [Cyberlogic](http://www.cyberlogic.gr/)
+* PubDate: 2016-04-13
+* More info at: http://www.cyberlogic.gr/jobs
 
 ## Support Technician at [Papaki ](http://www.papaki.gr/)
 * PubDate: 2016-01-14
