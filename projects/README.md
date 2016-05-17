@@ -43,3 +43,17 @@ Zipper is a `zip(1)`/`gzip(1)` and in general a compression tool performance and
 * DevStaff Members: [Antonios A. Chariton](https://github.com/daknob)
 * Ongoing Project - Bounty
 * More info: https://github.com/daknob/zipper
+
+## TorPaste
+TorPaste is a simple pastebin service designed specifically for Tor and the Tor Browser.
+
+* DevStaff Members: [Antonios A. Chariton](https://github.com/daknob)
+* Ongoing Project
+* More info: https://github.com/daknob/torpaste
+
+## ShorTor
+ShorTor is a very simple URL Shortening service, designed with Tor and the Tor Browser in mind. 
+
+* DevStaff Members: [Antonios A. Chariton](https://github.com/daknob)
+* Ongoing Project
+* More info: https://github.com/daknob/shortor
