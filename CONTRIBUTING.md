@@ -7,7 +7,7 @@ The DevStaff Meetups take place every 2nd Thursday of each month. We are open to
 Here's how: 
 * We use GitHub Issues with the 'Topics' label to indicate topic suggestions. 
 * You will already find some of the proposed topics under the issues. Open a new issue if you can't find your favourite topic there.
-* Upvote the topic you like by using thumbs up ( :+1: ) as a [reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) on the very first comment of the corresponding issue.
+* Upvote the topic you like by using thumbs up ( :+1: ) 
 * For topics with a lot of votes, you can fork and open a new PR with a new line in the README.md including the date and topic of the meet up.
 * One of the maintainers will merge the PR once the topic & dates are finalized. Issue will be closed at that point.
 * You can find the vote counts for each topic at http://analytics.devstaff.gr/
