@@ -2,6 +2,10 @@
 
 In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push and create a pull request on github.
 
+## Front-End Developers at [Phaistos Networks, S.A](http://phaistosnetworks.gr/)
+* PubDate: 2016-95-24
+* More info at: https://phaistosnetworks.workable.com/jobs/215362/
+
 ## Web Developer at [Cyberlogic](http://www.cyberlogic.gr/)
 * PubDate: 2016-04-13
 * More info at: http://www.cyberlogic.gr/jobs
@@ -33,11 +37,6 @@ In this section you can find some job openings listed by our community members. 
 ## Mid Lever .NET Web Developer at [Papaki ](http://www.papaki.gr/)
 * PubDate: 2015-12-18
 * More info at: https://www.papaki.gr/en/career.htm
-
-## Front-End Developers at [Phaistos Networks, S.A](http://phaistosnetworks.gr/)
-* PubDate: 2015-12-11
-* More info at: https://phaistosnetworks.workable.com/jobs/172668
-
 
 ## Python Software Developer @ [Encode](http://encodegroup.com/)
 
