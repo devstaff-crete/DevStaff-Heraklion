@@ -2,6 +2,10 @@
 
 In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push and create a pull request on github.
 
+## Network Engineer & System Administrator at [ Α. Σταυρακακης & Υιος Ο.Ε.]
+* PubDate: 2016-06-07
+* More info at: http://career.duth.gr/portal/?q=node/24540#.V1aiTZN97OQ
+
 ## Front-End Developers at [Phaistos Networks, S.A](http://phaistosnetworks.gr/)
 * PubDate: 2016-05-24
 * More info at: https://phaistosnetworks.workable.com/jobs/215362/
