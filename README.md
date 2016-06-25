@@ -46,12 +46,13 @@ Find [Open Source Software](projects/README.md) and Projects currently developed
 Check the [job openings](jobs/README.md), posted by DevStaff members. You can add your own by
 sending us a pull request.
 
-## Beerups :beer:
+## Org Meetups (Beerups :beer:)
 
 A beerup is a simple get-together, open to every member of our community who would like to contribute / discuss some organizational issues, future topics etc. A good opportunity to have some beers also :)
 
-* [2015-12-22 The Christmas Beerup!](beerups/20151222.md)
-* [2015-11-25 November Beerup](beerups/20151125.md)
+* [23/06/2016 Org Meetup](orgmeetups/23062016.md)
+* [22/12/2015 The Christmas Beerup!](orgmeetups/20151222.md)
+* [25/11/2015 November Beerup](orgmeetups/20151125.md)
 
 ## Shared Documents :book:
 
