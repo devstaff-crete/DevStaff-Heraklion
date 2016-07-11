@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [14-07-2016 Password Management] (https://github.com/devstaff-crete/meetup12-infosec)
 * [09-06-2016 NoSQL](https://github.com/devstaff-crete/meetup11-NoSQL)
 * [27-05-2016 Secrets of Concurrency](https://devstaff.gr)
 * [12-05-2016 Design Patterns](https://github.com/devstaff-crete/meetup10-DesignPatterns)
