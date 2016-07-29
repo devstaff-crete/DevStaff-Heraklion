@@ -4,6 +4,10 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## LEAD PHP DEVELOPER / FULL STACK DEVELOPER
+* PubDate: 29/07/2016
+* More info at: http://therightclick.gr/jobs
+
 ## WEB / GRAPHIC DESIGNER
 * PubDate: 28/06/2016
 * More info at: http://persado.com/jobs/web-graphic-designer/?gh_jid=214898
