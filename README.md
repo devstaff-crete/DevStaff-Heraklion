@@ -14,6 +14,8 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [13-10-2016 TBD] (#)
+* [08-09-2016 Lightning talks] (https://github.com/devstaff-crete/meetup13-LightningTalks-SoftwareballGame)
 * [14-07-2016 Password Management] (https://github.com/devstaff-crete/meetup12-infosec)
 * [09-06-2016 NoSQL](https://github.com/devstaff-crete/meetup11-NoSQL)
 * [27-05-2016 Secrets of Concurrency](https://devstaff.gr)
@@ -36,6 +38,8 @@ You can [organize your own hack session](HackSessionHowTo.md) anytime.
 
 The list of some example hack sessions held by date:
 
+* [01/09/2016 Hashicorp Vault, AWS KMS, Chef/Ansible Vault, Consul](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/233637796/)
+* [missing info..please fill in if you have details]
 * [2015-12-01 Docker Hack Session](https://github.com/devstaff-crete/docker-hack-sessions)
 * [2016-01-12 Tor Hack Session](https://github.com/DaKnOb/TorConfig)
 
