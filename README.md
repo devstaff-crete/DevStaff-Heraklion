@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [08-12-2016 #17 - Working at (extremely) large scale] (https://github.com/devstaff-crete/meetup17-largescale)
 * [10-11-2016 #16 - React.js - The hottest JS lib for building UIs] (https://github.com/devstaff-crete/meetup16-ReactJs)
 * [13-10-2016 #15 - sass - Syntactically Awesome Style Sheets] (https://github.com/devstaff-crete/meetup14-Sass)
 * [08-09-2016 #14 - Lightning talks] (https://github.com/devstaff-crete/meetup13-LightningTalks-SoftwareballGame)
@@ -69,5 +70,5 @@ The [documents section](https://github.com/devstaff-crete/DevStaff-Heraklion/tre
 
 The community uses a few different chatrooms based on [Slack](https://devstaff.slack.com/signup). Use one of them to contact us!
 
-* [The Official DevStaff-Heraklion chatroom](https://gitter.im/devstaff-crete/DevStaff-Heraklion)
-* [Το Καφενείο](https://gitter.im/devstaff-crete/DevStaff-Heraklion/%CE%9A%CE%B1%CF%86%CE%B5%CE%BD%CE%B5%CE%AF%CE%BF)
+* [The Official DevStaff-Heraklion chatroom](https://devstaff.slack.com/messages/general/)
+* [Το Καφενείο](https://devstaff.slack.com/messages/random/)
