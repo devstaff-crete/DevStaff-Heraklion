@@ -69,5 +69,5 @@ The [documents section](https://github.com/devstaff-crete/DevStaff-Heraklion/tre
 
 The community uses a few different chatrooms based on [Slack](https://devstaff.slack.com/signup). Use one of them to contact us!
 
-* [The Official DevStaff-Heraklion chatroom](https://gitter.im/devstaff-crete/DevStaff-Heraklion)
-* [Το Καφενείο](https://gitter.im/devstaff-crete/DevStaff-Heraklion/%CE%9A%CE%B1%CF%86%CE%B5%CE%BD%CE%B5%CE%AF%CE%BF)
+* [The Official DevStaff-Heraklion chatroom](https://devstaff.slack.com/messages/general/)
+* [Το Καφενείο](https://devstaff.slack.com/messages/random/)
