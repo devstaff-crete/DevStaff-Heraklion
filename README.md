@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [12-01-2017 #18 - Lightning Talks] (https://github.com/devstaff-crete/meetup18-lightningTalks)
 * [08-12-2016 #17 - Working at (extremely) large scale] (https://github.com/devstaff-crete/meetup17-largescale)
 * [10-11-2016 #16 - React.js - The hottest JS lib for building UIs] (https://github.com/devstaff-crete/meetup16-ReactJs)
 * [13-10-2016 #15 - sass - Syntactically Awesome Style Sheets] (https://github.com/devstaff-crete/meetup14-Sass)
