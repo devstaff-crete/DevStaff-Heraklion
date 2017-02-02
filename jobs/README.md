@@ -4,6 +4,10 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Senior Front End Developer at Papaki (https://www.papaki.gr)
+* PubDate: 02/02/2017
+* More info at: https://www.papaki.gr/career.htm?locale=el-GR#frontend-dev
+
 ## Full stack developer at the Mens X Machina group (http://mensxmachina.org/en/)
 * PubDate: 10/10/2016
 * More info at: http://mensxmachina.org/en/2016/10/05/we-are-hiring/
