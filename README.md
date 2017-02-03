@@ -36,6 +36,8 @@ The list of all MeetUps (to be) held by date:
 
 Subscribe to [our calendar](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/) and stay informed.
 
+Subscribe to [our calendar](webcal://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/ical/u) and stay informed.
+
 ## Hack Sessions :video_game:
 
 You can [organize your own hack session](HackSessionHowTo.md) anytime.
