@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [09-03-2017 #19 - TOR] (https://github.com/devstaff-crete/meetup20-TOR)
 * [09-02-2017 #19 - CMS] (https://github.com/devstaff-crete/meetup19-CMS)
 * [12-01-2017 #18 - Lightning Talks] (https://github.com/devstaff-crete/meetup18-lightningTalks)
 * [08-12-2016 #17 - Working at (extremely) large scale] (https://github.com/devstaff-crete/meetup17-largescale)
