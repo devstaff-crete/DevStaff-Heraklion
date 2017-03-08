@@ -36,3 +36,38 @@ Skills
 - Experience with mobile development is a plus
 
 Sent your CV at cv@surpricecars.com
+
+## iOS Developer at Nexmo - The Vonage API Platform - https://www.nexmo.com/
+Now a Vonage Company, Nexmo is the emerging leader in the $100B+ cloud communications platform (CPaaS) market. Customers like Airbnb, Viber, WhatsApp, Snapchat, and many others depend on our APIs and SDKs to connect with their customers all over the world.
+
+As businesses continue to shift to a real-time, customer-centric communications model, we are experiencing a time of explosive growth. We have the need for an iOS Developer with strong support and leadership skills to come work with our team in our London office.
+
+Responsibilities include:
+
+* Work with the mobile SDK (Swift) version of the Nexmo API
+* Work closely with the QA team to ensure quality code
+* Work closely with Android and Javascript developers to ensure consistency across platforms
+
+Minimum Requirements:
+
+* Masters / Bachelors degree in Computer Science, Physics, or equivalent experience
+* 3+ years of software iOS development experience
+* 1+ years of experience using Swift
+* iOS Development: Deep understanding of iOS activity life cycle and iOS framework
+* Firm understanding on how to interact with REST APIs
+* Experience with database persistence (CoreData or other frameworks)
+* Flexible with the ability to adapt working style to meet objectives with the ability and willingness to work in a global, fast-paced environment
+* Experience writing unit tests
+* Experience with git
+* Excellent debugging skills
+* Excellent communication (good written and spoken English) and analytical skills
+
+Preferred Qualifications:
+
+* Experience in building Mobile SDK is a plus
+* Experience with websockets a plus
+* Experience with WebRTC a plus
+* Experience or interest in Android or Javascript a plus
+
+Please find the full description of the job opening following the link bellow:
+https://nexmo.bamboohr.co.uk/jobs/view.php?id=201
