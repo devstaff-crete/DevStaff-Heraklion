@@ -12,7 +12,7 @@ However we require familiarity with Javascript, HTML, CSS, basic knowledge of PH
 
 We need people with ability to learn new technologies and eager to participate in innovative projects.
 
-Please sent your CV  at e.dagalaki@anixa.gr or contact us for more details.
+Please sent your CV  at s.vrentzos@anixa.gr or contact us for more details.
 
 ## Senior Front End Developer at Papaki (https://www.papaki.gr)
 * PubDate: 02/02/2017
