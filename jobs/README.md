@@ -17,7 +17,7 @@ Please sent your CV  at s.vrentzos@anixa.gr or contact us for more details.
 ## Senior Front End Developer at Papaki (https://www.papaki.gr)
 * PubDate: 02/02/2017
 * More info at: https://www.papaki.gr/career.htm?locale=el-GR#frontend-dev
-
+ 
 ## iOS Developer at Nexmo - The Vonage API Platform - https://www.nexmo.com/
 Now a Vonage Company, Nexmo is the emerging leader in the $100B+ cloud communications platform (CPaaS) market. Customers like Airbnb, Viber, WhatsApp, Snapchat, and many others depend on our APIs and SDKs to connect with their customers all over the world.
 
