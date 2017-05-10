@@ -4,6 +4,15 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+
+## Software Engineer at Cytech Mobile (https://cytechmobile.com)
+Come work for a team that works on high-performance telecoms infrastructure systems.
+We value technical expertise, kindness and a sense of humour.
+
+* PubDate: 09/05/2017
+* More info at: https://cytech.workable.com
+
+
 ## Junior Javascript Developer (3 available positions)
 We are seeking for Javascript Developers to join our dev team here in Crete in the field of HbbTV applications. (See information for HbbTV Standard in https://www.hbbtv.org/ )
 
