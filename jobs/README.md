@@ -9,11 +9,13 @@ __Be advised that Job Openings older than 3 months will be removed for the sake 
 Come work for a team that works on high-performance telecoms infrastructure systems.
 We value technical expertise, kindness and a sense of humour.
 
-* PubDate: 09/05/2017
+* PubDate: 2017-05-09
 * More info at: https://cytech.workable.com
 
 
 ## Junior Javascript Developer (3 available positions)
+* PubDate: 2017-03-08
+
 We are seeking for Javascript Developers to join our dev team here in Crete in the field of HbbTV applications. (See information for HbbTV Standard in https://www.hbbtv.org/ )
 
 Previous work experience in this field is not necessary. New team members will be trained on the HbbTV Standard.
@@ -24,10 +26,12 @@ We need people with ability to learn new technologies and eager to participate i
 Please sent your CV  at s.vrentzos@anixa.gr or contact us for more details.
 
 ## Senior Front End Developer at Papaki (https://www.papaki.gr)
-* PubDate: 02/02/2017
+* PubDate: 2017-02-02
 * More info at: https://www.papaki.gr/career.htm?locale=el-GR#frontend-dev
  
 ## iOS Developer at Nexmo - The Vonage API Platform - https://www.nexmo.com/
+* PubDate: 2017-03-08
+
 Now a Vonage Company, Nexmo is the emerging leader in the $100B+ cloud communications platform (CPaaS) market. Customers like Airbnb, Viber, WhatsApp, Snapchat, and many others depend on our APIs and SDKs to connect with their customers all over the world.
 
 As businesses continue to shift to a real-time, customer-centric communications model, we are experiencing a time of explosive growth. We have the need for an iOS Developer with strong support and leadership skills to come work with our team in our London office.
