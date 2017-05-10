@@ -24,7 +24,3 @@ However we require familiarity with Javascript, HTML, CSS, basic knowledge of PH
 We need people with ability to learn new technologies and eager to participate in innovative projects.
 
 Please sent your CV  at s.vrentzos@anixa.gr or contact us for more details.
-
-## Senior Front End Developer at Papaki (https://www.papaki.gr)
-* PubDate: 2017-02-02
-* More info at: https://www.papaki.gr/career.htm?locale=el-GR#frontend-dev
