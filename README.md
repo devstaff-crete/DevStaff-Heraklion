@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [11-05-2017 #22 - Agile Software Development](https://github.com/devstaff-crete/meetup22-AgileSoftwareDevelopment)
 * [06-04-2017 #21 - Remote Working](https://github.com/devstaff-crete/meetup21-RemoteWorking)
 * [09-03-2017 #20 - TOR](https://github.com/devstaff-crete/meetup20-TOR)
 * [09-02-2017 #19 - CMS](https://github.com/devstaff-crete/meetup19-CMS)
