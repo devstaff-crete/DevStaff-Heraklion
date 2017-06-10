@@ -1,7 +1,7 @@
 # Code of Conduct
 Every community has some rules - below you will find our take on what we expect from our members. The Code of Conduct is an open and living document. Please feel free to open a Pull Request if you feel some changes should be made. 
 
-**DevStaff** is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from our meetups at the discretion of the organizers. 
+**DevStaff** is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or expelled from our meetups at the discretion of the organizers. 
 
 ## Guidelines
 Please be careful in the words and phrases that you choose when communicating with others. Be kind to others. Do not insult or put down others. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. If you think your conversation is making another community member uncomfortable, try to make amends and move forward. Avoid using colloquialisms or words and phrases that may have subjective connotations, especially for non-native speakers.
