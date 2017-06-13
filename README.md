@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [06-07-2017 #24 - Contrib­uting & Maintaining Open Source Software](https://github.com/devstaff-crete/meetup24-CMOSS)
 * [08-06-2017 #23 - Types of Hosting](https://github.com/devstaff-crete/meetup23-TypesOfHosting)
 * [11-05-2017 #22 - Agile Software Development](https://github.com/devstaff-crete/meetup22-AgileSoftwareDevelopment)
 * [06-04-2017 #21 - Remote Working](https://github.com/devstaff-crete/meetup21-RemoteWorking)
