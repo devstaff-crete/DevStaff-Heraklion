@@ -1,0 +1,41 @@
+= Getting Started With Bitcoin
+:toc:
+
+No doubt you've heard about https://en.wikipedia.org/wiki/Bitcoin[Bitcoin] by now, the most famous cryptocurrency and 
+system for digital payments. 
+
+There are plenty of things to get you excited about Bitcoin: 
+* no bank transfer fees, 
+* free peer-to-peer payments, 
+* the power of a decentralized network,
+* ... and the list goes on...
+
+One of the things that will not excite you is the road to its adoption. There seem to be almost too many options, 
+involving a lot of dubious ones, so you are not too wrong in feeling reserved about jumping on board. 
+
+*But you should!* 
+
+We're putting together this guide to help everyone who wants to get involved get started just a little bit easier! 
+
+== What do I need to start using Bitcoin?
+
+First of all, a wallet. 
+
+For an online wallet, consider https://blockchain.info/ . 
+
+For a local offline wallet, consider https://electrum.org/
+
+== Where do I get Bitcoins?
+
+In the old days, you would mine for your own bitcoins. 
+
+These days, you can buy bitcoins in online exchanges (take a look at https://www.coinbase.com[Coinbase], as one of the most "user friendly" - 
+but not perfect) and you can even find special bitcoin ATMs. 
+
+== How do I spend Bitcoins?
+
+First of all, you can give bitcoins to anyone else who has a wallet. This means that if you can get your friends 
+to start using bitcoin, you can already start exchanging digital money between you with nobody ever interfering in your 
+transaction!
+
+You can also spend your bitcoins online on any website that accepts them! 
