@@ -4,6 +4,12 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Web-app Developer at [MXM research group](mensxmachina.org)
+The MensXMachina (MXM) research Group of the Computer Science Department of the University of Crete invites outstanding web developers to express their interest for a contractual position in the design and development of scientific Web Applications.
+
+* PubDate: 24/09/2017
+* More info at: http://mensxmachina.org/en/2017/08/22/open-positions-available-calls-for-expression-of-interest/
+
 ## Software Engineer at Cytech Mobile (https://cytechmobile.com)
 Come work for a team that works on high-performance telecoms infrastructure systems.
 We value technical expertise, kindness and a sense of humour.
