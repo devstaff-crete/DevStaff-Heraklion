@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [14-09-2017 #26 - Bitcoin, Blockchain and the future:](https://github.com/devstaff-crete/meetup26-BitcoinBlockchainETC)
 * [28-08-2017 #25 - 2nd Birthday BBQ](https://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/242708129/)
 * [06-07-2017 #24 - Contrib­uting & Maintaining Open Source Software](https://github.com/devstaff-crete/meetup24-CMOSS)
 * [08-06-2017 #23 - Types of Hosting](https://github.com/devstaff-crete/meetup23-TypesOfHosting)
