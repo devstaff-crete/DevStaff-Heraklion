@@ -9,23 +9,3 @@ The MensXMachina (MXM) research Group of the Computer Science Department of the 
 
 * PubDate: 24/08/2017
 * More info at: http://mensxmachina.org/en/2017/08/22/open-positions-available-calls-for-expression-of-interest/
-
-## Software Engineer at Cytech Mobile (https://cytechmobile.com)
-Come work for a team that works on high-performance telecoms infrastructure systems.
-We value technical expertise, kindness and a sense of humour.
-
-* PubDate: 2017-05-09
-* More info at: https://cytech.workable.com
-
-
-## Junior Javascript Developer (3 available positions)
-* PubDate: 2017-03-08
-
-We are seeking for Javascript Developers to join our dev team here in Crete in the field of HbbTV applications. (See information for HbbTV Standard in https://www.hbbtv.org/ )
-
-Previous work experience in this field is not necessary. New team members will be trained on the HbbTV Standard.
-However we require familiarity with Javascript, HTML, CSS, basic knowledge of PHP, MySQL and familiarity in Linux/Ubuntu environments.
-
-We need people with ability to learn new technologies and eager to participate in innovative projects.
-
-Please sent your CV  at s.vrentzos@anixa.gr or contact us for more details.
