@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## DevOps Support Engineer at [Pressidium](https://pressidium.com)
+
+Pressidium is looking for DevOps & WordPress Support Engineer who is customer service focused, knows their way around WordPress and Linux very well and loves providing solutions for customers.
+
+* PubDate: 08/11/2017
+* More info at: https://pressidium.com/careers/devops-support-engineer/
+
 ## PHP Developer for a startup
 Startup is looking for Web developer with the right attitude and technical skills.
 We need: PHP
