@@ -14,6 +14,9 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [11-01-2018 #30 - Javascript - Node.js / React / Angular / etc.](https://github.com/devstaff-crete/DevStaff-Heraklion)
+* [14-12-2017 #29 - Continuous Integration / Unit Testing](https://github.com/devstaff-crete/DevStaff-Heraklion)
+* [09-11-2017 #28 - Microservices](https://github.com/devstaff-crete/meetup28-Microservices)
 * [12-10-2017 #27 - Lightning Talks](https://github.com/devstaff-crete/meetup27-LightningTalks)
 * [14-09-2017 #26 - Bitcoin, Blockchain and the future:](https://github.com/devstaff-crete/meetup26-BitcoinBlockchainETC)
 * [28-08-2017 #25 - 2nd Birthday BBQ](https://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/242708129/)
