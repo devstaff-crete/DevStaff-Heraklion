@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Engineer at [Cytech](https://www.cytechmobile.com)
+
+Cytech is looking for a Software Engineer to work on high-performance telecoms infrastructure systems, built in Java. 
+
+* PubDate: 19/12/2017
+* More info at: https://cytech.workable.com/jobs/627226
+
 ## Support Technician at [Papaki](https://www.papaki.com)
 
 Papaki is looking for a dedicated and motivated candidate, who seeks a career in customer service and technical support. This person will join Papaki’s Support Team in-house or remotely, in order to further strengthen the quality of support we offer to our customers.
