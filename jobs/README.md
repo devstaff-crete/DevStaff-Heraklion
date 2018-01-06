@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Senior ERP / CRM Consultant για την Καρβελάς Α.Ε.
+
+H εταιρία ηλεκτρικών ειδών Καρβελάς Α.Ε. αναζητα Senior ERP / CRM Consultant πλήρους απασχόλησης. 
+
+* PubDate: 05/01/2018
+* Περισσότερες πληροφορίες στο: https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/jobs/ΚarvelasConsultant.md
+
 ## Software Engineer at [Cytech](https://www.cytechmobile.com)
 
 Cytech is looking for a Software Engineer to work on high-performance telecoms infrastructure systems, built in Java. 
