@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [11-01-2018 #30 - Javascript - Node.js / React / Angular / etc.](https://github.com/devstaff-crete/meetup30-Javascript)
 * [14-12-2017 #29 - Continuous Integration / Unit Testing](https://github.com/devstaff-crete/meetup29-CI)
 * [09-11-2017 #28 - Microservices](https://github.com/devstaff-crete/meetup28-Microservices)
 * [12-10-2017 #27 - Lightning Talks](https://github.com/devstaff-crete/meetup27-LightningTalks)
