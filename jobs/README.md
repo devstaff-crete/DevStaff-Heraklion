@@ -4,6 +4,12 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Hypervisor system engineer at [OnApp](https://onapp.com/)
+
+The OnApp emerging technologies team, based in Greece, is looking for two applicants for the position of system engineer.
+
+* PubDate: 09/01/2018
+* More information, visit: https://onapp.bamboohr.co.uk/jobs/view.php?id=57
 ## Senior ERP / CRM Consultant για την Καρβελάς Α.Ε.
 
 H εταιρία ηλεκτρικών ειδών Καρβελάς Α.Ε. αναζητα Senior ERP / CRM Consultant πλήρους απασχόλησης. 
