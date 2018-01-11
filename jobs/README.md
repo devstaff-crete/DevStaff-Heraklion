@@ -4,22 +4,37 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Web designer / Frontend Dev at [Webtrails](https://webtrails.gr/careers)
+
+We are looking for a frontend developer with passion for exceptional design and attention to detail. If love to work on designs and you often find yourself thinking it’s better to increase the font size from 15px to 16px, use col-md-3 rather col-md-4 and #ffff30 instead of #ffff3f, then you are the person we are looking for!
+
+* PubDate: 11/01/2018
+* More information: https://webtrails.gr/jobs/web-designer-frontend-dev/
+
+## Junior Frontend Developer at [Webtrails](https://webtrails.gr/careers)
+
+We are looking for a junior developer with passion for frontend technologies. If you want to begin your dev career in a challenging environment with international projects and partners, then you are the person we are looking for!
+
+* PubDate: 11/01/2018
+* More information: https://webtrails.gr/jobs/junior-frontend-developer/
+
 ## Hypervisor system engineer at [OnApp](https://onapp.com/)
 
 The OnApp emerging technologies team, based in Greece, is looking for two applicants for the position of system engineer.
 
 * PubDate: 09/01/2018
 * More information, visit: https://onapp.bamboohr.co.uk/jobs/view.php?id=57
+
 ## Senior ERP / CRM Consultant για την Καρβελάς Α.Ε.
 
-H εταιρία ηλεκτρικών ειδών Καρβελάς Α.Ε. αναζητα Senior ERP / CRM Consultant πλήρους απασχόλησης. 
+H εταιρία ηλεκτρικών ειδών Καρβελάς Α.Ε. αναζητα Senior ERP / CRM Consultant πλήρους απασχόλησης.
 
 * PubDate: 05/01/2018
 * Περισσότερες πληροφορίες στο: https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/jobs/ΚarvelasConsultant.md
 
 ## Software Engineer at [Cytech](https://www.cytechmobile.com)
 
-Cytech is looking for a Software Engineer to work on high-performance telecoms infrastructure systems, built in Java. 
+Cytech is looking for a Software Engineer to work on high-performance telecoms infrastructure systems, built in Java.
 
 * PubDate: 19/12/2017
 * More info at: https://cytech.workable.com/jobs/627226
@@ -51,6 +66,3 @@ Pressidium is looking for a DevOps & WordPress Support Engineer who is customer 
 
 * PubDate: 08/11/2017
 * More info at: https://pressidium.com/careers/devops-support-engineer/
-
-
-
