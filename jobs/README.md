@@ -4,12 +4,12 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
-## React.js / React Native Developer [iWorx](https://www.iworx.gr "iWorx @Github")
+## React.js / React Native Developer [iWorx](https://www.iworx.gr)
 
 We are looking for a great JavaScript developer who is proficient with React.js / React Native. Your primary focus will be on developing user interface components and implementing them, following well-known React.js workflows (such as Redux).
 
 * PubDate: 12/01/2018
-* More info [here](https://github.com/iworx-greece/jobs) or call us: +302810336880
+* More info [here](https://github.com/iworx-greece/jobs "iWorx @Github") or call us: +302810336880
 
 ## Web Developer [iWorx](https://www.iworx.gr)
 
