@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Engineer position in R&D project [ICS-FORTH](http://www.ics.forth.gr/jobs/en/)
+
+We are looking for a Software Engineer with very good knowledge and experience in programming, and interest in the area of computer networks. The position is within the INSPIRE research group (www.inspire.edu.gr) at the Institute of Computer Science of the Foundation for Research and Technology - Hellas (FORTH) with responsibilities on a recently funded network security project, as well as potentially other existing or new R&D projects. Previous experience with research is a plus.
+
+* PubDate: 25/01/2018
+* More info: [here](http://www.ics.forth.gr/job_opportunities/1153_EN_JobAnnouncement_ICS_1153-F.pdf)
+
 ## React.js / React Native Developer [iWorx](https://www.iworx.gr)
 
 We are looking for a great JavaScript developer who is proficient with React.js / React Native. Your primary focus will be on developing user interface components and implementing them, following well-known React.js workflows (such as Redux).
