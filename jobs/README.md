@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Front-end developer at [Ortec for Communications](https://www.orteccommunications.com)
+
+Looking for the next challenge in your career? We are hiring! We are currently seeking a full time mobile developer to join our team in Heraklion. Come and talk to us for an exciting opportunity at ORTEC For Communications.
+
+* PubDate: 02/02/2018
+* More info: https://www.orteccommunications.com/software-development/
+
 ## Software Engineer position in R&D project [ICS-FORTH](http://www.ics.forth.gr/jobs/en/)
 
 We are looking for a Software Engineer with very good knowledge and experience in programming, and interest in the area of computer networks. The position is within the INSPIRE research group (www.inspire.edu.gr) at the Institute of Computer Science of the Foundation for Research and Technology - Hellas (FORTH) with responsibilities on a recently funded network security project, as well as potentially other existing or new R&D projects. Previous experience with research is a plus.
