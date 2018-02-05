@@ -4,6 +4,38 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+##Devops Engineer / Java developer (Heraklion, Greece) at [NetMechanics](https://www.netmechanics.gr)
+
+Required expertise 
+	Web app development with Java (JSP, Servlets) -
+	Unit testing and profiling Java web apps
+	Experience with linux server administration
+	Server scripting (bash, Python or equivalent)
+	Experience with Maven, Ant or Gradle 
+Preferred skills
+	Experience administering HTTP servers (Apache or Nginx), database servers (MySQL or PostgreSQL) and Java servers (JBoss, Wildfly or Tomcat)
+	Virtualization and VM administration experience (Azure, AWS or equivalent) 
+	Experience working with cloud infrastructure 
+	Bachelor's Degree in Computer Science or equivalent knowledge 
+
+	Apply at: https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406 
+
+## Back end Java developer (Heraklion, Greece) at [NetMechanics](https://www.netmechanics.gr)
+Required expertise 
+	Web app development with Java (JSP, Servlets)
+	ORM frameworks (JPA, Hibernate or equivalent)
+	GWT or Vaadin
+	Knowledge of HTML5, Javascript, CSS 3.0
+
+Preferred skills
+	Java web/MVC frameworks (VRaptor, Spring, Struts or equivalent)
+	Experience with Maven, Ant or Gradle
+	Software engineering / design patterns
+	Confident Linux usage skills
+	Bachelor's Degree in Computer Science or equivalent knowledge
+
+	Apply at: https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406
+
 ## Front-end developer at [Ortec for Communications](https://www.orteccommunications.com)
 
 Looking for the next challenge in your career? We are hiring! We are currently seeking a full time mobile developer to join our team in Heraklion. Come and talk to us for an exciting opportunity at ORTEC For Communications.
