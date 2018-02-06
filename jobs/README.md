@@ -4,7 +4,17 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
-##Devops Engineer / Java developer (Heraklion, Greece) at [NetMechanics](https://www.netmechanics.gr)
+## Experienced System Administrator at [Phaistos Networks](http://www.phaistosnetworks.gr)
+
+We are looking for a full time system administrator to join our team of jedis in STEP-C, Heraklion.
+
+* PubDate: 06/02/2018
+* More Info [here](https://phaistosnetworks.workable.com/j/86F68936B6)
+
+
+## Devops Engineer / Java developer (Heraklion, Greece) at [NetMechanics](https://www.netmechanics.gr)
+
+* PubDate: 05/02/2018
 
 Required expertise 
 	Web app development with Java (JSP, Servlets) -
@@ -21,6 +31,9 @@ Preferred skills
 	Apply at: https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406 
 
 ## Back end Java developer (Heraklion, Greece) at [NetMechanics](https://www.netmechanics.gr)
+
+* PubDate: 05/02/2018
+
 Required expertise 
 	Web app development with Java (JSP, Servlets)
 	ORM frameworks (JPA, Hibernate or equivalent)
