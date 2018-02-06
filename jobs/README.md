@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Experienced System Administrator at [Phaistos Networks](http://www.phaistosnetworks.gr)
+
+We are looking for a full time system administrator to join our team of jedis in STEP-C, Heraklion.
+
+* PubDate: 06/02/2018
+* More Info [here](https://phaistosnetworks.workable.com/j/86F68936B6)
+
 ## Front-end developer at [Ortec for Communications](https://www.orteccommunications.com)
 
 Looking for the next challenge in your career? We are hiring! We are currently seeking a full time mobile developer to join our team in Heraklion. Come and talk to us for an exciting opportunity at ORTEC For Communications.
