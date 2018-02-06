@@ -4,6 +4,15 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Multiple openings at [Memory](https://memory.ai/en/)
+
+How smart can artificial intelligence make us?
+Memory consists of 21 people and we're on the hunt for 20 new colleagues to help answer that question.
+Openings for Machine Learning, Backend, Frontend, and Android Engineers
+
+* PubDate: 06/02/2018
+* More Info https://memory.ai/en/
+
 ## Experienced System Administrator at [Phaistos Networks](http://www.phaistosnetworks.gr)
 
 We are looking for a full time system administrator to join our team of jedis in STEP-C, Heraklion.
