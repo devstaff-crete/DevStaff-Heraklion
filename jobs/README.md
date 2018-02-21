@@ -72,24 +72,6 @@ We are looking for a Software Engineer with very good knowledge and experience i
 * PubDate: 25/01/2018
 * More info: [here](http://www.ics.forth.gr/job_opportunities/1153_EN_JobAnnouncement_ICS_1153-F.pdf)
 
-## React.js / React Native Developer [iWorx](https://www.iworx.gr)
-
-We are looking for a great JavaScript developer who is proficient with React.js / React Native. Your primary focus will be on developing user interface components and implementing them, following well-known React.js workflows (such as Redux).
-
-* PubDate: 12/01/2018
-* More info [here](https://github.com/iworx-greece/jobs "iWorx @Github") or call us: +302810336880
-
-## Web Developer [iWorx](https://www.iworx.gr)
-
-We are looking for a Web Developer with the following skillset: 
-HTML, CSS, JS (ES6), PHP (+ Laravel), MySQL, Git.
-
-Knowledge in React.js/Native & PWA will be a plus.
-
-* PubDate: 12/01/2018
-* More info [here](https://github.com/iworx-greece/jobs "iWorx @Github") or call us: +302810336880
-
-
 ## Web designer / Frontend Dev at [Webtrails](https://webtrails.gr/careers)
 
 We are looking for a frontend developer with passion for exceptional design and attention to detail. If love to work on designs and you often find yourself thinking it’s better to increase the font size from 15px to 16px, use col-md-3 rather col-md-4 and #ffff30 instead of #ffff3f, then you are the person we are looking for!
