@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Web Designer at Avra Tours
+
+We are looking for a graphics designer with a background in web design. Good skills in photoshop are required, along with a talent for attractive and user intuitive design for the web and mobile devices. Some knowledge of HTML 5, CSS 3 and Javascript will also help boost your application.
+
+If you are interested, please get in touch with me on the DevStaff slack channel @asholdsworth
+
+* PubDate: 12/03/2018
+
 ## Multiple openings at [Memory](https://memory.ai/en/)
 
 How smart can artificial intelligence make us?
