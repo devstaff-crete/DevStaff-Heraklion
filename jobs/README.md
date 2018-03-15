@@ -4,6 +4,18 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Front-end developer at [NetMechanics](https://www.netmechanics.gr)
+
+Experience with JavaScript, HTML, CSS, RWD, Bootstrap, Photoshop.
+
+Attention to detail
+
+1+ years experience. CV & portfolio at hr@netmechanics.gr
+
+* PubDate: 15/03/2018
+
+*	Apply at: [netmechanics](https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406)
+
 ## Web Designer at Avra Tours
 
 We are looking for a graphics designer with a background in web design. Good skills in photoshop are required, along with a talent for attractive and user intuitive design for the web and mobile devices. Some knowledge of HTML 5, CSS 3 and Javascript will also help boost your application.
@@ -33,25 +45,25 @@ We are looking for a full time system administrator to join our team of jedis in
 
 * PubDate: 05/02/2018
 
-Required expertise 
+Required expertise
 	Web app development with Java (JSP, Servlets) -
 	Unit testing and profiling Java web apps
 	Experience with linux server administration
 	Server scripting (bash, Python or equivalent)
-	Experience with Maven, Ant or Gradle 
+	Experience with Maven, Ant or Gradle
 Preferred skills
 	Experience administering HTTP servers (Apache or Nginx), database servers (MySQL or PostgreSQL) and Java servers (JBoss, Wildfly or Tomcat)
-	Virtualization and VM administration experience (Azure, AWS or equivalent) 
-	Experience working with cloud infrastructure 
-	Bachelor's Degree in Computer Science or equivalent knowledge 
+	Virtualization and VM administration experience (Azure, AWS or equivalent)
+	Experience working with cloud infrastructure
+	Bachelor's Degree in Computer Science or equivalent knowledge
 
-	Apply at: https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406 
+*	Apply at: [netmechanics](https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406)
 
 ## Back end Java developer (Heraklion, Greece) at [NetMechanics](https://www.netmechanics.gr)
 
 * PubDate: 05/02/2018
 
-Required expertise 
+Required expertise
 	Web app development with Java (JSP, Servlets)
 	ORM frameworks (JPA, Hibernate or equivalent)
 	GWT or Vaadin
@@ -64,7 +76,7 @@ Preferred skills
 	Confident Linux usage skills
 	Bachelor's Degree in Computer Science or equivalent knowledge
 
-	Apply at: https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406
+*	Apply at: [netmechanics](https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406)
 
 ## Front-end developer at [Ortec for Communications](https://www.orteccommunications.com)
 
