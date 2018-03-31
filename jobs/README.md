@@ -4,6 +4,15 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Web Developer
+
+We are looking for a full stack web developer with knowledge of modern php frameworks (Symfony/laravel) and strong front-end skills using js frameworks (angular, react). The appropriate candidate will work remotely and full time on an ongoing project for at least three months.
+
+For more information, please get in touch with me on the DevStaff slack channel @mzampetakis or through email at [mzampetakis [at] gmail.com](mailto:mzampetakis@gmail.com)
+
+* PubDate: 30/03/2018
+* Apply at: [asklipios-diagnosis](https://diagnosis.asklipios-diagnosis.gr/el/career/1)
+
 ## Front-end developer at [NetMechanics](https://www.netmechanics.gr)
 
 Experience with JavaScript, HTML, CSS, RWD, Bootstrap, Photoshop.
