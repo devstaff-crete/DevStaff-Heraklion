@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [12-04-2018 #33 - Machine Learning.](https://github.com/devstaff-crete/meetup33-MachineLearning)
 * [08-03-2018 #32 - From Coder to Manager.](https://github.com/devstaff-crete/meetup32-FromCoderToManager)
 * [15-02-2018 #31 - Functional Programming.](https://github.com/devstaff-crete/meetup31-FunctionalProgramming)
 * [11-01-2018 #30 - Javascript - Node.js / React / Angular / etc.](https://github.com/devstaff-crete/meetup30-Javascript)
