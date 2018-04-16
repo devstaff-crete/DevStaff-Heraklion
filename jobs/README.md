@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Solutions Architect @ Telestax 
+
+Heard about Remote Working? Well, Telestax has quite a bit to say on the subject, with its 3 founders living and working in 3 different continents... 
+Please read on to find out more about the job itself and ask @Yorgos on slack for more details  ; ) 
+
+* PubDate: 17/04/2018
+* Apply at: https://telestax.com/job/solution-consultant-europe/
+
 ## Software Engineer @ Venturilo
 
 * PubDate: 16/04/2018
