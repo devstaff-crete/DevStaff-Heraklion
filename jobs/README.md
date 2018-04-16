@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Engineer @ Venturilo
+
+* PubDate: 16/04/2018
+* Apply at: http://www.veturilo.io/work-for-us/
+
+## Backend or Frontend Engineers @ Yodeck
+
+* PubDate: 16/04/2018
+* Apply at: https://www.yodeck.com/careers/
+
 ## Web Developer
 
 We are looking for a full stack web developer with knowledge of modern php frameworks (Symfony/laravel) and strong front-end skills using js frameworks (angular, react). The appropriate candidate will work remotely and full time on an ongoing project for at least three months.
