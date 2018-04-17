@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Full-stack devoloper @ MensXMachina
+We are looking for a full-stack web developer with experience in PHP frameworks (Laravel), web technologies (Javascript, HTML, CSS) and REST API interfaces with at least 1 year of experience writing quality software. 
+
+Any experience in Cloud Technologies and/or systems administration will be considered a plus.
+
+* PubDate: 17/04/2018
+* Apply at: http://mensxmachina.org/en/2018/04/13/open-position-available-web-developer/
+
 ## Solutions Architect @ Telestax 
 
 Heard about Remote Working? Well, Telestax has quite a bit to say on the subject, with its 3 founders living and working in 3 different continents... 
