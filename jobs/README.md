@@ -37,7 +37,7 @@ We are looking for a full stack web developer with knowledge of modern php frame
 For more information, please get in touch with me on the DevStaff slack channel @mzampetakis or through email at [mzampetakis [at] gmail.com](mailto:mzampetakis@gmail.com)
 
 * PubDate: 30/03/2018
-* Apply at: [asklipios-diagnosis](https://diagnosis.asklipios-diagnosis.gr/el/career/1)
+* Apply at: [asklipios-diagnosis](https://asklipios-diagnosis.gr/el/career/1)
 
 ## Front-end developer at [NetMechanics](https://www.netmechanics.gr)
 
