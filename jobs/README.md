@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Java Software Engineer @ Cytech
+Come work for a team that works on high-performance telecoms infrastructure systems, built in Java.
+
+We write Clean Code, believe in Automated Testing & Continuous Integration, operate on a Continuous Delivery pipeline - striving towards 12-Factor applications - to support a range of international clients, around the world!
+
+* PubDate: 24/04/2018
+* Apply at: https://cytech.workable.com
+
 ## Full-stack devoloper @ MensXMachina
 We are looking for a full-stack web developer with experience in PHP frameworks (Laravel), web technologies (Javascript, HTML, CSS) and REST API interfaces with at least 1 year of experience writing quality software. 
 
