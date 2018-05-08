@@ -4,6 +4,15 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Web Developer - Remote @ improvIT
+
+We are looking for a mid-level Web Developer, experienced in frontend HTML/CSS/JS technologies (PHP/Node.js knowledge is a plus). The appropriate candidate will work remotely and as a member of a larger team, will be responsible for designing and maintaining web apps for enterprise scale use.
+
+For more information, please get in touch with me on the DevStaff Slack channel @Kouts or through email at [koutsaftakis [at] gmail.com](mailto:koutsaftakis@gmail.com)
+
+* PubDate: 08/05/2018
+* Apply at: [improvIT](http://www.improvit.com.cy/career/declare-interest.html)
+
 ## Java Software Engineer @ Cytech
 Come work for a team that works on high-performance telecoms infrastructure systems, built in Java.
 
