@@ -1,5 +1,5 @@
 # [![DevStaff home](images/logo.png)](http://www.devstaff.gr)
-## A developer Community Gathering in Crete
+## A Developer Community in Crete
 
 * **Don't know where to start?** Are you new to git and MeetUp? Here is a short intro about the tools we use: [StartHere!](StartHere.md)
 
