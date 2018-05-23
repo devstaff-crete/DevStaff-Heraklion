@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## System Administrator at [Phaistos Networks](https://www.phaistosnetworks.gr)
+
+We are looking for a full time system administrator to join our team of jedis in STEP-C, Heraklion.
+
+* PubDate: 23/05/2018
+* More Info [here](https://phaistosnetworks.gr/sysadmin)
+
 ## Web Developer - Remote @ improvIT
 
 We are looking for a mid-level Web Developer, experienced in frontend HTML/CSS/JS technologies (PHP/Node.js knowledge is a plus). The appropriate candidate will work remotely and as a member of a larger team, will be responsible for designing and maintaining web apps for enterprise scale use.
@@ -84,14 +91,6 @@ Openings for Machine Learning, Backend, Frontend, and Android Engineers
 
 * PubDate: 06/02/2018
 * More Info https://memory.ai/en/
-
-## Experienced System Administrator at [Phaistos Networks](http://www.phaistosnetworks.gr)
-
-We are looking for a full time system administrator to join our team of jedis in STEP-C, Heraklion.
-
-* PubDate: 06/02/2018
-* More Info [here](https://phaistosnetworks.workable.com/j/86F68936B6)
-
 
 ## Devops Engineer / Java developer (Heraklion, Greece) at [NetMechanics](https://www.netmechanics.gr)
 
