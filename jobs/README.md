@@ -11,15 +11,6 @@ We are looking for a full time system administrator to join our team of jedis in
 * PubDate: 23/05/2018
 * More Info [here](https://phaistosnetworks.gr/sysadmin)
 
-## Web Developer - Remote @ improvIT
-
-We are looking for a mid-level Web Developer, experienced in frontend HTML/CSS/JS technologies (PHP/Node.js knowledge is a plus). The appropriate candidate will work remotely and as a member of a larger team, will be responsible for designing and maintaining web apps for enterprise scale use.
-
-For more information, please get in touch with me on the DevStaff Slack channel @Kouts or through email at [koutsaftakis [at] gmail.com](mailto:koutsaftakis@gmail.com)
-
-* PubDate: 08/05/2018
-* Apply at: [improvIT](http://www.improvit.com.cy/career/declare-interest.html)
-
 ## Java Software Engineer @ Cytech
 Come work for a team that works on high-performance telecoms infrastructure systems, built in Java.
 
