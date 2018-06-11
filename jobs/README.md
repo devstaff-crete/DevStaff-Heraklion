@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Backend Junior Developers at Avra Tours
+
+We are looking for developers to join our team, who will be focusing mainly on integrating external systems with our current platform through web services. A willingness to learn and adapt are essential, as well as a solid grasp of object-oriented programming. Any previous experience with C#.NET or with web services (XML or JSON) would be an advantage.
+
+* PubDate: 11/06/2018
+* Please send applications to it-department@avra.travel
+
 ## System Administrator at [Phaistos Networks](https://www.phaistosnetworks.gr)
 
 We are looking for a full time system administrator to join our team of jedis in STEP-C, Heraklion.
@@ -63,16 +70,7 @@ Attention to detail
 1+ years experience. CV & portfolio at hr@netmechanics.gr
 
 * PubDate: 15/03/2018
-
-*	Apply at: [netmechanics](https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406)
-
-## Web Designer at Avra Tours
-
-We are looking for a graphics designer with a background in web design. Good skills in photoshop are required, along with a talent for attractive and user intuitive design for the web and mobile devices. Some knowledge of HTML 5, CSS 3 and Javascript will also help boost your application.
-
-If you are interested, please get in touch with me on the DevStaff slack channel @asholdsworth
-
-* PubDate: 12/03/2018
+* Apply at: [netmechanics](https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406)
 
 ## Multiple openings at [Memory](https://memory.ai/en/)
 
