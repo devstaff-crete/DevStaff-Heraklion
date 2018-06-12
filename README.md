@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [14-06-2018 #35 - IDEs: Super-charging your productivity!.](https://github.com/devstaff-crete/meetup35-IDEs)
 * [10-05-2018 #34 - GDPR.](https://github.com/devstaff-crete/meetup34-GDPR)
 * [12-04-2018 #33 - Machine Learning.](https://github.com/devstaff-crete/meetup33-MachineLearning)
 * [08-03-2018 #32 - From Coder to Manager.](https://github.com/devstaff-crete/meetup32-FromCoderToManager)
