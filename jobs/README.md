@@ -3,6 +3,16 @@
 In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push and create a pull request on github.
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
+## Java Software Engineer for IoT @ [European Dynamics](http://www.eurodyn.com)
+
+We are looking for Java Software Engineers that can join our Athens team. The project focuses on NILM algorithms and residential users, with a Spring Boot backend, MQTT brokers, NoSQL database and IoT devices.
+We love clean code, team spirit, pair programming and CI/CD.<br>
+`Stack:`<BR>
+`Java 8`,`Spring Boot`,`MySQL`,`InfluxDB`,`MQTT`,`Eclipse hawkBit`,`Angular6`,
+`Tools:`<BR>
+`Jenkins`,`Git`,`Docker`,`SonarCube`,`Upsource`
+* PubDate: 14/06/2018
+* Please Send applications [here](https://european-dynamics.workable.com/jobs/712647)
 
 ## Backend Junior Developers at Avra Tours
 
