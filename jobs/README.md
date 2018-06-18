@@ -3,6 +3,11 @@
 In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push and create a pull request on github.
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
+## C#/.NET Developer @ [Ecoworld SA – Greekferries Club](https://greekferries-club.gr)
+We are looking  for a full time Backend Developer to join our IT team.<BR>Previous experience with C#/.Net is required.
+* PubDate: 18/06/2018
+* Please send applications [here](https://greekferries-club.gr/company/work-places/)
+
 ## Java Software Engineer for IoT @ [European Dynamics](http://www.eurodyn.com)
 
 We are looking for Java Software Engineers that can join our Athens team. The project focuses on NILM algorithms and residential users, with a Spring Boot backend, MQTT brokers, NoSQL database and IoT devices.
