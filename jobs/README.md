@@ -3,6 +3,18 @@
 In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push and create a pull request on github.
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
+
+## [Channel VAS](http://www.channelvas.com) is hiring in Crete!
+
+Do you have what it takes to join Channel VAS, the global Fin Tech leader?
+Channel VAS lends more than $4.5 million USD to over 550 million people in 25 countries worldwide - and these numbers keep growing every day! 
+
+We are looking for a sharp and highly motivated Software Engineer with proficiency in the area of application software development to join our team in Crete. Are you results driven and highly motivated to meet project deadlines and take up technology challenges?
+
+* Apply [here](https://channelvas.workable.com/jobs/406438)
+
+* PubDate: 21/06/2018
+
 ## C#/.NET Developer @ [Ecoworld SA – Greekferries Club](https://greekferries-club.gr)
 We are looking  for a full time Backend Developer to join our IT team.<BR>Previous experience with C#/.Net is required.
 * PubDate: 18/06/2018
