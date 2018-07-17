@@ -4,6 +4,18 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## .NET Developer @ [European Dynamics](http://www.eurodyn.com)
+
+We are looking for .NET Developer with Powerbuilder knowledge to join our Heraklion team for a large international project. 
+
+Stack: 
+`C#`, `.NET`, `Windows Services`, `WCF Services`, `Entity Framework`, `SQL`, `XML/XSD` 
+
+Tools:
+`TFS`,`Powerbuilder`
+* PubDate: 17/07/2018
+* Apply [here](https://www.kariera.gr/intl/jobseeker/jobs/jobdetails.aspx?Job_DID=J330KR77WBP5W9R9CJK)
+
 ## [Channel VAS](http://www.channelvas.com) is hiring in Crete!
 
 Do you have what it takes to join Channel VAS, the global Fin Tech leader?
