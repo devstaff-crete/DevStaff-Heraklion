@@ -4,6 +4,29 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Junior & Senior C# Developers @ [Cyberlogic](http://www.cyberlogic.gr)
+
+Cyberlogic located in Heraklion Crete, is an innovative software company specializing in travel technology solutions. The ideal candidate will be responsible to develop modern applications using cutting edge technologies for travel industry customers worldwide.
+
+Required Skills:
+* Experience with C#/.NET
+* Experience T-SQL and relational database design
+* Excellent written and verbal Communication Skills
+* Excitement to learn new technologies
+* Understanding of version control systems
+* Understanding of the importance of maintainable code and coding standards
+* Excellent use of English language (verbal & written)
+
+Optional Skills:
+* Experience of developing and integrating API's
+* Experience with .NET Core
+* Experience with NoSQL Databases
+* Experience with Angular
+* Markup languages, including HTML5, CSS3
+
+All interested applicants should send their CV by email at: jobs@cyberlogic.gr
+
+
 ## .NET Developer @ [European Dynamics](http://www.eurodyn.com)
 
 We are looking for .NET Developer with Powerbuilder knowledge to join our Heraklion team for a large international project. 
