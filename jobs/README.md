@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Junior & Senior C# Developers @ [Cyberlogic](http://www.cyberlogic.gr)
+
+We are looking for .NET developers to join our team. The ideal candidate will be responsible to develop modern applications using cutting edge technologies for travel industry customers worldwide.
+
+* PubDate: 06/09/2018
+* Apply [here](https://www.cyberlogic.gr/en/careers/)
+
 ## .NET Developer @ [European Dynamics](http://www.eurodyn.com)
 
 We are looking for .NET Developer with Powerbuilder knowledge to join our Heraklion team for a large international project. 
