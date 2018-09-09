@@ -32,7 +32,7 @@ Harassment and other exclusionary behavior are not acceptable. This includes, bu
 * Repeated harassment of others. In general, if someone asks you to stop, then stop.
 * Any physical violence or intimidation, threatened or acted on, is a serious offense.
 
-##Areas of Application
+## Areas of Application
 Our code of conduct should apply to all means of communication used by devstaff members. Not wishing to limit the scope, but just to mention a few:
 
 * github.com (our repos)
