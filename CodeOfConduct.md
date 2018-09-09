@@ -37,7 +37,7 @@ Our code of conduct should apply to all means of communication used by devstaff 
 
 * github.com (our repos)
 * meetup.com (our meetup org platform)
-* devstaff.gr (our website website)
+* devstaff.gr (our website)
 * slack.com (our chat / collaboration platform)
 * (feel free to add more as required ...)
 
