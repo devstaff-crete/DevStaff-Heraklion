@@ -4,6 +4,20 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Research Project Assistant / Coordinator @ sunlight.io
+
+This is a fantastic opportunity for a passionate and experienced Research Project-focused person to join our well-funded, innovative technology venture. We offer a high-performance, Hyper-Converged Infrastructure cloud platform for on-premise or hosted infrastructures, enabling Enterprise-level companies to build optimized cloud solutions.
+
+* PubDate: 19/09/2018
+* Apply [here](https://sunlight-io.workable.com/j/A221C4A516)
+
+## Technical Integration & Support Engineer @ sunlight.io
+
+We are looking for a Technical Integration & Support Engineer to provide enterprise-level assistance to our customers. You will help our customers install our software on the machines at their site and help diagnose and troubleshoot software and hardware problems.
+
+* PubDate: 19/09/2018
+* Apply [here](https://sunlight-io.workable.com/j/5E64617231)
+
 ## Junior & Senior C# Developers @ [Cyberlogic](http://www.cyberlogic.gr)
 
 We are looking for .NET developers to join our team. The ideal candidate will be responsible to develop modern applications using cutting edge technologies for travel industry customers worldwide.
