@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Developer - Full-Stack Web Applications @ Gnosis Data Analysis 
+
+We are currently looking for a Software Developer with a strong background in Full-Stack Web Applications.
+
+Preferred skills Java web/MVC frameworks (Spring Boot or equivalent), Maven, Software engineering / design patterns.
+
+* PubDate: 20/09/2018
+* Apply at: [http://www.gnosisda.gr/2018/09/19/we-are-looking-for-a-new-software-developer-2/](http://www.gnosisda.gr/2018/09/19/we-are-looking-for-a-new-software-developer-2/)
+
+
 ## Research Project Assistant / Coordinator @ sunlight.io
 
 This is a fantastic opportunity for a passionate and experienced Research Project-focused person to join our well-funded, innovative technology venture. We offer a high-performance, Hyper-Converged Infrastructure cloud platform for on-premise or hosted infrastructures, enabling Enterprise-level companies to build optimized cloud solutions.
