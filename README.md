@@ -14,6 +14,7 @@
 
 The list of all MeetUps (to be) held by date:
 
+* [11-10-2018 #38 - Remote working: Hints, Tips, Advice, Pitfalls and Open Chat.](https://github.com/devstaff-crete/meetup38-RemoteWorking)
 * [13-09-2018 #37 - Back to School - Lightning Talks.](https://github.com/devstaff-crete/meetup37-LightningTalks)
 * [12-07-2018 #36 - Season Finale - Prototyping in VR.](https://github.com/devstaff-crete/meetup36-PrototypingInVR)
 * [14-06-2018 #35 - IDEs: Super-charging your productivity!.](https://github.com/devstaff-crete/meetup35-IDEs)
