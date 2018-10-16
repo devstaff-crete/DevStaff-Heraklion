@@ -5,6 +5,16 @@ In this section you can find some job openings listed by our community members. 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
 
+## Java / Kotlin Engineer @ [Logicea](http://logicea.com)
+If you are a passionate Java developer with 2-5 years working experience and
+you're looking for an exciting and challenging role in a dynamic environment, 
+then we would like to meet you. We also love Kotlin lately so consider
+writing some of it as part of the job!
+
+* PubDate: 16/10/2018
+* Apply at: [here](https://logicea.workable.com/j/34FB74BC13)
+
+
 ## DevOps / Integration Engineer @ sunlight.io
 
 We are looking for an Engineer able to take on the role of a DevOps Integration engineer.
