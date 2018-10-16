@@ -96,4 +96,4 @@ The community uses a few different chatrooms based on [Slack](https://devstaff.s
 
 ## Meetups Presence Statistics :hand:
 
-You can find [Presence Statistics](/statistics/presence.md) for some of the latest ΜeetUps.
+You can find [Presence Statistics](/statistics/README.md) for some of the latest ΜeetUps.
