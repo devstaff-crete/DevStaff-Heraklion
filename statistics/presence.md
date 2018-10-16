@@ -2,8 +2,6 @@
 
 Be advised that these statistics are approximations of the real participants!
 
-###* Date # RSVPs/Beginning/Middle/End
-
 | Date | # | RSVPs | Beginning | Middle | End |
 |------|---|------:|:---------:|:------:|:---:|
 | 11-10-2018 | 38 | 70 | 39 | 50 | 44 |
