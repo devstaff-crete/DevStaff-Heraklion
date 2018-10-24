@@ -11,6 +11,6 @@ Anyone can start a Hack Session! It's a good idea to have found at least one oth
 * 8 attendees/laptops is good limit to start. Above this limit, you need more advanced organisational level, more strict planning, create groups etc.
 * Keep it at least 3-4 hours long, or it may be unproductive.
 * At the first session we worked on 7 Digital Ocean VMs and we experienced no network issues.
-* Create a Gitter channel and add the participants! You need to share data quickly.
+* Create a Slack channel and add the participants! You need to share data quickly.
 * It helps (a lot) to have a whiteboard and a projector/large screen.
 * It helps (a lot) to everybody have done their homework (examples, tutorials etc). Prerequisites are important for the success of the session.
