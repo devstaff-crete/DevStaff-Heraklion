@@ -39,16 +39,3 @@ We are looking for .NET developers to join our team. The ideal candidate will be
 
 * PubDate: 06/09/2018
 * Apply [here](https://www.cyberlogic.gr/en/careers/)
-
-## .NET Developer @ [European Dynamics](http://www.eurodyn.com)
-
-We are looking for .NET Developer with Powerbuilder knowledge to join our Heraklion team for a large international project. 
-
-Stack: 
-`C#`, `.NET`, `Windows Services`, `WCF Services`, `Entity Framework`, `SQL`, `XML/XSD` 
-
-Tools:
-`TFS`,`Powerbuilder`
-* PubDate: 17/07/2018
-* Apply [here](https://www.kariera.gr/intl/jobseeker/jobs/jobdetails.aspx?Job_DID=J330KR77WBP5W9R9CJK)
-
