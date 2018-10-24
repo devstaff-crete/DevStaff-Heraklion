@@ -11,6 +11,7 @@ Enartia is looking for an in-house or remote ambitious junior software developer
 * PubDate: 24/10/2018
 * Link: https://enartia.workable.com/j/3CF3B86115
 
+
 ## Java / Kotlin Engineer @ [Logicea](http://logicea.com)
 If you are a passionate Java developer with 2-5 years working experience and
 you're looking for an exciting and challenging role in a dynamic environment, 
