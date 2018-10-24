@@ -3,6 +3,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a583b7764bab09a8ffc0/maintainability)](https://codeclimate.com/github/devstaff-crete/DevStaff-Heraklion/maintainability)
 
+
 * **Don't know where to start?** Are you new to git and MeetUp? Here is a short intro about the tools we use: [Start Here!](StartHere.md)
 
 * **You just want to join the group?** Great!
