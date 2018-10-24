@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Junior Software Developer @ Enartia
+
+Enartia is looking for an in-house or remote ambitious junior software developer! If you who are in the early stages of their career, to work on large scale software, and gain important practical experience. If you are looking to make your first steps in your career in a company, and work in the industry, this is a good opportunity. You can work either from our office in Heraklion, Crete, or remotely, and we’ll be pleased to welcome you to our family. As a junior developer you’ll be working on existing software, adding new features, as well as improving the code with various refactoring techniques where needed. You will be working on both front-end and back-end systems, with the ability to focus more on one of them after some time.
+
+* PubDate: 24/10/2018
+* Link: https://enartia.workable.com/j/3CF3B86115
+
 
 ## Java / Kotlin Engineer @ [Logicea](http://logicea.com)
 If you are a passionate Java developer with 2-5 years working experience and
