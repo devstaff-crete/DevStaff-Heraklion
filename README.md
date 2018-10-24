@@ -93,7 +93,7 @@ An org meetup is a simple get-together, **open to every member of our community*
 
 DevStaff is an open community. Open, as in Open Source. If you don't like anything about the community you can change it! 
 
-_Hint: Decisions are taken in Org Meetups ;) _
+_Hint: Decisions are made in Org Meetups ;)_
 
 ## Shared Documents :book:
 
