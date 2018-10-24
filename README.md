@@ -101,7 +101,7 @@ The [documents section](https://github.com/devstaff-crete/DevStaff-Heraklion/tre
 
 ## Chat Rooms :speech_balloon:
 
-The community uses a few different chatrooms based on [Slack](https://devstaff.slack.com/signup) for our online daily chat. You can find there the latest tech news, interesting articles, random pieces of information and a lot of heated discussions! Drop an email to [info@devstaff.gr](mailto:info@devstaff.gr?subject:Slack Invite), so we can send you an invite. Use one of them to contact us!
+The community uses a few different chatrooms based on [Slack](https://join.slack.com/t/devstaff/shared_invite/enQtNDYyNTI0NjUyMjczLTBmM2U4YzMxZDc3MmVkMWVkZTRkMmIwZTA0MzI3NDdjNDdkZTFiMTBjODA5OWZiZjhiMGQ2NWZhMzc2ZWNkYjY) for our online daily chat. You can find there the latest tech news, interesting articles, random pieces of information and a lot of heated discussions! Drop an email to [info@devstaff.gr](mailto:info@devstaff.gr?subject:Slack Invite), so we can send you an invite, or just click [here](https://join.slack.com/t/devstaff/shared_invite/enQtNDYyNTI0NjUyMjczLTBmM2U4YzMxZDc3MmVkMWVkZTRkMmIwZTA0MzI3NDdjNDdkZTFiMTBjODA5OWZiZjhiMGQ2NWZhMzc2ZWNkYjY).
 
 * [The Official DevStaff-Heraklion chatroom](https://devstaff.slack.com/messages/general/)
 * [Το Καφενείο](https://devstaff.slack.com/messages/random/)
