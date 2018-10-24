@@ -4,6 +4,12 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Senior Software Engineer @ Enartia (Papaki, Top.Host, ...)
+Enartia is seeking a full-time Senior Software Engineer who is self-motivated and passionate. If you love to solve problems and want to join a dynamic team within a growing company in-house or remotely, we will be pleased to welcome you to our family! The Senior Software Engineer will work on designing and implementing new and exciting projects across all our brands. We're looking for someone who has the knowledge and the experience to work on distributed systems, microservices, and be able to design horizontally scalable architectures that are secure and reliable, as well as guide our team of software developers in implementing them successfully.
+
+* PubDate: 24/10/2018
+* Link: https://enartia.workable.com/j/3634049149
+
 
 ## Java / Kotlin Engineer @ [Logicea](http://logicea.com)
 If you are a passionate Java developer with 2-5 years working experience and
