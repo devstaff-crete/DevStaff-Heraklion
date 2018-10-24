@@ -61,12 +61,15 @@ Subscribe to [our calendar](http://www.meetup.com/DevStaff-A-Developer-Community
 
 You can [organize your own hack session](HackSessionHowTo.md) anytime.
 
-The list of some example hack sessions held by date:
+The list of all Hack Sessions held by date:
 
-* [01/09/2016 Hashicorp Vault, AWS KMS, Chef/Ansible Vault, Consul](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/233637796/)
-* [missing info..please fill in if you have details]
-* [2015-12-01 Docker Hack Session](https://github.com/devstaff-crete/docker-hack-sessions)
-* [2016-01-12 Tor Hack Session](https://github.com/DaKnOb/TorConfig)
+| Date | Title & Link |
+|------|--------------|
+| 01/09/2016 | [Hashicorp Vault, AWS KMS, Chef/Ansible Vault, Consul](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/233637796/) |
+| 12/01/2016 | [Tor Hack Session](https://github.com/DaKnOb/TorConfig) |
+| 01/12/2015 | [Docker Hack Session](https://github.com/devstaff-crete/docker-hack-sessions) |
+
+More hack sessions have been organized, but they are missing from this list. If you know any, please help adding them by submitting a Pull Request.
 
 ## Projects :construction:
 
