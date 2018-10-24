@@ -10,7 +10,7 @@ Here's how:
 * Upvote the topic you like by using thumbs up ( :+1: ) 
 * For topics with a lot of votes, you can fork and open a new PR with a new line in the README.md including the date and topic of the meet up.
 * One of the maintainers will merge the PR once the topic & dates are finalized. Issue will be closed at that point.
-* You can find the vote counts for each topic at http://analytics.devstaff.gr/
+* You can find the vote counts for each topic at https://analytics.devstaff.gr/
 
 
 ## How to start a Hack Session
