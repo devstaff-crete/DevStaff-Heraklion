@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Developer @ Enartia
+Enartia is looking for an in-house or remote self-motivated and passionate full-time software developer! If these words describe you, we will be glad to welcome you in a team that works on new challenges and builds new software in an ever expanding group of companies.
+
+As a Software Developer, you will be working on both front-end and back-end software development at least in the beginning; after some time, you may be able to focus on one of the two fields. You will be developing projects based on microservices, and learn to focus on security and reliability during software development. You will also get to attend conferences, have access to courses, and receive training on technologies, frameworks, or in general interesting things related to your work (or not).
+
+* PubDate: 24/10/2018
+* Link: https://enartia.workable.com/j/83DDBBE044
 
 ## Java / Kotlin Engineer @ [Logicea](http://logicea.com)
 If you are a passionate Java developer with 2-5 years working experience and
