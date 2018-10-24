@@ -65,6 +65,7 @@ The list of all Hack Sessions held by date:
 
 | Date | Title & Link |
 |------|--------------|
+| 17/10/2018 | [How to develop a Distributed App on Ethereum](https://www.meetup.com/devstaff/events/255475024/)
 | 01/09/2016 | [Hashicorp Vault, AWS KMS, Chef/Ansible Vault, Consul](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/233637796/) |
 | 12/01/2016 | [Tor Hack Session](https://github.com/DaKnOb/TorConfig) |
 | 01/12/2015 | [Docker Hack Session](https://github.com/devstaff-crete/docker-hack-sessions) |
