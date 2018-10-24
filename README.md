@@ -12,48 +12,50 @@
 
 ## MeetUps :speaker:
 
-The list of all MeetUps (to be) held by date:
+The list of all MeetUps held by date:
 
-* [11-10-2018 #38 - Remote working: Hints, Tips, Advice, Pitfalls and Open Chat.](https://github.com/devstaff-crete/meetup38-RemoteWorking)
-* [13-09-2018 #37 - Back to School - Lightning Talks.](https://github.com/devstaff-crete/meetup37-LightningTalks)
-* [12-07-2018 #36 - Season Finale - Prototyping in VR.](https://github.com/devstaff-crete/meetup36-PrototypingInVR)
-* [14-06-2018 #35 - IDEs: Super-charging your productivity!.](https://github.com/devstaff-crete/meetup35-IDEs)
-* [10-05-2018 #34 - GDPR.](https://github.com/devstaff-crete/meetup34-GDPR)
-* [12-04-2018 #33 - Machine Learning.](https://github.com/devstaff-crete/meetup33-MachineLearning)
-* [08-03-2018 #32 - From Coder to Manager.](https://github.com/devstaff-crete/meetup32-FromCoderToManager)
-* [15-02-2018 #31 - Functional Programming.](https://github.com/devstaff-crete/meetup31-FunctionalProgramming)
-* [11-01-2018 #30 - Javascript - Node.js / React / Angular / etc.](https://github.com/devstaff-crete/meetup30-Javascript)
-* [14-12-2017 #29 - Continuous Integration / Unit Testing](https://github.com/devstaff-crete/meetup29-CI)
-* [09-11-2017 #28 - Microservices](https://github.com/devstaff-crete/meetup28-Microservices)
-* [12-10-2017 #27 - Lightning Talks](https://github.com/devstaff-crete/meetup27-LightningTalks)
-* [14-09-2017 #26 - Bitcoin, Blockchain and the future:](https://github.com/devstaff-crete/meetup26-BitcoinBlockchainETC)
-* [28-08-2017 #25 - 2nd Birthday BBQ](https://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/242708129/)
-* [06-07-2017 #24 - Contrib­uting & Maintaining Open Source Software](https://github.com/devstaff-crete/meetup24-CMOSS)
-* [08-06-2017 #23 - Types of Hosting](https://github.com/devstaff-crete/meetup23-TypesOfHosting)
-* [11-05-2017 #22 - Agile Software Development](https://github.com/devstaff-crete/meetup22-AgileSoftwareDevelopment)
-* [06-04-2017 #21 - Remote Working](https://github.com/devstaff-crete/meetup21-RemoteWorking)
-* [09-03-2017 #20 - TOR](https://github.com/devstaff-crete/meetup20-TOR)
-* [09-02-2017 #19 - CMS](https://github.com/devstaff-crete/meetup19-CMS)
-* [12-01-2017 #18 - Lightning Talks](https://github.com/devstaff-crete/meetup18-lightningTalks)
-* [08-12-2016 #17 - Working at (extremely) large scale](https://github.com/devstaff-crete/meetup17-largescale)
-* [10-11-2016 #16 - React.js - The hottest JS lib for building UIs](https://github.com/devstaff-crete/meetup16-ReactJs)
-* [13-10-2016 #15 - sass - Syntactically Awesome Style Sheets](https://github.com/devstaff-crete/meetup14-Sass)
-* [08-09-2016 #14 - Lightning talks](https://github.com/devstaff-crete/meetup13-LightningTalks-SoftwareballGame)
-* [14-07-2016 #13 - Password Management](https://github.com/devstaff-crete/meetup12-infosec)
-* [09-06-2016 #12 - NoSQL](https://github.com/devstaff-crete/meetup11-NoSQL)
-* [27-05-2016 #11 - Secrets of Concurrency](https://devstaff.gr)
-* [12-05-2016 #10 - Design Patterns](https://github.com/devstaff-crete/meetup10-DesignPatterns)
-* [14-04-2016 #09 - IoT - Internet of Things](https://github.com/devstaff-crete/meetup09-IoT)
-* [10-03-2016 #08 - Start-Ups, Spin-offs](https://github.com/devstaff-crete/meetup08-Startups)
-* [11-02-2016 #07 - Developing with security in mind](https://github.com/devstaff-crete/meetup07-Security)
-* [14-01-2016 #06 - Mobile Devevelopment](https://github.com/devstaff-crete/meetup06-MobileDev)
-* [10-12-2015 #05 - Unit Testing](https://github.com/devstaff-crete/meetup05-Testing)
-* [12-11-2015 #04 - Design for Developers](https://github.com/devstaff-crete/meetup04-Design)
-* [08-10-2015 #03 - DevOps: from concept to movement to implementation](https://github.com/devstaff-crete/meetup03-DevOps)
-* [10-09-2015 #02 - Node.js: Building a Restful API](https://github.com/devstaff-crete/meetup02-NodeJS)
-* [09-07-2015 #01 - The Git Version Control System](https://github.com/devstaff-crete/meetup01-Git)
+| #   | Date       | Title & Link |
+|-----|------------|--------------|
+| #38 | 11/10/2018 | [Remote working: Hints, Tips, Advice, Pitfalls and Open Chat](https://github.com/devstaff-crete/meetup38-RemoteWorking) |
+| #37 | 13/09/2018 | [Back to School - Lightning Talks](https://github.com/devstaff-crete/meetup37-LightningTalks) |
+| #36 | 12/07/2018 | [Season Finale - Prototyping in VR](https://github.com/devstaff-crete/meetup36-PrototypingInVR) |
+| #35 | 14/06/2018 | [IDEs: Super-charging your productivity!](https://github.com/devstaff-crete/meetup35-IDEs) |
+| #34 | 10/05/2018 | [GDPR](https://github.com/devstaff-crete/meetup34-GDPR) |
+| #33 | 12/04/2018 | [Machine Learning](https://github.com/devstaff-crete/meetup33-MachineLearning) |
+| #32 | 08/03/2018 | [From Coder to Manager](https://github.com/devstaff-crete/meetup32-FromCoderToManager) | 
+| #31 | 15/02/2018 | [Functional Programming](https://github.com/devstaff-crete/meetup31-FunctionalProgramming) |
+| #30 | 11/01/2018 | [Javascript - Node.js / React / Angular](https://github.com/devstaff-crete/meetup30-Javascript) |
+| #29 | 14/12/2017 | [Continuous Integration / Unit Testing](https://github.com/devstaff-crete/meetup29-CI) |
+| #28 | 09/11/2017 | [Microservices](https://github.com/devstaff-crete/meetup28-Microservices) |
+| #27 | 12/10/2017 | [Lightning Talks](https://github.com/devstaff-crete/meetup27-LightningTalks) |
+| #26 | 14/09/2017 | [Bitcoin, Blockchain and the future](https://github.com/devstaff-crete/meetup26-BitcoinBlockchainETC) | 
+| #25 | 28/08/2017 | [2nd Birthday BBQ](https://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/242708129/) |
+| #24 | 06/07/2017 | [Contributing & Maintaining Open Source Software](https://github.com/devstaff-crete/meetup24-CMOSS) |
+| #23 | 08/06/2017 | [Types of Hosting](https://github.com/devstaff-crete/meetup23-TypesOfHosting) |
+| #22 | 11/05/2017 | [Agile Software Development](https://github.com/devstaff-crete/meetup22-AgileSoftwareDevelopment) |
+| #21 | 06/04/2017 | [Remote Working](https://github.com/devstaff-crete/meetup21-RemoteWorking) |
+| #20 | 09/03/2017 | [Tor](https://github.com/devstaff-crete/meetup20-TOR) |
+| #19 | 09/02/2017 | [CMS](https://github.com/devstaff-crete/meetup19-CMS) |
+| #18 | 12/01/2017 | [Lightning Talks](https://github.com/devstaff-crete/meetup18-lightningTalks) |
+| #17 | 08/12/2016 | [Working at (extremely) large scale](https://github.com/devstaff-crete/meetup17-largescale) |
+| #16 | 10/11/2016 | [React.js - The hottest JS lib for building UIs](https://github.com/devstaff-crete/meetup16-ReactJs) |
+| #15 | 13/10/2016 | [sass - Syntactically Awesome Style Sheets](https://github.com/devstaff-crete/meetup14-Sass) |
+| #14 | 08/09/2016 | [Lightning talks](https://github.com/devstaff-crete/meetup13-LightningTalks-SoftwareballGame) |
+| #13 | 14/07/2016 | [Password Management](https://github.com/devstaff-crete/meetup12-infosec) |
+| #12 | 09/06/2016 | [NoSQL](https://github.com/devstaff-crete/meetup11-NoSQL) |
+| #11 | 27/05/2016 | Secrets of Concurrency |
+| #10 | 12/05/2016 | [Design Patterns](https://github.com/devstaff-crete/meetup10-DesignPatterns) |
+| #09 | 14/04/2016 | [IoT - Internet of Things](https://github.com/devstaff-crete/meetup09-IoT) |
+| #08 | 10/03/2016 | [Start-Ups, Spin-offs](https://github.com/devstaff-crete/meetup08-Startups) |
+| #07 | 11/02/2016 | [Developing with security in mind](https://github.com/devstaff-crete/meetup07-Security) |
+| #06 | 14/01/2016 | [Mobile Devevelopment](https://github.com/devstaff-crete/meetup06-MobileDev) |
+| #05 | 10/12/2015 | [Unit Testing](https://github.com/devstaff-crete/meetup05-Testing) |
+| #04 | 12/11/2015 | [Design for Developers](https://github.com/devstaff-crete/meetup04-Design) |
+| #03 | 08/10/2015 | [DevOps: from concept to movement to implementation](https://github.com/devstaff-crete/meetup03-DevOps) |
+| #02 | 10/09/2015 | [Node.js: Building a Restful API](https://github.com/devstaff-crete/meetup02-NodeJS) |
+| #01 | 09/07/2015 | [The Git Version Control System](https://github.com/devstaff-crete/meetup01-Git) |
 
-Subscribe to [our calendar] (http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/) and stay informed.
+Subscribe to [our calendar](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/) and stay informed.
 
 ## Hack Sessions :video_game:
 
