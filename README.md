@@ -65,7 +65,13 @@ The list of all Hack Sessions held by date:
 
 | Date | Title & Link |
 |------|--------------|
-| 17/10/2018 | [How to develop a Distributed App on Ethereum](https://www.meetup.com/devstaff/events/255475024/)
+| 17/10/2018 | [How to develop a Distributed App on Ethereum](https://www.meetup.com/devstaff/events/255475024/) |
+| 03/07/2018 | [Kubernetes for Application Developers](https://www.meetup.com/devstaff/events/252306246/) |
+| 07/06/2018 | [Docker Level 2](https://www.meetup.com/devstaff/events/251228890/) |
+| 31/05/2018 | [Docker Level 1](https://www.meetup.com/devstaff/events/251190634/) |
+| 19/01/2018 | [Git: Beyond the Basics](https://www.meetup.com/devstaff/events/246863163/) |
+| 19/09/2017 | [Ansible Hack Session #1](https://www.meetup.com/devstaff/events/243440678/) |
+| 01/12/2016 | [Django Hack Session](https://www.meetup.com/devstaff/events/235617760/) |
 | 01/09/2016 | [Hashicorp Vault, AWS KMS, Chef/Ansible Vault, Consul](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/events/233637796/) |
 | 12/01/2016 | [Tor Hack Session](https://github.com/DaKnOb/TorConfig) |
 | 01/12/2015 | [Docker Hack Session](https://github.com/devstaff-crete/docker-hack-sessions) |
