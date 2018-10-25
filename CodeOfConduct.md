@@ -43,4 +43,4 @@ Our code of conduct should apply to all means of communication used by devstaff 
 * (feel free to add more as required ...)
 
 ## Influences & Copyright
-This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative] (http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and other volunteers, which is under a Creative Commons Zero (CC0) license. This document was also influenced by the [Chef Community Guidelines](https://docs.chef.io/community_guidelines.html).
+This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and other volunteers, which is under a Creative Commons Zero (CC0) license. This document was also influenced by the [Chef Community Guidelines](https://docs.chef.io/community_guidelines.html).
