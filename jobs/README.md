@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Developer @ Enartia
+Enartia is looking for an in-house or remote self-motivated and passionate full-time software developer! If these words describe you, we will be glad to welcome you in a team that works on new challenges and builds new software in an ever expanding group of companies.
+
+As a Software Developer, you will be working on both front-end and back-end software development at least in the beginning; after some time, you may be able to focus on one of the two fields. You will be developing projects based on microservices, and learn to focus on security and reliability during software development. You will also get to attend conferences, have access to courses, and receive training on technologies, frameworks, or in general interesting things related to your work (or not).
+
+* PubDate: 24/10/2018
+* Link: https://enartia.workable.com/j/83DDBBE044
 
 ## Senior Software Engineer @ Enartia (Papaki, Top.Host, ...)
 Enartia is seeking a full-time Senior Software Engineer who is self-motivated and passionate. If you love to solve problems and want to join a dynamic team within a growing company in-house or remotely, we will be pleased to welcome you to our family! The Senior Software Engineer will work on designing and implementing new and exciting projects across all our brands. We're looking for someone who has the knowledge and the experience to work on distributed systems, microservices, and be able to design horizontally scalable architectures that are secure and reliable, as well as guide our team of software developers in implementing them successfully.
