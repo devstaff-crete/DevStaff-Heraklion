@@ -4,6 +4,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a583b7764bab09a8ffc0/maintainability)](https://codeclimate.com/github/devstaff-crete/DevStaff-Heraklion/maintainability)
 
+There's a lot of us, devs, here in Crete. Yet, we hardly ever get together in large groups, or even know each other – somewhat strange for our small community, we hope you'll agree. This group is an attempt at bringing us all together for informal chats about what we're all passionate about: technology and software. Join the meetup, learn, teach, speak your mind, sharpen your skills, share the knowledge and help us build a community where devs can openly exchange ideas!
 
 * **Don't know where to start?** Are you new to git and MeetUp? Here is a short intro about the tools we use: [Start Here!](StartHere.md)
 
