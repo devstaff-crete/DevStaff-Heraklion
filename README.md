@@ -21,6 +21,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #39 | 08/11/2018 | [Cloud-native Applications](https://github.com/devstaff-crete/meetup39-Cloud-nativeApplications) |
 | #38 | 11/10/2018 | [Remote working: Hints, Tips, Advice, Pitfalls and Open Chat](https://github.com/devstaff-crete/meetup38-RemoteWorking) |
 | #37 | 13/09/2018 | [Back to School - Lightning Talks](https://github.com/devstaff-crete/meetup37-LightningTalks) |
 | #36 | 12/07/2018 | [Season Finale - Prototyping in VR](https://github.com/devstaff-crete/meetup36-PrototypingInVR) |
