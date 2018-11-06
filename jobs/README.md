@@ -4,6 +4,20 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## FPGA Designer @ sunlight.io
+
+Our team at Sunlight.io is looking for talented engineers that are inspired by innovative and challenging projects to develop state-of-the-art hardware for high-end server infrastructure...
+
+* PubDate: 06/11/2018
+* Apply [here](https://sunlight-io.workable.com/j/0BDE43B7D8)
+
+## Marketing Manager @ sunlight.io
+
+We are looking for an experienced Marketing manager to organize our marketing efforts and coordinate all digital and social media to create and maintain a strong online presence for our company...
+
+* PubDate: 06/11/2018
+* Apply [here](https://sunlight-io.workable.com/j/F8E9F9CF35)
+
 ## Software Developer @ Enartia
 Enartia is looking for an in-house or remote self-motivated and passionate full-time software developer! If these words describe you, we will be glad to welcome you in a team that works on new challenges and builds new software in an ever expanding group of companies.
 
