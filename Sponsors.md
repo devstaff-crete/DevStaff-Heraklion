@@ -4,8 +4,10 @@ We thought long and hard about accepting sponsorships.
 
 _These days, it seems, everyone has some advertisement targeted to software developers..._
 
-After several Org Team Meetups on the topic, we reached a consensus that we will only open up a catering sponsorship, 
+After several Org Team Meetups on the topic, we reached a consensus that we will only open up a **Catering sponsorship**, 
 so that we can have some snacks & drinks for every meetup. 
+
+In addition, after the discussion in [this issue](https://github.com/devstaff-crete/DevStaff-Heraklion/issues/185), we also opened the possibility of a **Venue Sponsor**, as long as they can provide their venue for free and without any unreasonable demands. 
 
 ## DevStaff Catering Sponsor Benefits
 The list below describes what our catering sponsor gets in return: 
