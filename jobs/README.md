@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Multiple openings at [Memory](https://memory.ai/jobs/)
+
+We're looking for 35 new people
+
+Memory is not your average Norwegian company. We work tirelessly because we have a need to build something bigger than ourselves. To create something important. Just like you want to. You know who you are. Now we're after people just like you.
+
+Openings for Frontend, Backend, Android, iOS, Machine Learning, and more
+* PubDate: 13/11/2018
+* More Info https://memory.ai/jobs/
+
 ## FPGA Designer @ sunlight.io
 
 Our team at Sunlight.io is looking for talented engineers that are inspired by innovative and challenging projects to develop state-of-the-art hardware for high-end server infrastructure...
