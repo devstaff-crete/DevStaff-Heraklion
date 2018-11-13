@@ -32,5 +32,15 @@ Harassment and other exclusionary behavior are not acceptable. This includes, bu
 * Repeated harassment of others. In general, if someone asks you to stop, then stop.
 * Any physical violence or intimidation, threatened or acted on, is a serious offense.
 
+## Areas of Application
+Our code of conduct should apply to all means of communication used by devstaff members. Not wishing to limit the scope, but just to mention a few:
+
+* github.com (our repos)
+* meetup.com (our meetup org platform)
+* devstaff.gr (our website)
+* slack.com (our chat / collaboration platform)
+* all devstaff events
+* (feel free to add more as required ...)
+
 ## Influences & Copyright
-This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative] (http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and other volunteers, which is under a Creative Commons Zero (CC0) license. This document was also influenced by the [Chef Community Guidelines](https://docs.chef.io/community_guidelines.html).
+This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and other volunteers, which is under a Creative Commons Zero (CC0) license. This document was also influenced by the [Chef Community Guidelines](https://docs.chef.io/community_guidelines.html).

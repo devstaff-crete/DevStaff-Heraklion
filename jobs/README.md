@@ -4,151 +4,72 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
-## Multiple openings at [Memory](https://memory.ai/en/)
+## FPGA Designer @ sunlight.io
 
-How smart can artificial intelligence make us?
-Memory consists of 21 people and we're on the hunt for 20 new colleagues to help answer that question.
-Openings for Machine Learning, Backend, Frontend, and Android Engineers
+Our team at Sunlight.io is looking for talented engineers that are inspired by innovative and challenging projects to develop state-of-the-art hardware for high-end server infrastructure...
 
-* PubDate: 06/02/2018
-* More Info https://memory.ai/en/
+* PubDate: 06/11/2018
+* Apply [here](https://sunlight-io.workable.com/j/0BDE43B7D8)
 
-## Experienced System Administrator at [Phaistos Networks](http://www.phaistosnetworks.gr)
+## Marketing Manager @ sunlight.io
 
-We are looking for a full time system administrator to join our team of jedis in STEP-C, Heraklion.
+We are looking for an experienced Marketing manager to organize our marketing efforts and coordinate all digital and social media to create and maintain a strong online presence for our company...
 
-* PubDate: 06/02/2018
-* More Info [here](https://phaistosnetworks.workable.com/j/86F68936B6)
+* PubDate: 06/11/2018
+* Apply [here](https://sunlight-io.workable.com/j/F8E9F9CF35)
 
+## Software Developer @ Enartia
+Enartia is looking for an in-house or remote self-motivated and passionate full-time software developer! If these words describe you, we will be glad to welcome you in a team that works on new challenges and builds new software in an ever expanding group of companies.
 
-## Devops Engineer / Java developer (Heraklion, Greece) at [NetMechanics](https://www.netmechanics.gr)
+As a Software Developer, you will be working on both front-end and back-end software development at least in the beginning; after some time, you may be able to focus on one of the two fields. You will be developing projects based on microservices, and learn to focus on security and reliability during software development. You will also get to attend conferences, have access to courses, and receive training on technologies, frameworks, or in general interesting things related to your work (or not).
 
-* PubDate: 05/02/2018
+* PubDate: 24/10/2018
+* Link: https://enartia.workable.com/j/83DDBBE044
 
-Required expertise 
-	Web app development with Java (JSP, Servlets) -
-	Unit testing and profiling Java web apps
-	Experience with linux server administration
-	Server scripting (bash, Python or equivalent)
-	Experience with Maven, Ant or Gradle 
-Preferred skills
-	Experience administering HTTP servers (Apache or Nginx), database servers (MySQL or PostgreSQL) and Java servers (JBoss, Wildfly or Tomcat)
-	Virtualization and VM administration experience (Azure, AWS or equivalent) 
-	Experience working with cloud infrastructure 
-	Bachelor's Degree in Computer Science or equivalent knowledge 
+## Senior Software Engineer @ Enartia (Papaki, Top.Host, ...)
+Enartia is seeking a full-time Senior Software Engineer who is self-motivated and passionate. If you love to solve problems and want to join a dynamic team within a growing company in-house or remotely, we will be pleased to welcome you to our family! The Senior Software Engineer will work on designing and implementing new and exciting projects across all our brands. We're looking for someone who has the knowledge and the experience to work on distributed systems, microservices, and be able to design horizontally scalable architectures that are secure and reliable, as well as guide our team of software developers in implementing them successfully.
 
-	Apply at: https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406 
+* PubDate: 24/10/2018
+* Link: https://enartia.workable.com/j/3634049149
 
-## Back end Java developer (Heraklion, Greece) at [NetMechanics](https://www.netmechanics.gr)
+## Junior Software Developer @ Enartia
 
-* PubDate: 05/02/2018
+Enartia is looking for an in-house or remote ambitious junior software developer! If you who are in the early stages of their career, to work on large scale software, and gain important practical experience. If you are looking to make your first steps in your career in a company, and work in the industry, this is a good opportunity. You can work either from our office in Heraklion, Crete, or remotely, and we’ll be pleased to welcome you to our family. As a junior developer you’ll be working on existing software, adding new features, as well as improving the code with various refactoring techniques where needed. You will be working on both front-end and back-end systems, with the ability to focus more on one of them after some time.
 
-Required expertise 
-	Web app development with Java (JSP, Servlets)
-	ORM frameworks (JPA, Hibernate or equivalent)
-	GWT or Vaadin
-	Knowledge of HTML5, Javascript, CSS 3.0
+* PubDate: 24/10/2018
+* Link: https://enartia.workable.com/j/3CF3B86115
 
-Preferred skills
-	Java web/MVC frameworks (VRaptor, Spring, Struts or equivalent)
-	Experience with Maven, Ant or Gradle
-	Software engineering / design patterns
-	Confident Linux usage skills
-	Bachelor's Degree in Computer Science or equivalent knowledge
+## Java / Kotlin Engineer @ [Logicea](http://logicea.com)
+If you are a passionate Java developer with 2-5 years working experience and
+you're looking for an exciting and challenging role in a dynamic environment, 
+then we would like to meet you. We also love Kotlin lately so consider
+writing some of it as part of the job!
 
-	Apply at: https://www.netmechanics.gr/el/εργαστείτε-μαζί-μας-406
-
-## Front-end developer at [Ortec for Communications](https://www.orteccommunications.com)
-
-Looking for the next challenge in your career? We are hiring! We are currently seeking a full time mobile developer to join our team in Heraklion. Come and talk to us for an exciting opportunity at ORTEC For Communications.
-
-* PubDate: 02/02/2018
-* More info: https://www.orteccommunications.com/software-development/
-
-## Software Engineer position in R&D project [ICS-FORTH](http://www.ics.forth.gr/jobs/en/)
-
-We are looking for a Software Engineer with very good knowledge and experience in programming, and interest in the area of computer networks. The position is within the INSPIRE research group (www.inspire.edu.gr) at the Institute of Computer Science of the Foundation for Research and Technology - Hellas (FORTH) with responsibilities on a recently funded network security project, as well as potentially other existing or new R&D projects. Previous experience with research is a plus.
-
-* PubDate: 25/01/2018
-* More info: [here](http://www.ics.forth.gr/job_opportunities/1153_EN_JobAnnouncement_ICS_1153-F.pdf)
-
-## React.js / React Native Developer [iWorx](https://www.iworx.gr)
-
-We are looking for a great JavaScript developer who is proficient with React.js / React Native. Your primary focus will be on developing user interface components and implementing them, following well-known React.js workflows (such as Redux).
-
-* PubDate: 12/01/2018
-* More info [here](https://github.com/iworx-greece/jobs "iWorx @Github") or call us: +302810336880
-
-## Web Developer [iWorx](https://www.iworx.gr)
-
-We are looking for a Web Developer with the following skillset: 
-HTML, CSS, JS (ES6), PHP (+ Laravel), MySQL, Git.
-
-Knowledge in React.js/Native & PWA will be a plus.
-
-* PubDate: 12/01/2018
-* More info [here](https://github.com/iworx-greece/jobs "iWorx @Github") or call us: +302810336880
+* PubDate: 16/10/2018
+* Apply at: [here](https://logicea.workable.com/j/34FB74BC13)
 
 
-## Web designer / Frontend Dev at [Webtrails](https://webtrails.gr/careers)
+## DevOps / Integration Engineer @ sunlight.io
 
-We are looking for a frontend developer with passion for exceptional design and attention to detail. If love to work on designs and you often find yourself thinking it’s better to increase the font size from 15px to 16px, use col-md-3 rather col-md-4 and #ffff30 instead of #ffff3f, then you are the person we are looking for!
+We are looking for an Engineer able to take on the role of a DevOps Integration engineer.
 
-* PubDate: 11/01/2018
-* More information: https://webtrails.gr/jobs/web-designer-frontend-dev/
+Primary goal for this position is for the engineer to be able to organise all tasks required and automate current procedures for deployments internally (for evaluation / QA processes) and externally (for product deployments on customer infrastructures of Proof-of-Concept / demo setups).
 
-## Junior Frontend Developer at [Webtrails](https://webtrails.gr/careers)
+* PubDate: 12/10/2018
+* Apply [here](https://www.workable.com/j/2336C2F4AF)
 
-We are looking for a junior developer with passion for frontend technologies. If you want to begin your dev career in a challenging environment with international projects and partners, then you are the person we are looking for!
+## Software Developer - Full-Stack Web Applications @ Gnosis Data Analysis 
 
-* PubDate: 11/01/2018
-* More information: https://webtrails.gr/jobs/junior-frontend-developer/
+We are currently looking for a Software Developer with a strong background in Full-Stack Web Applications.
 
-## Hypervisor system engineer at [OnApp](https://onapp.com/)
+Preferred skills Java web/MVC frameworks (Spring Boot or equivalent), Maven, Software engineering / design patterns.
 
-The OnApp emerging technologies team, based in Greece, is looking for two applicants for the position of system engineer.
+* PubDate: 20/09/2018
+* Apply at: [http://www.gnosisda.gr/2018/09/19/we-are-looking-for-a-new-software-developer-2/](http://www.gnosisda.gr/2018/09/19/we-are-looking-for-a-new-software-developer-2/)
 
-* PubDate: 09/01/2018
-* More information, visit: https://onapp.bamboohr.co.uk/jobs/view.php?id=57
+## Junior & Senior C# Developers @ [Cyberlogic](http://www.cyberlogic.gr)
 
-## Senior ERP / CRM Consultant για την Καρβελάς Α.Ε.
+We are looking for .NET developers to join our team. The ideal candidate will be responsible to develop modern applications using cutting edge technologies for travel industry customers worldwide.
 
-H εταιρία ηλεκτρικών ειδών Καρβελάς Α.Ε. αναζητα Senior ERP / CRM Consultant πλήρους απασχόλησης.
-
-* PubDate: 05/01/2018
-* Περισσότερες πληροφορίες στο: https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/jobs/ΚarvelasConsultant.md
-
-## Software Engineer at [Cytech](https://www.cytechmobile.com)
-
-Cytech is looking for a Software Engineer to work on high-performance telecoms infrastructure systems, built in Java.
-
-* PubDate: 19/12/2017
-* More info at: https://cytech.workable.com/jobs/627226
-
-## Support Technician at [Papaki](https://www.papaki.com)
-
-Papaki is looking for a dedicated and motivated candidate, who seeks a career in customer service and technical support. This person will join Papaki’s Support Team in-house or remotely, in order to further strengthen the quality of support we offer to our customers.
-
-* PubDate: 12/12/2017
-* More info at: https://www.papaki.com/el/career.htm
-
-## Wordpress Developer at [Papaki](https://www.papaki.com)
-
-Papaki is seeking a full-time WordPress developer who is self-motivated, passionate and looking to grow their technical skills inhouse or remotely. If you love to problem solve, write clean code and want to join a dynamic team within a growing company, we will be pleased to welcome you to our family!
-
-* PubDate: 12/12/2017
-* More info at: https://www.papaki.com/el/career.htm
-
-## 1st Level Support Hero (Night shift) at [Top.Host](https://top.host)
-
-We are looking to recruit motivated, dedicated partners, that search for a career in customer service and technical support. The candidate will be working remotely.
-
-* PubDate: 12/11/2017
-* More info at: https://top.host/career
-
-## DevOps Support Engineer at [Pressidium](https://pressidium.com)
-
-Pressidium is looking for a DevOps & WordPress Support Engineer who is customer service focused, knows their way around WordPress and Linux very well and loves providing solutions for customers.
-
-* PubDate: 08/11/2017
-* More info at: https://pressidium.com/careers/devops-support-engineer/
+* PubDate: 06/09/2018
+* Apply [here](https://www.cyberlogic.gr/en/careers/)
