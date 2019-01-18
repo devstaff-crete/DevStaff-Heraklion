@@ -22,7 +22,7 @@ Requirements:
 Optional requirements:
 * Knowledge of German language
 
-Please send your CV at: s.vrentzos at anixa.gr
+Please send your CV at: s.vrentzos@anixa.gr
 
 ## Web Developer at Surprice Car Rentals - www.surpricecars.com
 Surprice Car Rentals is seeking a web developer to join the team of a dynamically growing car rental network based in Heraklion Greece. 
