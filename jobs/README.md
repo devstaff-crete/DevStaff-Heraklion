@@ -4,9 +4,7 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
-## Senior Front End Developer at Papaki (https://www.papaki.gr)
-* PubDate: 02/02/2017
-* More info at: https://www.papaki.gr/career.htm?locale=el-GR#frontend-dev
+
 
 ## Need for HbbTV Developers
 
@@ -22,7 +20,13 @@ Requirements:
 Optional requirements:
 * Knowledge of German language
 
+* PubDate: 18/01/2019
+
 Please send your CV at: s.vrentzos@anixa.gr
+
+## Senior Front End Developer at Papaki (https://www.papaki.gr)
+* PubDate: 02/02/2017
+* More info at: https://www.papaki.gr/career.htm?locale=el-GR#frontend-dev
 
 ## Web Developer at Surprice Car Rentals - www.surpricecars.com
 Surprice Car Rentals is seeking a web developer to join the team of a dynamically growing car rental network based in Heraklion Greece. 
