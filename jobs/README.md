@@ -4,6 +4,20 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Quality Assurance Engineer (Heraklion) @ sunlight.io
+
+We are looking for a Quality Assurance Engineer to work with the Quality Assurance team to provide assistance with ensuring product quality on our enterprise-level Cloud platform...
+
+* PubDate: 17/01/2019
+* Apply [here](https://sunlight-io.workable.com/j/37A8A49242)
+
+## Quality Assurance Engineer (Athens) @ sunlight.io
+
+We are looking for a Quality Assurance Engineer to work with the Quality Assurance team to provide assistance with ensuring product quality on our enterprise-level Cloud platform...
+
+* PubDate: 17/01/2019
+* Apply [here](https://sunlight-io.workable.com/j/1B1DEB6C61)
+
 ## Multiple openings at [Memory](https://memory.ai/jobs/)
 
 We're looking for 35 new people
