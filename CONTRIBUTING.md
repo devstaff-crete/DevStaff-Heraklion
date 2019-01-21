@@ -3,14 +3,21 @@
 DevStaff is an open community for developers in Crete. We want everyone to be able to contribute! 
 
 ## Meetup Topics
-The DevStaff Meetups take place every 2nd Thursday of each month. We are open to proposals for new topics in the upcoming meetups. We are also open for you to vote on the topics you would like to hear / chat about. 
-Here's how: 
-* We use GitHub Issues with the 'Topics' label to indicate topic suggestions. 
-* You will already find some of the proposed topics under the issues. Open a new issue if you can't find your favourite topic there.
-* Upvote the topic you like by using thumbs up ( :+1: ) 
-* For topics with a lot of votes, you can fork and open a new PR with a new line in the README.md including the date and topic of the meet up.
-* One of the maintainers will merge the PR once the topic & dates are finalized. Issue will be closed at that point.
-* You can find the vote counts for each topic at http://analytics.devstaff.gr/
+
+The DevStaff Meetups take place every 2nd Thursday of each month and the subject is picked by a simple majority vote by community members. 
+
+Here's how that works:
+* The Org Team gets together every so often (in (Org Meetups)[https://github.com/devstaff-crete/DevStaff-Heraklion#org-meetups] ) where they short-list (usually) 5 topics for the community to vote on. The top 3 are then scheduled for the next 3 months, depending on speaker availability. 
+
+One of the hardest problems for all meetups is to find speakers, and a community vote for the most popular subjects makes things even more difficult (we have to find potential speakers for 5 subjects, vs. just the 3 next ones). Yet, we want the community to have the final say, that we take on the extra work. 
+
+For each topic that is proposed to be short-listed:
+* there MUST be at least 2 potential speakers and 
+* there SHOULD be a GitHub issue with a short description of what the topic is about (this community members decide on whether to vote for it or not). 
+
+Voting NO LONGER happens on GitHub issues. It happens on (Meetup.com polls)[https://www.meetup.com/devstaff/polls/?op=pastlist] ! 
+
+However, you might notice there are :thumbsup: icons on several issues, however this is mainly a remnant of the first 2 years of devstaff meetups when voting used to happen on GitHub. (Some of our community members)[https://github.com/kabitakis/github-analytics/graphs/contributors] even open sourced (a tool for counting votes and :thumbsup: on GitHub issues)[https://github.com/kabitakis/github-analytics] (either as reaction, or as comment, limiting to one per author), which is still available at https://analytics.devstaff.gr/. 
 
 
 ## How to start a Hack Session
