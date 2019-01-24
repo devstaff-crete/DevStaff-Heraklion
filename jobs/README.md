@@ -59,24 +59,3 @@ We are looking for an experienced Marketing manager to organize our marketing ef
 
 * PubDate: 06/11/2018
 * Apply [here](https://sunlight-io.workable.com/j/F8E9F9CF35)
-
-## Software Developer @ Enartia
-Enartia is looking for an in-house or remote self-motivated and passionate full-time software developer! If these words describe you, we will be glad to welcome you in a team that works on new challenges and builds new software in an ever expanding group of companies.
-
-As a Software Developer, you will be working on both front-end and back-end software development at least in the beginning; after some time, you may be able to focus on one of the two fields. You will be developing projects based on microservices, and learn to focus on security and reliability during software development. You will also get to attend conferences, have access to courses, and receive training on technologies, frameworks, or in general interesting things related to your work (or not).
-
-* PubDate: 24/10/2018
-* Link: https://enartia.workable.com/j/83DDBBE044
-
-## Senior Software Engineer @ Enartia (Papaki, Top.Host, ...)
-Enartia is seeking a full-time Senior Software Engineer who is self-motivated and passionate. If you love to solve problems and want to join a dynamic team within a growing company in-house or remotely, we will be pleased to welcome you to our family! The Senior Software Engineer will work on designing and implementing new and exciting projects across all our brands. We're looking for someone who has the knowledge and the experience to work on distributed systems, microservices, and be able to design horizontally scalable architectures that are secure and reliable, as well as guide our team of software developers in implementing them successfully.
-
-* PubDate: 24/10/2018
-* Link: https://enartia.workable.com/j/3634049149
-
-## Junior Software Developer @ Enartia
-
-Enartia is looking for an in-house or remote ambitious junior software developer! If you who are in the early stages of their career, to work on large scale software, and gain important practical experience. If you are looking to make your first steps in your career in a company, and work in the industry, this is a good opportunity. You can work either from our office in Heraklion, Crete, or remotely, and we’ll be pleased to welcome you to our family. As a junior developer you’ll be working on existing software, adding new features, as well as improving the code with various refactoring techniques where needed. You will be working on both front-end and back-end systems, with the ability to focus more on one of them after some time.
-
-* PubDate: 24/10/2018
-* Link: https://enartia.workable.com/j/3CF3B86115
