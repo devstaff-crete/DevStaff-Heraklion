@@ -73,6 +73,7 @@ The list of all Hack Sessions held by date:
 
 | Date | Title & Link |
 |------|--------------|
+| 23/01/2019 | [Unix CLI / Bash Scripting](https://www.meetup.com/devstaff/events/258289857/) |
 | 17/10/2018 | [How to develop a Distributed App on Ethereum](https://www.meetup.com/devstaff/events/255475024/) |
 | 03/07/2018 | [Kubernetes for Application Developers](https://www.meetup.com/devstaff/events/252306246/) |
 | 07/06/2018 | [Docker Level 2](https://www.meetup.com/devstaff/events/251228890/) |
