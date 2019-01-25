@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## iOS developer @ Τεχνόπολις
+
+We are looking for an iOS developer, to create a new iPhone app of the "Τεχνόπολις" multiplex cinema, similar to the existing Android one. We are interested either for a native or hybrid solution.
+
+* PubDate: 25/01/2019
+* For more information, call mr. Manos Tsagarakis at 2810823813.
+
 ## Need for HbbTV Developers
 
 Real TV GmbH is looking for developers (3-5 people) to be responsible for the development of HbbTV related applications, in the premises of the company, in Science & Technology Park of Crete.
