@@ -4,6 +4,11 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Front End Developers (Heraklion) @ [Ecoworld SA – Greekferries Club](https://greekferries-club.gr)
+Ecoworld SA is looking for 2 Front End Developers (Junior & Senior) for full-time, in-house employment to work on various innovative online-travel related projects 
+* PubDate: 06/02/2019
+* Please send applications [via mail](mailto:av@eco.gr) or [here](https://greekferries-club.gr/company/work-places/)
+
 ## iOS developer @ Τεχνόπολις
 
 We are looking for an iOS developer, to create a new iPhone app of the "Τεχνόπολις" multiplex cinema, similar to the existing Android one. We are interested either for a native or hybrid solution.
