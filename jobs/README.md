@@ -4,8 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Front End Engineer (London - remote) @ [The Chat Shop](https://thechatshop.com)
+We’re looking to take the front end development to the next level, and want to find the right person to drive efficiencies and continue to deliver an exceptional quality of service. Alongside the day to day, this role will focus on making our ambitious plans a reality and delivering on continuous improvement.
+* PubDate: 11/02/2019
+* Please send applications [via mail](mailto:dev+fd@thechatshop.com) or [here](https://www.thechatshop.com/jobs/front-end-engineer)
+
 ## Front End Developers (Heraklion) @ [Ecoworld SA – Greekferries Club](https://greekferries-club.gr)
-Ecoworld SA is looking for 2 Front End Developers (Junior & Senior) for full-time, in-house employment to work on various innovative online-travel related projects 
+Ecoworld SA is looking for 2 Front End Developers (Junior & Senior) for full-time, in-house employment to work on various innovative online-travel related projects
 * PubDate: 06/02/2019
 * Please send applications [via mail](mailto:av@eco.gr) or [here](https://greekferries-club.gr/company/work-places/)
 
@@ -22,7 +27,7 @@ Real TV GmbH is looking for developers (3-5 people) to be responsible for the de
 
 Implementation of HbbTV applications is similar to Web Development, so we need developers familiar with HTML, Javascript, CSS, XML, PHP and MySQL. Developers will be trained in the implementation of HbbTV related services.
 
-Requirements: 
+Requirements:
 * In-depth knowledge of HTML, Javascript, CSS, XML, PHP and MySQL
 * Familiar with Object Oriented Programming
 * Knowledge of English language
