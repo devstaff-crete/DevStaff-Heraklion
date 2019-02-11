@@ -21,6 +21,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #42 | 07/02/2019 | [Startup Idea Validation Kit](https://github.com/devstaff-crete/meetup42-StartupIdeaValidationKit) |
 | #41 | 10/01/2019 | [Disaster Recovery (DR)](https://github.com/devstaff-crete/meetup41-DisasterRecovery) |
 | #40 | 13/12/2018 | [Elasticsearch](https://github.com/devstaff-crete/meetup40-Elasticsearch) |
 | #39 | 08/11/2018 | [Cloud-native Applications](https://github.com/devstaff-crete/meetup39-Cloud-nativeApplications) |
