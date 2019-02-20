@@ -52,27 +52,3 @@ We are looking for a Quality Assurance Engineer to work with the Quality Assuran
 
 * PubDate: 17/01/2019
 * Apply [here](https://sunlight-io.workable.com/j/1B1DEB6C61)
-
-## Multiple openings at [Memory](https://memory.ai/jobs/)
-
-We're looking for 35 new people
-
-Memory is not your average Norwegian company. We work tirelessly because we have a need to build something bigger than ourselves. To create something important. Just like you want to. You know who you are. Now we're after people just like you.
-
-Openings for Frontend, Backend, Android, iOS, Machine Learning, and more
-* PubDate: 13/11/2018
-* More Info https://memory.ai/jobs/
-
-## FPGA Designer @ sunlight.io
-
-Our team at Sunlight.io is looking for talented engineers that are inspired by innovative and challenging projects to develop state-of-the-art hardware for high-end server infrastructure...
-
-* PubDate: 06/11/2018
-* Apply [here](https://sunlight-io.workable.com/j/0BDE43B7D8)
-
-## Marketing Manager @ sunlight.io
-
-We are looking for an experienced Marketing manager to organize our marketing efforts and coordinate all digital and social media to create and maintain a strong online presence for our company...
-
-* PubDate: 06/11/2018
-* Apply [here](https://sunlight-io.workable.com/j/F8E9F9CF35)
