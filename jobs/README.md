@@ -4,6 +4,11 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Back End Engineer (Heraklion or remote) @ [Enartia Group](https://www.enartia.com/)
+Enartia, the company behind Papaki and Top.Host, is looking for 4 experienced, analytical, and self-motivated Back-end Developers to join our team, in-house or remotely. The ideal candidates shall have high skills in programming and software testing, be clean code evangelists, follow best practices and set high quality standards in the process of solving complicated problems. The ideal candidates should also be passionate, constant learners, and collaborative, while focused on building customer-first wow online solutions.
+
+You can find more information about this position by clicking [here](https://enartia.workable.com/j/F42C9E5B1C). We are looking forward to your application!
+
 ## Front End Engineer (Heraklion - remote) @ [Enartia Group](https://www.enartia.com)
 We are looking for 3 front-end engineers to come work with us in Enartia, the company behind Papaki and Top.Host, in cutting edge technologies and greenfield projects. Our stack is React with Redux. You can find more information about this position [here](https://enartia.workable.com/j/C07CB05A3F). We're looking forward to your application!
 
