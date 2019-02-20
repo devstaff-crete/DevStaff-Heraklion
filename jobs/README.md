@@ -4,8 +4,10 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
-## Front End Engineer (Heraklion - remote) @ [Enartia Group](https://www.enartia.com)
-We are looking for 3 front-end engineers to come work with us in Enartia, the company behind Papaki and Top.Host, in cutting edge technologies and greenfield projects. Our stack is React with Redux. You can find more information about this position [here](https://enartia.workable.com/j/C07CB05A3F). We're looking forward to your application!
+## Back End Engineer (Heraklion or remote) @ [Enartia Group](https://www.enartia.com/)
+Enartia, the company behind Papaki and Top.Host, is looking for 4 experienced, analytical, and self-motivated Back-end Developers to join our team, in-house or remotely. The ideal candidates shall have high skills in programming and software testing, be clean code evangelists, follow best practices and set high quality standards in the process of solving complicated problems. The ideal candidates should also be passionate, constant learners, and collaborative, while focused on building customer-first wow online solutions.
+
+You can find more information about this position by clicking [here](https://enartia.workable.com/j/F42C9E5B1C). We are looking forward to your application!
 
 ## Front End Engineer (London - remote) @ [The Chat Shop](https://thechatshop.com)
 We’re looking to take the front end development to the next level, and want to find the right person to drive efficiencies and continue to deliver an exceptional quality of service. Alongside the day to day, this role will focus on making our ambitious plans a reality and delivering on continuous improvement.
@@ -55,3 +57,27 @@ We are looking for a Quality Assurance Engineer to work with the Quality Assuran
 
 * PubDate: 17/01/2019
 * Apply [here](https://sunlight-io.workable.com/j/1B1DEB6C61)
+
+## Multiple openings at [Memory](https://memory.ai/jobs/)
+
+We're looking for 35 new people
+
+Memory is not your average Norwegian company. We work tirelessly because we have a need to build something bigger than ourselves. To create something important. Just like you want to. You know who you are. Now we're after people just like you.
+
+Openings for Frontend, Backend, Android, iOS, Machine Learning, and more
+* PubDate: 13/11/2018
+* More Info https://memory.ai/jobs/
+
+## FPGA Designer @ sunlight.io
+
+Our team at Sunlight.io is looking for talented engineers that are inspired by innovative and challenging projects to develop state-of-the-art hardware for high-end server infrastructure...
+
+* PubDate: 06/11/2018
+* Apply [here](https://sunlight-io.workable.com/j/0BDE43B7D8)
+
+## Marketing Manager @ sunlight.io
+
+We are looking for an experienced Marketing manager to organize our marketing efforts and coordinate all digital and social media to create and maintain a strong online presence for our company...
+
+* PubDate: 06/11/2018
+* Apply [here](https://sunlight-io.workable.com/j/F8E9F9CF35)
