@@ -4,6 +4,9 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Front End Engineer (Heraklion - remote) @ [Enartia Group](https://www.enartia.com)
+We are looking for 3 front-end engineers to come work with us in Enartia, the company behind Papaki and Top.Host, in cutting edge technologies and greenfield projects. Our stack is React with Redux. You can find more information about this position [here](https://enartia.workable.com/j/C07CB05A3F). We're looking forward to your application!
+
 ## Front End Engineer (London - remote) @ [The Chat Shop](https://thechatshop.com)
 We’re looking to take the front end development to the next level, and want to find the right person to drive efficiencies and continue to deliver an exceptional quality of service. Alongside the day to day, this role will focus on making our ambitious plans a reality and delivering on continuous improvement.
 * PubDate: 11/02/2019
