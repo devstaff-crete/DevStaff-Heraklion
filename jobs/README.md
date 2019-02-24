@@ -4,6 +4,36 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Frontend Developer with technical excellence, team spirit and an entrepreneurial mindset (Vienna) @ [Sclable](https://sclable.com/en/)
+
+Do you enjoy working on complex business applications? With the latest technologies and methods? Are you looking for challenging and varied work? Then welcome to Sclable!
+
+We believe that business software shouldn't just be useful, but also offer optimum functionality and user experience on every device thanks to efficient code. Do you agree? We are looking for an outstanding frontend developer who will help shape the development of digital business models, products and services and enrich these with new ideas and technical perfection.
+
+[Find out more](https://sclable.com/en/jobs/frontend-developer/) about this position.
+
+* PubDate: 24/02/2019
+
+## Backend Developer with technical excellence and a love for challenging tasks (Vienna) @ [Sclable](https://sclable.com/en/) 
+
+Would you like to develop innovative business applications? Work with the latest technologies and concepts? Master challenging and varied tasks? Then welcome to Sclable! 
+
+Innovative business applications present developers with exciting challenges: Complex logical relationships, data from various sources and a variety of APIs need to be brought together in a tailored and harmonious whole. If you enjoy complex tasks and an international background, then this is the right place for you.
+
+[Find out more](https://sclable.com/en/jobs/backend-developer/) about this position.
+
+* PubDate: 24/02/2019
+
+## Machine Learning Engineer, who designs the future in numbers and for whom perfection is a matter of course (Vienna) @ [Sclable](https://sclable.com/en/)
+
+You love numbers and technology? You like to teach machines to think? Complex tasks are appealing to you? When others consider your work already excellent, you’re just about to start your final touch? Welcome at Sclable.
+
+We are looking for pioneers who want to walk new grounds with us and help make our clever business applications even smarter.
+
+[Find out more](https://sclable.com/en/jobs/machine-learning-engineer/) about this position.
+
+* PubDate: 24/02/2019
+
 ## Back End Engineer (Heraklion or remote) @ [Enartia Group](https://www.enartia.com/)
 Enartia, the company behind Papaki and Top.Host, is looking for 4 experienced, analytical, and self-motivated Back-end Developers to join our team, in-house or remotely. The ideal candidates shall have high skills in programming and software testing, be clean code evangelists, follow best practices and set high quality standards in the process of solving complicated problems. The ideal candidates should also be passionate, constant learners, and collaborative, while focused on building customer-first wow online solutions.
 
