@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Frontend developer (Heraklion) @ [ORTEC for Communications](https://www.orteccommunications.com)
+
+Looking for the next challenge in your career? We are hiring! We are currently seeking a full time mobile developer to join our team in Heraklion, Crete! Come and talk to us for an exciting opportunity at ORTEC For Communications (based in Amsterdam).
+
+[Find out more](https://www.orteccommunications.com/software-development/?fbclid=IwAR108w0njtA4Uh0_LPAK7AyyaTvps-VTy0FRoKLaKGCr8UL7a62OD_MShqM) about this position.
+
+* PubDate: 13/03/2019
+
 ## Frontend Developer with technical excellence, team spirit and an entrepreneurial mindset (Vienna) @ [Sclable](https://sclable.com/en/)
 
 Do you enjoy working on complex business applications? With the latest technologies and methods? Are you looking for challenging and varied work? Then welcome to Sclable!
