@@ -4,6 +4,21 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software-Developer PHP / Symfony
+ (Biel/Switzerland) @ [Integrated Scientific Services AG](https://www.iss-ag.ch)
+
+We are looking for a PHP developer with hands-on experience and an object oriented way of thinking. We have been implementing projects using Symfony for a while now (version 1/2/3/4) so exposure to the framework would be an important advantage. Since we are talking about developement of web applications, CSS/Javascript/HTML knowledge is expected as well.
+
+* Working on site is expected, Biel is a lovely and lively little city in the center of Switzerland, well connected with 4 major swiss cities (Zürich, Bern, Basel, Geneva) and 3 international airports (Zurich, Basel, Geneva).
+* Working knowledge of German is a big advantage and willingness to pick it up will be well supported by us. English should be there both in speaking and writing adequately, in case German is missing.
+* Remote work is not our preferred option, should the right person show up however, we would be willing to consider an arrangement that works for both sides without a big overhead.
+
+For informal inquiries you can contact me (stefanos.petrakis@iss-ag.ch)
+
+[Read the full job description here](https://iss-ag.ch/en/software-developer-in-php-symfony) about this position.
+
+* PubDate: 27/03/2019
+
 ## Frontend developer (Heraklion) @ [ORTEC for Communications](https://www.orteccommunications.com)
 
 Looking for the next challenge in your career? We are hiring! We are currently seeking a full time mobile developer to join our team in Heraklion, Crete! Come and talk to us for an exciting opportunity at ORTEC For Communications (based in Amsterdam).
