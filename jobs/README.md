@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Java Software Engineer @ Cytech
+
+Come work for a team that works on high-performance telecoms infrastructure systems, built in Java.
+
+ We write Clean Code, believe in Automated Testing & Continuous Integration, operate on a Continuous Delivery pipeline - striving towards 12-Factor applications - to support a range of international clients, around the world!
+
+[Find out more and apply here](https://cytech.workable.com)
+
+* PubDate: 03/04/2019
+
 ## Software-Developer PHP / Symfony
  (Biel/Switzerland) @ [Integrated Scientific Services AG](https://www.iss-ag.ch)
 
