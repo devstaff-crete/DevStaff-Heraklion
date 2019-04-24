@@ -4,6 +4,84 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Web developer @ Mene & Jo
+
+Mene & Jo take advantage of their multiannual experience and their rich portfolio to provide businesses with the marketing and graphic tools they need in order to be sustainable, functional, innovative and successful. We are based in Chania, Crete, Greece and we are looking for a full-time web developer to work here 8h/day, 5d/week.
+
+### Web Developer Job Responsibilities:
+
+The role is responsible for coding and modifying websites, from layout to function and according to the web designer's specifications. The web developer should also have a full understanding and knowledge base around how a website should run and be able to monitor its progress.
+
+### Web Developer Job Duties:
+
+* Candidate must have a strong understanding of UI, cross-browser compatibility, general web functions and standards.
+* The position requires constant communication with colleagues.
+* Experience in planning and delivering software platforms used across multiple products and organizational units.
+* Deep expertise and hands-on experience with Web Applications and programming languages such as HTML, CSS, JavaScript, JQuery and API's.
+* Strong grasp of security principles and how they apply to E-Commerce applications.
+* Write well designed, testable, efficient code by using best software development practices
+* Create a website layout/user interface by using standard HTML/CSS practices
+* Integrate data from various back-end services and databases
+* Gather and refine specifications and requirements based on technical needs
+* Create and maintain software documentation
+* Be responsible for maintaining, expanding, and scaling our site
+* Stay plugged into emerging technologies/industry trends and apply them into operations and activities
+* Cooperate with web designers to match visual design intent
+
+### Web Developer Skills and Qualifications:
+
+Wordpress, JavaScript, JQuery, HTML, HTML5, CSS, CSS3, Web Programming Skills, E-Commerce, Teamwork, Verbal Communication, cross-browser compatibility, Web User Interface Design (UI), Security Principles, Object-Oriented Design, Web Services (REST/SOAP), Multimedia Content Development, API's
+
+### Requirements
+
+* __Proven working experience in web programming__
+* Top-notch programming skills and in-depth knowledge of modern HTML/CSS
+* Familiarity with at least one of the following programming languages: PHP, ASP.NET, Javascript or Ruby on Rails
+* A solid understanding of how web applications work including security, session management, and best development practices
+* Adequate knowledge of relational database systems, Object Oriented Programming, and web application development
+* Hands-on experience with network diagnostics, network analytics tools
+* Advanced knowledge of Search Engine Optimization process
+* Aggressive problem diagnosis and creative problem-solving skills
+* Strong organizational skills to juggle multiple tasks within the constraints of timelines and budgets with business acumen
+* Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques.
+* BS in computer science or a related field
+
+### Working environment
+
+Friendly & positive. We are a team and we work as a team. We have each other's back and we promote teamwork. We work in a spacious office with an industrial, minimal and contemporary approach.
+
+### Salary
+
+Competitive salary. Extra commisions and bonuses.
+
+### Skills
+* Object-Oriented Programming (OOP)
+* Cascading Style Sheets (CSS)
+* Web Application Development
+* Computer Science
+* Cross-browser Compatibility
+* HTML
+* JavaScript
+* Software Development
+* jQuery
+* Ruby on Rails
+
+### Level of education
+* Master's Degree
+
+### Job Details
+#### Seniority Level
+Executive
+
+#### Industry
+Marketing & Advertising
+
+#### Employment Type
+Full-time in CHANIA, CRETE
+
+* Please send applications [via mail](mailto:gm@mene-jo.gr)
+* PubDate: 24/04/2019 
+
 ## Java Software Engineer @ Cytech
 
 Come work for a team that works on high-performance telecoms infrastructure systems, built in Java.
