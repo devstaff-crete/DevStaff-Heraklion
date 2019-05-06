@@ -4,6 +4,20 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Web developer @ Mene & Jo
+
+Full-time Web Developer in Chania, Crete
+
+Mene & Jo take advantage of their multiannual experience and their rich portfolio to provide businesses with the marketing and graphic tools they need in order to be sustainable, functional, innovative and successful. We are based in Chania, Crete, Greece and we are looking for a full-time web developer to work 8h/day, 5d/week in Chania, Crete.
+
+Web Developer Job Responsibilities:
+
+The role is responsible for coding and modifying websites, from layout to function and according to the web designer's specifications. The web developer should also have a full understanding and knowledge base around how a website should run and be able to monitor its progress.
+
+[Read more and apply here](http://bit.ly/webdeveloperinchania)
+
+* PubDate: 05/05/2019 
+
 ## Java Software Engineer @ Cytech
 
 Come work for a team that works on high-performance telecoms infrastructure systems, built in Java.
