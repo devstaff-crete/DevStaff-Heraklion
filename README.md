@@ -21,6 +21,9 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #45 | 09/05/2019 | [Javascript](https://github.com/devstaff-crete/meetup45-Javascript) |
+| #44 | 11/04/2019 | [DevOps](https://github.com/devstaff-crete/meetup44-DevOps) |
+| #43 | 14/03/2019 | [Microservices](https://github.com/devstaff-crete/meetup43-Microservices) |
 | #42 | 07/02/2019 | [Startup Idea Validation Kit](https://github.com/devstaff-crete/meetup42-StartupIdeaValidationKit) |
 | #41 | 10/01/2019 | [Disaster Recovery (DR)](https://github.com/devstaff-crete/meetup41-DisasterRecovery) |
 | #40 | 13/12/2018 | [Elasticsearch](https://github.com/devstaff-crete/meetup40-Elasticsearch) |
