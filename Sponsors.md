@@ -14,7 +14,6 @@ The list below describes what our catering sponsor gets in return:
 
 * leaflets (on table at entrance),
 * online banner on DevStaff website (with back-link do-follow),
-* online banner on DevStaff Meetup.com group page,
 * "Thank-you" message by organizers during Meetup (not by company),
 * sponsor's slide in DevStaff Welcome presentation,
 * facebook page post.
