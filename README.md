@@ -1,4 +1,4 @@
-# [![DevStaff home](images/logo.png)](http://www.devstaff.gr)
+# [![DevStaff home](images/logo_community.png)](http://www.devstaff.gr)
 
 ## A Developer Community in Crete
 
