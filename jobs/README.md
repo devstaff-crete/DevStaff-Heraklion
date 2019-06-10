@@ -6,7 +6,7 @@ __Be advised that Job Openings older than 3 months will be removed for the sake 
 
 ## Perl/PHP developer @ Pancreta Bank
 
-Pancretan Co-op Bank wishes to hire a full time developer to be responsible for building and maintaining Perl and PHP scripts and applications.
+Pancreta Co-op Bank wishes to hire a full time developer to be responsible for building and maintaining Perl and PHP scripts and applications.
 
 ### Responsibilities
 
