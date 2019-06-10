@@ -4,6 +4,25 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Perl/PHP developer @ Pancreta Bank
+
+Pancretan Co-op Bank wishes to hire a full time developer to be responsible for building and maintaining Perl and PHP scripts and applications.
+
+### Responsibilities
+
+* Maintain and support custom applications
+* Design new applications based on business requirements
+
+### Requirements
+
+* 2+ years of experience developing and maintaining perl/PHP
+* 2+ years of experience writing complex SQL queries (Oracle, MS SQL Server)
+* Experience working in Linux environment and Git
+
+For more info please contact mmiliarakis@pancretabank.gr (2810-338874)
+
+* PubDate: 10/06/2019
+
 ## Web developer @ Mene & Jo
 
 Full-time Web Developer in Chania, Crete
