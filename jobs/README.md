@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Cloud Systems Engineer @ Sunlight.io
+
+Sunlight.io is building the next-generation cloud platform technology and we are looking for a Cloud Systems Engineer to be part of our team!
+
+You will get an opportunity to be involved with the complete lifecycle of the product, right from the development of controller code managing several system services through REST APIs, to the deployment of virtual machines and various network and storage components and to the platform testing and debugging process. 
+
+[Find out more and apply here](https://sunlight-io.workable.com/)
+
+* PubDate: 13/06/2019
+
 ## Perl/PHP developer @ Pancreta Bank
 
 Pancreta Co-op Bank wishes to hire a full time developer to be responsible for building and maintaining Perl and PHP scripts and applications.
