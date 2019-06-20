@@ -4,6 +4,17 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+
+## Mid Senior Python Developer(Remote) @ Omilia
+
+We are looking for a Senior Python Developer to join our team in Athens, Greece
+
+You will be part of a talented software team that delivers the latest in Virtual Assistant technologies in Banks and Mobile Network Operators across the world.
+
+[Read more and apply here](https://omilia-ltd.workable.com/j/56E28D7809?viewed=true)
+
+* PubDate: 21/06/2019
+
 ## Cloud Systems Engineer @ Sunlight.io
 
 Sunlight.io is building the next-generation cloud platform technology and we are looking for a Cloud Systems Engineer to be part of our team!
