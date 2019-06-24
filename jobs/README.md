@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Mobile,Java Developers and QAs @ Advantage FSE
+
+Advantage FSE (AFSE) is a leading supplier of Digital banking solutions, Funds Transfers and Payments. Our mission is to provide high-end solutions in the Finance sector by coupling State-of-the-Art Technology & Innovative Business Principles.
+
+Advantage continues to grow and following the successful setup of our office in Thessaloniki, we are working towards the opening of an office in Heraklion, Crete in September 2019 thus, we are looking for Mobile Developers (iOS & Android), QAs, Java Developers for our agile teams.
+
+[Please read more and apply here](https://advantage-fse.workable.com/)
+
+* PubDate: 24/06/2019
+
 ## Web developer @ Mene & Jo
 
 Full-time Web Developer in Chania, Crete
