@@ -21,6 +21,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #47 | 11/07/2019 | [Privacy by Design](https://github.com/devstaff-crete/meetup47-PrivacyByDesign) |
 | #46 | 13/06/2019 | [Automated Testing](https://github.com/devstaff-crete/meetup46-AutomatedTesting) |
 | #45 | 09/05/2019 | [Javascript](https://github.com/devstaff-crete/meetup45-Javascript) |
 | #44 | 11/04/2019 | [DevOps](https://github.com/devstaff-crete/meetup44-DevOps) |
