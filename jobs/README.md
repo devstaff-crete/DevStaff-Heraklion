@@ -4,6 +4,11 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+We are looking for senior and junior software developers to join our team. The ideal candidates will be responsible to develop modern applications using cutting edge technologies for travel industry customers worldwide.
+
+* PubDate: 21/08/2019
+* Apply [here](https://www.cyberlogic.gr/en/careers/)
+
 ## Mobile,Java Developers and QAs @ Advantage FSE
 
 Advantage FSE (AFSE) is a leading supplier of Digital banking solutions, Funds Transfers and Payments. Our mission is to provide high-end solutions in the Finance sector by coupling State-of-the-Art Technology & Innovative Business Principles.
