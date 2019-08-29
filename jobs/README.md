@@ -4,6 +4,15 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Mid Senior JavaScript Engineer React/Redux(Remote) @ Omilia
+
+We are looking for a Mid Senior Level Javascript Engineer to join our team in Athens, Greece.
+
+You will be part of a talented software team that delivers the latest in Virtual Assistant technologies in Banks and Mobile Network Operators across the world.
+
+* PubDate: 29/08/2019
+* [Read more and apply here](https://omilia-ltd.workable.com/jobs/530335)
+
 ## Junior & Senior Software Developers (Angular/.NET) @ [Cyberlogic](http://www.cyberlogic.gr)
 
 We are looking for senior and junior software developers to join our team. The ideal candidates will be responsible to develop modern applications using cutting edge technologies for travel industry customers worldwide.
