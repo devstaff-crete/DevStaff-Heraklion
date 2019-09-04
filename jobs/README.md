@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Android developer (Heraklion) @ [ORTEC for Communications](https://www.orteccommunications.com)
+
+Looking for the next challenge in your career? We are hiring! We are currently seeking a full time Android mobile developer to join our team in Heraklion, Crete! Come and talk to us for an exciting opportunity at ORTEC For Communications.
+
+[Find out more](https://www.orteccommunications.com/software-development) about this position.
+
+* PubDate: 04/09/2019
+
 ## Mid Senior JavaScript Engineer React/Redux(Remote) @ Omilia
 
 We are looking for a Mid Senior Level Javascript Engineer to join our team in Athens, Greece.
