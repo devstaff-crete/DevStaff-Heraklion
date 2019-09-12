@@ -4,6 +4,15 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Back-end Developer (Heraklion or Remote) @ [Enartia](https://www.enartia.com/)
+
+Enartia is looking for an experienced, analytical, and self-motivated Back-end Developer to join our team. The ideal candidate cares about the quality and maintainability of their code, as well as the problem-solving process itself.
+For this role, working hours can be used either on-site or up to 100% remotely.
+
+[Read more & Apply here](https://enartia.workable.com/j/020FDA41C1) about this position.
+
+* PubDate: 12/09/2019
+
 ## Android developer (Heraklion) @ [ORTEC for Communications](https://www.orteccommunications.com)
 
 Looking for the next challenge in your career? We are hiring! We are currently seeking a full time Android mobile developer to join our team in Heraklion, Crete! Come and talk to us for an exciting opportunity at ORTEC For Communications.
