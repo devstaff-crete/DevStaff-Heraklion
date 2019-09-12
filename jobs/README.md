@@ -9,7 +9,7 @@ __Be advised that Job Openings older than 3 months will be removed for the sake 
 Enartia is looking for an experienced, analytical, and self-motivated Back-end Developer to join our team. The ideal candidate cares about the quality and maintainability of their code, as well as the problem-solving process itself.
 For this role, working hours can be used either on-site or up to 100% remotely.
 
-[Read more & Apply here](https://enartia.workable.com/j/020FDA41C1) about this position.
+[Read more & Apply here](https://enartia.workable.com/j/020FDA41C1) for this position.
 
 * PubDate: 12/09/2019
 
