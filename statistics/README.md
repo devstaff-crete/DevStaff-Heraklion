@@ -4,6 +4,7 @@ Be advised that these statistics are approximations of the real participants!
 
 | Date | # | RSVPs | Beginning | Middle | End | Remote |
 |------|---|:------:|:---------:|:------:|:---:|:---:|
+| 12-09-2019 | 48 | 41 | 24 | 36 | 33 | 4 |
 | 11-07-2019 | 47 | 31 | 20 | 25 | 26 | 0 |
 | 13-06-2019 | 46 | 58 | 38 | 40 | 40 | 5 |
 | 09-05-2019 | 45 | 47 | 33 | 39 | 38 | 0-3 |
