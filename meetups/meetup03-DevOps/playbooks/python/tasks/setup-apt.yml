@@ -1,0 +1,3 @@
+---
+  - name: install python-apt for debian
+    action: command /usr/bin/apt-get install -y python-apt

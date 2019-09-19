@@ -1,0 +1,14 @@
+---
+  - hosts: '{{ target }}'
+
+    remote_user: ansibleuser
+    sudo: true
+
+    vars:
+      test: all
+
+    tasks:
+      - include: tasks/setup.yml
+
+    handlers:
+      - include: handlers/handlers.yml

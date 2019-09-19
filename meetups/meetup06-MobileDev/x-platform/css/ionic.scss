@@ -1,0 +1,171 @@
+
+// Default mixins and settings -----------------
+@import "theme/mixins";
+@import "theme/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+
+
+// Override theme settings
+$backgroundColor: #3374de;
+
+$mainColor: #fff;
+$headingColor: #fff;
+
+$mainFontSize: 32px;
+$mainFont: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+$headingFont: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+$headingTextShadow: 1px 1px 15px rgba(0, 0, 0, .2);
+$headingLetterSpacing: normal;
+$headingTextTransform: none;
+$headingFontWeight: 200;
+$linkColor: white;
+$linkColorHover: white;
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+$heading1Size: 2.0em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+section.has-light-background {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #222;
+	}
+}
+
+
+// Theme template ------------------------------
+@import "theme/theme";
+// ---------------------------------------------
+
+.reveal {
+
+  h1, h2, h3, h4 {
+    text-transform: uppercase;
+  }
+
+  p, th, td, ol, ul, li {
+    text-shadow: $headingTextShadow;
+  }
+
+  section img {
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+  }
+
+  blockquote {
+    display: block;
+    position: relative;
+    width: 70%;
+    margin: 20px auto;
+    padding: 5px;
+    font-style: italic;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  table {
+    td, th {
+      border: 0;
+      background: rgba(0,0,0,.15);
+    }
+
+    th {
+      text-transform: uppercase;
+      background: rgba(0,0,0,.4);
+    }
+  }
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  .dark-shadow {
+    text-shadow: 5px 0 10px black;
+  }
+
+  .left {
+    text-align: left;
+  }
+
+  .me {
+    margin: 30px 0 0 130px;
+    font-size:1.2em;
+    line-height: 2em;
+    list-style-type: none;
+
+    li {
+      padding: 0 0 0 70px;
+      background-size:
+    }
+  }
+
+  strong {
+    font-weight: 900;
+  }
+
+  .native-logos {
+
+    img {
+      width: 100px;
+      margin: 40px 20px 0 20px;
+    }
+
+  }
+
+  .stack {
+    width: 330px;
+    margin: 0 350px 0 0;
+    list-style-type: none;
+
+    li {
+      margin: 8px;
+      padding: 5px 6px 7px 12px;
+    }
+  }
+
+  .ionic-blue,
+  .ionic-blue * {
+    text-shadow: none;
+    color: #3374de;
+  }
+
+  .col {
+    float: left;
+    width: 50%;
+  }
+  .col.preview {
+    width: 35%;;
+  }
+  .col.code {
+    width: 65%;
+    text-align: left;
+  }
+  .col.code > * {
+    margin-left: 40px;
+  }
+
+  .demo-frame {
+    background: url('../img/demo-bg.png') no-repeat;
+    background-size: 340px;
+    height: 700px;
+    margin-top: 0;
+    margin-left: -15px;
+    min-width: 345px;
+  }
+
+  .demo-frame iframe {
+    position: absolute;
+    left: 7px;
+    top: 98px;
+    width: 296px;
+    height: 527px
+  }
+
+}

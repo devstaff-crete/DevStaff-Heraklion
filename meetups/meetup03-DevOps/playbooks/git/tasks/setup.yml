@@ -1,0 +1,9 @@
+---
+  - name: install git
+    apt: pkg=git state=present update_cache=yes
+
+  - name: Git | Push global config file
+    template:
+      src=templates/gitconfig.j2
+      dest=/etc/gitconfig
+      

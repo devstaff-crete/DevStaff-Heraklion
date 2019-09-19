@@ -1,0 +1,31 @@
+### Linux ###
+*~
+.directory
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+### Sublime Tex ###
+*.sublime-project
+*.sublime-workspace
+
+### Node ###
+*.log*
+*.pid
+*.seed
+lib-cov
+coverage
+.grunt
+node_modules
