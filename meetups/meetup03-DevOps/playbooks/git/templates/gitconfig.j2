@@ -1,0 +1,14 @@
+# {{ ansible_managed }}
+
+[user]
+  name = {{ git_username|default('ansibleuser') }}
+  email = {{ git_usermail }}
+
+[color]
+  ui = true
+
+[core]
+  editor = {{ git_coreeditor|default('nano') }}
+
+[push]
+  default = {{ git_pushdefault|default('current')  }}

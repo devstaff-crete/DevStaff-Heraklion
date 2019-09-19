@@ -1,0 +1,17 @@
+---
+  - hosts: '{{ target }}'
+
+    remote_user: ansibleuser
+    sudo: true
+
+    vars:
+      git_username : "YourNameHere"
+      git_usermail : "YourEmail@here.gr"
+      git_coreeditor : "nano"  
+      git_pushdefault : "current"
+
+    tasks:
+      - include: tasks/setup.yml
+
+    handlers:
+      - include: handlers/handlers.yml

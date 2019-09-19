@@ -1,0 +1,38 @@
+
+de ###
+logs
+*.log
+pids
+*.pid
+*.seed
+lib-cov
+coverage
+.lock-wscript
+build/Release
+node_modules
+
+### SublimeText ###
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+sftp-config.json
+
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+### IDE ###
+.idea
+
+### Project Specific ###
+config/runtime.yaml # Runtime configuration for swagger app
+.jsbeautifyrc
+dist/
+

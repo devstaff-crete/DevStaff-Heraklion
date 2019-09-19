@@ -1,0 +1,1 @@
+# meetup42-StartupIdeaValidationKit
