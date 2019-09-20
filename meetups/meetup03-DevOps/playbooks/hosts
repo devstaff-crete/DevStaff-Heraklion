@@ -1,0 +1,4 @@
+test.yourdomain.com ansible_ssh_host=1.2.3.4
+
+[test]
+test.yourdomain.com ansible_ssh_host=1.2.3.4

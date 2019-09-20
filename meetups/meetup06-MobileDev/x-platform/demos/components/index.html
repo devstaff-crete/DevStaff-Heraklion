@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html ng-app="ionicApp">
+<head>
+  <link href="../../ionic/css/ionic.css" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
+  <script src="../../ionic/js/ionic.bundle.js"></script>
+  <script src="index.js"></script>
+  <style>
+    p.spin {
+      text-align: center;
+    }
+    .spinner svg {
+      width: 24%;
+      height: 45px;
+    }
+  </style>
+</head>
+
+<body ng-controller="MainCtrl">
+
+  <ion-header-bar>
+    <button class="button ion-settings button-icon" ng-click="showActionsheet()"></button>
+    <h1 class="title">Components</h1>
+    <button class="button button-icon ion-compose" ng-click="modal.show()"></button>
+  </ion-header-bar>
+
+  <ion-content>
+
+    <ion-refresher on-refresh="doRefresh()"></ion-refresher>
+
+    <ion-list>
+
+      <a class="item item-icon-right" ng-repeat="item in items" href="#">
+        <i class="icon ion-chevron-right icon-accessory"></i>
+        {{ ::item }}
+      </a>
+
+      <ion-toggle>
+        Toggle
+      </ion-toggle>
+
+      <ion-checkbox>
+        Checkbox
+      </ion-checkbox>
+
+      <label class="item item-input item-select">
+        <div class="input-label">
+          Lightsaber
+        </div>
+        <select>
+          <option>Blue</option>
+          <option selected>Green</option>
+          <option>Red</option>
+        </select>
+      </label>
+
+      <div class="item range range-positive">
+        <i class="icon ion-ios-sunny-outline"></i>
+        <input type="range" name="volume" min="0" max="100" value="33">
+        <i class="icon ion-ios-sunny"></i>
+      </div>
+
+    </ion-list>
+
+    <div class="padding">
+      <p>
+        <button class="button button-block button-positive" ng-click="showConfirm()">Popups</button>
+      </p>
+    </div>
+
+    <p class="spin">
+      <ion-spinner icon="android"></ion-spinner>
+      <ion-spinner icon="ios"></ion-spinner>
+      <ion-spinner icon="bubbles" class="spinner-balanced"></ion-spinner>
+      <ion-spinner icon="crescent" class="spinner-royal"></ion-spinner>
+    </p>
+
+    <p class="spin">
+      <ion-spinner icon="dots" class="spinner-dark"></ion-spinner>
+      <ion-spinner icon="lines" class="spinner-calm"></ion-spinner>
+      <ion-spinner icon="ripple" class="spinner-assertive"></ion-spinner>
+      <ion-spinner icon="spiral"></ion-spinner>
+    </p>
+  </ion-content>
+
+  <script id="templates/modal.html" type="text/ng-template">
+    <ion-modal-view>
+      <ion-header-bar class="bar bar-header bar-positive">
+        <h1 class="title">New Contact</h1>
+        <button class="button button-clear button-primary" ng-click="modal.hide()">Cancel</button>
+      </ion-header-bar>
+      <ion-content class="padding">
+        <div class="list">
+          <label class="item item-input">
+            <span class="input-label">First Name</span>
+            <input ng-model="newUser.firstName" type="text">
+          </label>
+          <label class="item item-input">
+            <span class="input-label">Last Name</span>
+            <input ng-model="newUser.lastName" type="text">
+          </label>
+          <label class="item item-input">
+            <span class="input-label">Email</span>
+            <input ng-model="newUser.email" type="text">
+          </label>
+          <button class="button button-full button-positive" ng-click="createContact(newUser)">Create</button>
+        </div>
+      </ion-content>
+    </ion-modal-view>
+  </script>
+
+</body>
+</html>

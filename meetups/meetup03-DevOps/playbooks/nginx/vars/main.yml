@@ -1,0 +1,9 @@
+nginx_worker_processes: 4
+nginx_user: www-data
+nginx_fcgi_fpm: false
+nginx_status_ranges: ["127.0.0.1"]
+
+nginx_fastcgi_upstreams:
+- name: www
+  keepalive: 5
+  servers: ["unix:/var/run/php5-fpm-www.sock"]

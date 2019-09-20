@@ -1,0 +1,18 @@
+### The configuration for the status pages of php-fpm. As described in
+### http://www.php.net/manual/en/install.fpm.configuration.php.
+
+{% for upstream in nginx_fastcgi_upstreams %}
+location = /fpm-status-{{ upstream.name }} {
+    if ($dont_show_status) {
+        return 404;
+    }
+    fastcgi_pass {{ upstream.name }};
+}
+
+location = /ping-{{ upstream.name }} {
+    if ($dont_show_status) {
+        return 404;
+    }
+    fastcgi_pass {{ upstream.name }};
+}
+{% endfor %}

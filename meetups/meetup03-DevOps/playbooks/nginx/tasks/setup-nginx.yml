@@ -1,0 +1,36 @@
+---
+
+  - name: Nginx | Add Nginx apt repository
+    apt_repository: repo=ppa:nginx/stable
+
+  - name: Nginx | Install Nginx ('full' version)
+    apt:
+      pkg=nginx
+      update_cache=yes
+      force=yes
+
+  - name: Nginx | Ensure Nginx is running
+    service:
+      name=nginx
+      state=started
+
+  - name: copy nginx_modsite file
+    copy: src=files/nginx_modsite dest=/usr/bin/nginx_modsite owner=root group=root mode="0755"
+
+  - name: create /etc/nginx/global
+    file: path=/etc/nginx/global state=directory owner=root group=root mode=0755
+
+  - name: default index.html page
+    action: template src=default_index.html.j2 dest=/var/www/html/index.html
+    tags:
+      - doindexpage
+
+#  - name: copy files to dirs
+#    copy: src=files/{{ item }} dest=/etc/nginx/global/ owner=root group=root mode="0644"
+#    with_items:
+#      - common.conf
+#      - multisite.conf
+#      - ssl-common.conf
+#      - wordpress.conf
+#      - ssl.conf
+

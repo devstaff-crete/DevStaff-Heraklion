@@ -1,0 +1,805 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Hybrid Mobile Development</title>
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+    <link rel="stylesheet" href="css/reveal.css">
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+    <div class="reveal">
+
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+
+            <section>
+                <h1>
+                    <p>Cross-platform</p>
+                    <p>mobile Development</p>
+                </h1>
+            </section>
+
+
+            <section>
+                <ul style="position: absolute; top:0; left:300px;">
+                    <li><a href="https://gr.linkedin.com/in/manolis-kritsotakis-29989b4" target="_blank">Manolis Kritsotakis</a></li>
+                    <li><a href="mailto:kritsot@gmail.com">kritsot@gmail.com</a></li>
+                </ul>
+            </section>
+
+            <section>
+                <h3>More Platforms. More Problems.</h3>
+                <ul>
+                    <li>Proficiency in each platform required</li>
+                    <li>Entirely separate code bases</li>
+                    <li>Timely &amp; expensive development</li>
+                    <li>Diminishing returns</li>
+                </ul>
+                <p style="margin-top: 60px">
+                    <img src="img/apple.png" class="logo" width="200" height="200" style="margin-right: 10px">
+                    <img src="img/android.png" class="logo" width="200" height="200" style="margin-left: 10px; margin-right: 10px">
+                    <img src="img/windows.png" class="logo" width="200" height="200" style="margin-left: 10px; margin-right: 10px">
+                    <img src="img/blackberry.png" class="logo" width="200" height="200" style="margin-left: 10px;">
+                </p>
+            </section>
+
+            <section>
+                <h3>
+                    <p>
+                        Cross-platform
+                    </p>
+                    <p>
+                        Mobile Development
+                    </p>
+                </h3>
+                <img src="img/lotr_ring.png" class="logo" width="296" height="331">
+                <blockquote>
+                    NO ring to rule them all!
+                </blockquote>
+            </section>
+
+            <section>
+                <h2>Framework Types</h2>
+                <ol>
+                    <li>Web-based (hybrid)</li>
+                    <ul>
+                        <li>Cordova/PhoneGap</li>
+                        <li>Ionic</li>
+                        <li>jQuery Mobile</li>
+                        <li>Sencha Touch</li>
+                    </ul>
+                    <li>Converters</li>
+                    <ul>
+                        <li>Unity</li>
+                        <li>Corona</li>
+                        <li>Appcelerator</li>
+                        <li>NativeScript</li>
+                        <li>Codename One</li>
+                        <li>Xamarin</li>
+                    </ul>
+                </ol>
+                <aside class="notes">
+                    Frameworks can be split into two types. The first is Web-based. These include Cordova/PhoneGap, jQuery Mobile, and Sencha Touch. What all of these frameworks have in common is that they focus exclusively on client-side technologies such as HTML/HTML5,
+                    JavaScript, CSS, etc… The second category is is made up of "Converters". These frameworks take one of several programming languages and convert it into executable native code for the target devices. Some good examples of that include
+                    Unity, Corona, and titanium. Some frameworks, such as Vaadin, produce cross-browser front-end components that may be combined with other client-side frameworks.
+                </aside>
+            </section>
+
+            <section>
+                <h2>Converters</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Pros</th>
+                            <th>Cons</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Performance </td>
+                            <td>API updates and bug-fixes reliance.</td>
+                        </tr>
+                        <tr>
+                            <td>Java, C++, .NET, JavaScript</td>
+                            <td>UI tweaking inevitable to achieve native feel</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>Difficult maintance for large apps</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <aside class="notes">
+                    <h2>Pros</h2>
+                    <ul>
+                        <li>Results in performance that is closer to native than Web Frameworks</li>
+                        <li>Leverages well-established languages such as Java, C++, and JavaScript.</li>
+                    </ul>
+                    <h2>Cons</h2>
+                    <ul>
+                        <li>Forces reliance on Converter supplier for API updates and bug-fixes. When the supplier code is closed-source that is a even bigger issue</li>
+                        <li>Large and/or complex applications become prohibitively difficult to maintain after a certain point.</li>
+                        <li>Each device needs to have some UI tweaking to achieve a more native feel.</li>
+                    </ul>
+                </aside>
+
+            </section>
+
+
+
+            <section>
+                <h2>Hybrid Apps!</h2>
+
+                <p style="font-size: 32px">
+                    <strong>HTML5</strong> that acts like native</p>
+                <p style="font-size: 32px">Web wrapped in
+                    <strong>native layer</strong>
+                </p>
+                <p style="font-size: 32px">Direct access to
+                    <strong>native APIs</strong>
+                </p>
+                <p style="font-size: 32px">Familiar
+                    <strong>web dev</strong> environment</p>
+                <p style="font-size: 32px">A
+                    <strong>single code base</strong> (web platform!)</p>
+            </section>
+
+
+
+            <section>
+                <h2>Hybrid Apps!</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Pros</th>
+                            <th>Cons</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Leverage existing knowledge (cheaper)</td>
+                            <td>Performance hit </br> (larger memory footprint)</td>
+                        </tr>
+                        <tr>
+                            <td>Rapid development</td>
+                            <td>UI tweaking to achieve native feel</td>
+                        </tr>
+                        <tr>
+                            <td>Many available options</td>
+                            <td>No Direct access to latest UIs and APIs</td>
+                        </tr>
+                        <tr>
+                            <td>Mobile site with same code</td>
+                            <td>Native: Vendors' IDEs and frameworks</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <aside class="notes">
+                    <h2>Pros</h2>
+                    <ul>
+                        <li>Leverage existing knowledge of HTML, CSS and JavaScript. That may make these frameworks easier for web developers to begin with.</li>
+                        <li>Easy to work with because changes are reflected in the application almost immediately.</li>
+                        <li>There are several excellent frameworks to choose from.</li>
+                        <li>Applications may be built to be accessed as a mobile site also. Vendor-independent application distribution for simple apps.In some cases, native apps may only be distributed via vendor-approved channels.</li>
+                    </ul>
+                    <h2>Cons</h2>
+                    <ul>
+                        <li>Performance is often noticeably worse than native.</li>
+                        <li>Each device needs to have some UI tweaking to achieve a more native feel.</li>
+                        <li>No Direct access to latest UIs and APIs</li>
+                        <li>Vendors' IDEs and Frameworks tend to be very well designed because they are developed by fairly large for-profit corporations.</li>
+                    </ul>
+                </aside>
+            </section>
+
+
+            <section>
+                <h2>Gartner hype cycle</h2>
+                <img src="img/hype-cycle-hybrid.png">
+            </section>
+
+
+            <section data-background="img/zuckerberg.jpg">
+                <blockquote style="padding-left:350px;font-size: 30px; font-family:Georgia; text-shadow: 5px 0 15px rgba(0,0,0,.7)">
+                    &ldquo;When I’m introspective about the last few years I think the biggest mistake that we made, as a company, is betting too much on HTML5 as opposed to native… because it just wasn’t there.&rdquo;
+                    <p>Mark Zuckerberg, September 2012</p>
+                </blockquote>
+            </section>
+
+            <section>
+                <img src="img/linkedin.png"/>
+                <blockquote style="background-color:rgba(0, 0, 0, 0.2);font-size: 20px; font-family:Georgia; text-shadow: 5px 0 15px rgba(0,0,0,.9)">
+                    <p>&ldquo;
+                        There are a few things that are critically missing. One is <b>tooling</b> support — having a debugger that actually works, performance <b>tools</b> that tell you where the memory is running out.
+                    </p>
+                    <p>
+                        If you look at Android and iOS, there are two very large corporations that are focused on building <b>tools</b> to give a lot of detailed information when things go wrong in production. On the mobile web side, getting those desktop <b>tools</b> to work for mobile devices is really difficult.&rdquo;
+                    </p>
+
+                    <p>Kiran Prasad, April 2013</p>
+                </blockquote>
+
+            </section>
+
+            <section>
+                <img src="img/visionMobile.png"/>
+                <blockquote style="background-color:rgba(0, 0, 0, 0.2);font-size: 30px; font-family:Georgia; text-shadow: 5px 0 15px rgba(0,0,0,.7)">
+                    &ldquo;Our research on HTML5 vs native apps in Q3 2013 showed that the key issue in HTML5 development, is not performance or API reach, but the lack of mature development tools.&rdquo;
+                    <p><a href="http://www.visionmobile.com/product/developer-economics-q1-2014-state-developer-nation">2014 survey of over 7,000 developers</a></p>
+                </blockquote>
+            </section>
+
+
+            <section data-background="img/dylan.jpg">
+                <img src="img/times-changin.png" style="height: 100px; margin: 0 300px 40px 0;">
+            </section>
+
+            <section>
+                <h2>TOOLING IMPROVEMENT #1</h2>
+                <p>REMOTE DEBUGGING (ios6+)</p>
+                <img src="img/ios-remote-debugging.gif">
+            </section>
+
+
+            <section>
+                <h2>TOOLING IMPROVEMENT #1</h2>
+                <p>REMOTE DEBUGGING (android 4.4+)</p>
+                <img src="img/heap-snapshot.png">
+            </section>
+
+            <section>
+                <h2>TOOLING IMPROVEMENT #2</h2>
+                <p style="font-weight:bold;">CLOUD BASED BUILDS</p>
+                <ul>
+                    <li>PhoneGap Build</li>
+                    <li>Telerik AppBuilder</li>
+                    <li>Ionic Package</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>TOOLING IMPROVEMENT #3</h2>
+                <p style="font-weight:bold;">IN-APP LIVE UPDATES</p>
+                <ul>
+                    <li>PhoneGap Hydration</li>
+                    <li>Ionic deploy</li>
+                    <li>Trigger.io reload</li>
+                    <li>Meteor Hot Code Push</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>TOOLING IMPROVEMENT #3</h2>
+                <p style="font-weight:bold;">IN-APP LIVE UPDATES</p>
+                <blockquote style="background-color:rgba(0, 0, 0, 0.2);font-size: 20px; font-family:Georgia; text-shadow: 5px 0 15px rgba(0,0,0,.7)">
+                    <p style="font-weight:bold;">Apple Developer Program Agreement: Section 3.3.2</p>
+                    <p>
+                    &ldquo;Except as set forth in the next paragraph, an Application may not download or install
+                    executable code. Interpreted code may only be used in an Application if all scripts, code and
+                    interpreters are packaged in the Application and not downloaded. The only exceptions to the
+                    foregoing are scripts and code downloaded and run by Apple's built-in WebKit framework or
+                    JavascriptCore, provided that such scripts and code do not change the primary purpose of the
+                    Application by providing features or functionality that are inconsistent with the intended and
+                    advertised purpose of the Application as submitted to the App Store.&rdquo;
+                    </p>
+                </blockquote>
+            </section>
+
+            <section>
+                <h2>TOOLING IMPROVEMENT #4</h2>
+                <p style="font-weight:bold;">LIVE RELOAD (DEVELOPMENT)</p>
+                <ul>
+                    <li>Teleric AppBuilder LiveSync</li>
+                    <li>Ionic LiveReload</li>
+                </ul>
+                <img src="img/livesync.gif">
+            </section>
+
+            <section>
+                <h4 style="font-size:50px; margin:0;">Web-standards</h4>
+                <h4 style="font-size:80px;">Have improved!</h4>
+                <p style="font"><a href="http://caniuse.com/">caniuse.com</a> is lookin' pretty good nowadays</p>
+                <p>Android (4.4+) is now
+                    <strong>Chromium-based</strong>
+                </p>
+                <p>iOS users keep their devices
+                    <strong>up-to-date</strong>
+                </p>
+
+                <p style="text-align:center;">
+                    <img src="img/caniuse-querySelector.png" width=460 class="logo">
+                    <img src="img/caniuse-flexbox.png" width=460 class="logo">
+                </p>
+            </section>
+
+
+            <section data-background="white">
+                <p style="font-size:20px">75% of devices are using io9.</p>
+                <img src="img/ios9-adoption.png">
+                <p style="font-size:20px">As measured by the App Store on January 11, 2016.</p>
+                <p style="font-size:10px">https://developer.apple.com/support/app-store/</p>
+            </section>
+
+
+            <section data-background="white">
+                <img src="img/android-adoption.png">
+                <p>Data collected during a 7-day period ending on January 4, 2016.
+                    <br/>Any versions with less than 0.1% distribution are not shown.</p>
+                <p style="font-size:10px">http://developer.android.com/about/dashboards/index.html</p>
+            </section>
+
+            <section data-background="img/oldphones.jpg">
+                <blockquote style="font-size: 80px; font-family:Georgia; text-shadow: 5px 0 15px rgba(0,0,0,.7)">
+                    &ldquo;It's not 2007 anymore&rdquo;
+                </blockquote>
+                <table>
+                    <tr>
+                        <th>Year</th>
+                        <th>Device</th>
+                        <th>Processor</th>
+                        <th>RAM</th>
+                    </tr>
+                    <tr>
+                        <td>2007</td>
+                        <td>iPhone</td>
+                        <td>400 MHz</td>
+                        <td>128 MB</td>
+                    </tr>
+                    <tr>
+                        <td>2010</td>
+                        <td>iPhone 4</td>
+                        <td>1 GHz</td>
+                        <td>512 MB</td>
+                    </tr>
+                    <tr>
+                        <td>2015</td>
+                        <td>iPhone 6</td>
+                        <td>1.4 GHz dual-core</td>
+                        <td>1 GB</td>
+                    </tr>
+                </table>
+            </section>
+
+
+            <section>
+                <h2>Performance improvement (android)</h2>
+                <ul>
+                    <li>Chromium based WebView (android 4.4+)</li>
+                    <ul>
+                        <li>CSS3 Flexbox</li>
+                        <li>Web Sockets (remote debugging)</li>
+                        <li>Web Workers (multithreaded programming)</li>
+                        <li>Hardware-accelerated CSS animations</li>
+                    </ul>
+                    <li>Auto-updating WebView (android 5.0+)</li>
+                    <li>Crosswalk (Chromium based webview for android < 4.4)</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Performance improvement (iOS)</h2>
+                <ul>
+                    <li>WKWebView (ios 8.0+)</li>
+                    <ul>
+                        <li>Nitro JIT JavaScript engine</li>
+                        <li>4X improvement in Javascript Execution Time</li>
+                        <li>20% improvement in general browsing speed</li>
+                    </ul>
+                    <li>Crosswalk</li>
+                </ul>
+            </section>
+
+
+            <section data-background="white">
+                <img src="img/ionic-logo.svg" style="width:750px;">
+            </section>
+
+
+            <section>
+                <h3 style="margin:0; font-size:32px">Web Technologies You Already</h3>
+                <h2 style="font-size: 85px;">Know &amp; Love</h2>
+                <div style="margin-top: 30px">
+                    <img src="img/html.png" class="logo" width="92.5" height="130">
+                    <img src="img/css.png" class="logo" width="92.5" height="130" style="margin-left: 80px; margin-right: 80px;">
+                    <img src="img/js.png" class="logo" width="92.5" height="130">
+                </div>
+                <div style="margin-top: 30px">
+                    <img src="img/angularjs.png" class="logo" width="130" height="130" >
+                    <img src="img/gulp.svg" class="logo" width="130" height="130" style="background:#CF4646;margin-left: 50px; margin-right: 50px;">
+                    <img src="img/cordova_bot.png" class="logo" width="130" height="130">
+                </div>
+                <p style="margin-top: 30px; opacity: 0.6">
+                    (Front-end developers will feel right at home)
+                </p>
+            </section>
+
+
+            <section data-background="img/angular-bg.png">
+                <h3 style="font-size:42px; margin:0">Superpowered by</h3>
+                <h2 style="font-size:90px;">Angular</h2>
+                <p style="margin-top:60px;">
+                    <strong>Extends the HTML</strong> vocabulary</p>
+                <p>Proven for
+                    <strong>large-scale</strong> app development</p>
+                <p>UI Components using
+                    <strong>Directives &amp; Services</strong>
+                </p>
+                </ul>
+            </section>
+
+
+            <section data-background="img/sass.png">
+                <h2 style="font-size:3em; text-transform: none;">Sass!</h2>
+                <p>CSS generated from the
+                    <strong>Sass preprocessor</strong>
+                </p>
+                <p>Quickly give your app its own
+                    <strong>look and feel</strong>
+                </p>
+                <p>CSS designed to be
+                    <strong>easily overridden</strong>
+                </p>
+                <p>
+                    <strong>Variables based</strong> with default settings</p>
+            </section>
+
+
+            <section data-background="img/phones-stacked.png">
+                <h2 style="color:black; margin-bottom: 50px">How it all comes together</h2>
+                <ul class="stack">
+                    <li style="background: #20ab93">Your App</li>
+                    <li style="background: #4c8df5">Ionic</li>
+                    <li style="background: #d94442">Angular</li>
+                    <li style="background: #3b4854">WebView (Cordova)</li>
+                    <li style="background: #d4deee; color: #3b4854;">Native App</li>
+                </ul>
+            </section>
+
+
+            <section data-background="img/continuity.png">
+            </section>
+
+
+            <section>
+                <div class="col preview demo-frame">
+                    <iframe isrc="demos/list/index.html"></iframe>
+                </div>
+                <div class="col code">
+                    <h2>Complex Lists</h2>
+                    <ul style="margin-left: 70px">
+                        <li>AngularJS Directive</li>
+                        <li>Buttons exposed by swiping</li>
+                        <li>Reorder</li>
+                        <li>Delete</li>
+                    </ul>
+                    <pre>
+                        <code data-trim contenteditable class="xml">
+<ion-list>
+    <ion-item ng-repeat="item in items" item="item">
+        List Item {{ item.id }}
+    </ion-item>
+</ion-list>
+                        </code>
+                    </pre>
+                </div>
+            </section>
+
+
+            <section>
+                <div class="col preview demo-frame">
+                    <iframe isrc="demos/collection-repeat/index.html"></iframe>
+                </div>
+                <div class="col code">
+                    <h3>Collection Repeat</h3>
+                    <ul style="margin-left: 70px">
+                        <li>Replacement for Angular's ng-repeat</li>
+                        <li>Inspired by iOS’s UICollectionView</li>
+                        <li>Scroll through thousands of items</li>
+                        <li>Only renders the viewable items</li>
+                        <li>Smooth scrolling!</li>
+                    </ul>
+                    <pre>
+                        <code data-trim contenteditable class="xml">
+<div class="list">
+    <div collection-repeat="c in contacts">
+        <h2>{{ c.name }}</h2>
+        <p>{{ c.email }}</p>
+    </div>
+</div>
+                        </code>
+                    </pre>
+                </div>
+            </section>
+
+
+            <section>
+                <div class="col preview demo-frame">
+                    <iframe isrc="demos/tabs/index.html"></iframe>
+                </div>
+                <div class="col code">
+                    <h3>Navigation</h3>
+                    <ul style="margin-left: 70px">
+                        <li>Uses AngularUI Router</li>
+                        <li>Shows back button when possible</li>
+                        <li>Transitions follow direction of nav</li>
+                        <li>Updates the app's URL</li>
+                        <li>Multi-history stack</li>
+                        <li>Cached views</li>
+                    </ul>
+                    <pre>
+                        <code data-trim contenteditable class="xml">
+<ion-tabs>
+
+    <ion-tab title="Home" icon="ion-ios-home">
+        <ion-nav-view name="home"></ion-nav-view>
+    </ion-tab>
+
+    <ion-tab title="About" icon="ion-ios-information">
+        <ion-nav-view name="about"></ion-nav-view>
+    </ion-tab>
+
+    <ion-tab title="Contact" icon="ion-ios-world">
+        <ion-nav-view name="contact"></ion-nav-view>
+    </ion-tab>
+
+</ion-tabs>
+                        </code>
+                    </pre>
+                </div>
+            </section>
+
+
+            <section>
+                <div class="col preview demo-frame">
+                    <iframe isrc="demos/components/index.html"></iframe>
+                </div>
+                <div class="col code">
+                    <h3>Other Components</h3>
+                    <ul style="margin-left: 70px">
+                        <li>Side Menus</li>
+                        <li>Actionsheet</li>
+                        <li>Modal</li>
+                        <li>Pull To Refresh</li>
+                        <li>Spinners</li>
+                        <li>Slidebox</li>
+                        <li>Infinite Scroll</li>
+                        <li>Swipeable List Options</li>
+                        <li>Popup</li>
+                        <li>Popover</li>
+                        <li>Loading Overlay</li>
+                        <li>Inputs</li>
+                        <li>Buttons</li>
+                        <li>etc.</li>
+                    </ul>
+                </div>
+            </section>
+
+
+            <section>
+                <h2>
+                    <strong>MIT LICENSED</strong>
+                </h2>
+                <h6 class="light-text">Free to use (even commercially)</h6>
+            </section>
+
+
+            <section>
+                <h2>Ionicons</h2>
+                <img src="img/ionicons.png" class="logo" width="655" height="436">
+                <p>700+ MIT licensed font-icons included</p>
+                <p><a href="http://ionicons.com/" target="_blank">ionicons.com</a></p>
+            </section>
+
+
+
+            <section data-background="white">
+                <p>
+                    <code style="font-size: 1.2em;" class="ionic-blue">npm install -g ionic cordova</code>
+                </p>
+                <img src="img/cli.png" height="220" style="border: 0">
+                <p class="ionic-blue">Boilerplate
+                    <strong>app structure</strong> ready for customization</p>
+                <p class="ionic-blue">
+                    <strong>LiveReload</strong> both local and native builds</p>
+                <p class="ionic-blue">Build and run
+                    <strong>native apps</strong>
+                </p>
+            </section>
+
+            <section data-background="img/chromium.jpg">
+                <h3 style="margin:0; font-size:60px;">Modern</h3>
+                <h2 style=" font-size:80px;">Chromium!</h2>
+                <p>Chromium for Android
+                    <strong>WebViews</strong>
+                </p>
+                <p>
+                    <strong>Upgrade Android</strong> 4.1+ and above</p>
+                <p>Same hardware,
+                    <strong>modern software</strong>
+                </p>
+                <p>
+                    <strong>Amazing performance</strong> improvements</p>
+            </section>
+
+            <section>
+                <img src="img/ng-cordova.png"></img>
+            </section>
+
+
+            <section data-background="img/ionicio.png">
+            </section>
+
+
+            <section data-background="img/ionic-view.png">
+            </section>
+
+
+            <section data-background="img/ionic-creator.png">
+            </section>
+
+
+            <section>
+                <img src="img/market.png"></img>
+            </section>
+
+
+            <section data-background="img/community.jpg">
+            </section>
+
+
+            <section data-background="img/ionic-angular-v2.jpg">
+            </section>
+
+
+            <section>
+                <h2>Get Started with Ionic!</h2>
+                <br />
+                <p>
+                    <strong>Getting started guide</strong>
+                    <br />
+                    <a href="hhttp://ionicframework.com/getting-started/" target="_blank">
+                        <span class="light-text">ionicframework.com/getting-started</span>
+                    </a>
+                </p>
+                <br />
+                <p>
+                    <strong>Documentation</strong>
+                    <br />
+                    <a href="http://ionicframework.com/docs/" target="_blank">
+                        <span class="light-text">ionicframework.com/docs</span>
+                    </a>
+                </p>
+                <br />
+                <p>
+                    <strong>Visit the Community Forum</strong>
+                    <br />
+                    <a href="http://forum.ionicframework.com/" target="_blank">
+                        <span class="light-text">forum.ionicframework.com</span>
+                    </a>
+                </p>
+                <br />
+                <p>
+                    <strong>Contribute on GitHub</strong>
+                    <br />
+                    <a href="https://github.com/driftyco/ionic" target="_blank">
+                        <span class="light-text">github.com/driftyco/ionic</span>
+                    </a>
+                </p>
+            </section>
+
+        </div>
+
+    </div>
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+
+    <script>
+        // Full list of configuration options available at:
+        // https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            transition: 'fade', // none/fade/slide/convex/concave/zoom
+
+            // Optional reveal.js plugins
+            dependencies: [{
+                src: 'lib/js/classList.js',
+                condition: function() {
+                    return !document.body.classList;
+                }
+            }, {
+                src: 'plugin/markdown/marked.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/markdown/markdown.js',
+                condition: function() {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            }, {
+                src: 'plugin/highlight/highlight.js',
+                async: true,
+                condition: function() {
+                    return !!document.querySelector('pre code');
+                },
+                callback: function() {
+                    hljs.initHighlightingOnLoad();
+                }
+            }, {
+                src: 'plugin/zoom-js/zoom.js',
+                async: true
+            }, {
+                src: 'plugin/notes/notes.js',
+                async: true
+            }]
+        });
+
+        Reveal.addEventListener('slidechanged', function(event) {
+            // load iframes on page enter to speed up initial load time
+            console.log(event)
+            var iframe = event.currentSlide.querySelector('iframe')
+            if (iframe) {
+                iframe.setAttribute('src', iframe.getAttribute('isrc'));
+            }
+
+            var prevIframe = event.previousSlide.querySelector('iframe');
+            if (prevIframe) {
+                prevIframe.setAttribute('src', '');
+            }
+
+            // event.previousSlide, event.currentSlide, event.indexh, event.indexv
+        });
+
+        /************* mouse-click navigation *************/
+        window.addEventListener("mousedown", handleClick, false);
+        //disable contextmenu so that we can handle right click ourselves
+        window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
+
+        function handleClick(e) {
+            if(e.which==2 && e.which==3)
+                e.preventDefault();
+
+        	if(e.which === 2) Reveal.next();
+        	if(e.which === 3) Reveal.prev();
+        }
+        /************* mouse-click navigation *************/
+
+
+    </script>
+
+</body>
+
+</html>
