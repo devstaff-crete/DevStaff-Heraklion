@@ -1,0 +1,151 @@
+# {{ ansible_managed }}
+
+user {{ nginx_user|default('www-data') }};
+worker_processes {{ nginx_worker_processes|default('4') }};
+pid /run/nginx.pid;
+
+events {
+	worker_connections 768;
+	# multi_accept on;
+}
+
+http {
+
+	# Misc settings
+
+	types_hash_max_size 2048;
+	server_tokens off;
+	# server_names_hash_bucket_size 64;
+	# server_name_in_redirect off;
+
+
+	# TCP options
+
+	sendfile on;
+	tcp_nopush on;
+	tcp_nodelay on;
+
+
+	# Timeouts & timeout management.
+
+    client_body_timeout 	60;
+    client_header_timeout 	60;
+    keepalive_timeout 		65;
+    send_timeout 			60;
+    reset_timedout_connection on;
+
+
+	# Size limits
+    client_max_body_size 10m;
+
+
+    # MIME types
+
+	include 		/etc/nginx/mime.types;
+	default_type 	application/octet-stream;
+
+
+	# Handling of IPs in proxied and load balancing situations.
+
+    set_real_ip_from 	0.0.0.0/32; 		# all addresses get a real IP.
+    real_ip_header 		X-Forwarded-For; 	# the ip is forwarded from the load balancer/proxy
+
+
+    # Connection limiting zones
+
+    limit_conn_zone $binary_remote_addr zone=default:10m;
+
+
+	# Logging Settings
+
+	access_log /var/log/nginx/access.log;
+	error_log /var/log/nginx/error.log;
+
+
+	# Gzip Settings
+
+	gzip on;
+	gzip_disable "msie6";
+	gzip_vary on;
+	gzip_proxied any;
+	gzip_comp_level 6;
+	gzip_buffers 16 8k;
+	gzip_http_version 1.1;
+	gzip_min_length 10;
+	gzip_types text/plain text/css application/json application/x-javascript text/xml application/xml application/xml+rss text/javascript image/x-icon application/vnd.ms-fontobject font/opentype application/x-font-ttf;
+
+
+	# Security
+
+	# Map for blocking not allowed HTTP requests. Out of the box it allows for HEAD, GET and POST.
+	map $request_method $not_allowed_method {
+    	default 1;
+    	GET 0;
+    	HEAD 0;
+    	POST 0;
+	}
+
+	# Control access to status page, PHP-FPM status & ping pages, etc.
+	geo $dont_show_status {
+		default 1;
+{% for range in nginx_status_ranges %}
+		{{ range }} 0;
+{% else %}
+		127.0.0.1 0;
+		192.168.1.0/24 0;
+{% endfor %}
+	}
+
+	# Blacklist for bad bot and referer blocking.
+	include blacklist.conf;
+
+	# Include the upstream servers for FastCGI handling.
+    include upstream_fcgi.conf;
+
+
+	##
+	# nginx-naxsi config
+	##
+	# Uncomment it if you installed nginx-naxsi
+	##
+
+	#include /etc/nginx/naxsi_core.rules;
+
+	##
+	# nginx-passenger config
+	##
+	# Uncomment it if you installed nginx-passenger
+	##
+
+	#passenger_root /usr;
+	#passenger_ruby /usr/bin/ruby;
+
+	##
+	# Virtual Host Configs
+	##
+
+	include /etc/nginx/conf.d/*.conf;
+	include /etc/nginx/sites-enabled/*;
+}
+
+
+#mail {
+#	# See sample authentication script at:
+#	# http://wiki.nginx.org/ImapAuthenticateWithApachePhpScript
+#
+#	# auth_http localhost/auth.php;
+#	# pop3_capabilities "TOP" "USER";
+#	# imap_capabilities "IMAP4rev1" "UIDPLUS";
+#
+#	server {
+#		listen     localhost:110;
+#		protocol   pop3;
+#		proxy      on;
+#	}
+#
+#	server {
+#		listen     localhost:143;
+#		protocol   imap;
+#		proxy      on;
+#	}
+#}

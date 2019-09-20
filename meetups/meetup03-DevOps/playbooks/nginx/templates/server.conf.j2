@@ -1,0 +1,71 @@
+# {{ ansible_managed }}
+
+server {
+    listen      {{ port|default('80') }};
+    server_name {{ name }};
+    root        {{ root }};
+
+    limit_conn default 32;
+
+    # Logging
+    access_log  /var/log/nginx/{{ name}}.access.log;
+    error_log   /var/log/nginx/{{ name }}.error.log notice;
+
+    # Uploads
+    client_max_body_size    {{ nginx_server_client_max_body_size|default('20m') }};
+    client_body_buffer_size {{ nginx_server_client_body_buffer_size|default('128k') }};
+
+    # Serve static files directly
+    location ~* ^.+.(jpg|jpeg|gif|css|png|js|ico)$ {
+        access_log     off;
+        log_not_found  off;
+        expires        max;
+    }
+
+
+    # Security settings
+
+    # Prevent access to hidden files
+    location ~ /\. {
+        access_log     off;
+        log_not_found  off;
+        deny all;
+    }
+
+    # Deny access based on the User-Agent header.
+    if ($bad_bot) {
+        return 444;
+    }
+
+    # Deny access based on the Referer header.
+    if ($bad_referer) {
+        return 444;
+    }
+
+    ## Protection against illegal HTTP methods.
+    if ($not_allowed_method) {
+        return 405;
+    }
+
+    ## Including the Nginx stub status page for having stats about
+    ## Nginx activity: http://wiki.nginx.org/HttpStubStatusModule.
+    include nginx_status_server.conf;
+
+{% if type == 'php' %}
+    index  index.php;
+
+    # Including the php-fpm status and ping pages config.
+    include php_fpm_status_server.conf;
+
+    # Pass PHP scripts to PHP-FPM
+    location ~* \.php$ {
+        fastcgi_pass    {{ upstream }};
+        include         fastcgi_params;
+        fastcgi_param   SCRIPT_FILENAME    $document_root$fastcgi_script_name;
+        fastcgi_param   SCRIPT_NAME        $fastcgi_script_name;
+        fastcgi_keep_conn on; # keep alive to the FCGI upstream
+    }
+{% else %}
+    index  index.html;
+{% endif %}
+}

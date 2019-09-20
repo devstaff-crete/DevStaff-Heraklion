@@ -1,0 +1,30 @@
+---
+  - hosts: '{{ target }}'
+
+    remote_user: ansibleuser
+    sudo: true
+
+    vars:
+      delete_default_vhost: true
+      user: www-data
+      worker_processes: $ansible_processor_count
+      pid: /var/run/nginx.pid
+      worker_connections: 768
+      
+      nginx_worker_processes: 4
+      nginx_user: www-data
+      nginx_fcgi_fpm: false
+      nginx_status_ranges: ["127.0.0.1"]
+
+      nginx_fastcgi_upstreams:
+      - name: www
+        keepalive: 5
+        servers: ["unix:/var/run/php5-fpm-www.sock"]
+
+      default_index: devstaff.gr
+
+    tasks:
+      - include: tasks/setup-nginx.yml
+
+    handlers:
+      - include: handlers/handlers.yml

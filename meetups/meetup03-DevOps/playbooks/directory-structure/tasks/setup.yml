@@ -1,0 +1,11 @@
+---
+  - name: create basic directory structure
+    file: path=/data/modules/ state=directory owner=www-data group=www-data mode=0775
+
+  - name: create required subdirectories
+    file: path=/data/modules/{{ item }} state=directory owner=www-data group=www-data mode=0775
+    with_items:
+      - logs
+      - wordpress
+
+
