@@ -33,7 +33,7 @@ The list of all MeetUps held by date:
 | #38 | 11/10/2018 | [Remote working: Hints, Tips, Advice, Pitfalls and Open Chat](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup38-RemoteWorking) |
 | #37 | 13/09/2018 | [Back to School - Lightning Talks](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup37-LightningTalks) |
 | #36 | 12/07/2018 | [Season Finale - Prototyping in VR](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup36-PrototypingInVR) |
-| #35 | 14/06/2018 | [IDEs: Super-charging your productivity!](hhttps://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup35-IDEs) |
+| #35 | 14/06/2018 | [IDEs: Super-charging your productivity!](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup35-IDEs) |
 | #34 | 10/05/2018 | [GDPR](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup34-GDPR) |
 | #33 | 12/04/2018 | [Machine Learning](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup33-MachineLearning) |
 | #32 | 08/03/2018 | [From Coder to Manager](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup32-FromCoderToManager) | 
