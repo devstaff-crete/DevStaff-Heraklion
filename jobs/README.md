@@ -10,16 +10,16 @@ European Dynamics currently have a vacancy for a .NET Web-developer, fluent in E
 
 ### Responsibilities
 
-•	Design and development of web-based applications and databases, including user interfaces and reports
-•	Troubleshooting of issues in the production operation of web-based applications
-•	Technical documentation (e.g. technical description of software solution, installation manual, etc.)
+* Design and development of web-based applications and databases, including user interfaces and reports
+* Troubleshooting of issues in the production operation of web-based applications
+* Technical documentation (e.g. technical description of software solution, installation manual, etc.)
 
 ### Requirements
 
-•	University degree in Computer Science
-•	Experience in development of web-based applications, using modern Microsoft tools and technologies
-•	Good understanding of Software / Systems Engineering principles
-•	Knowledge of C#, ASP.NET, SQL, JavaScript
+* University degree in Computer Science
+* Experience in development of web-based applications, using modern Microsoft tools and technologies
+* Good understanding of Software / Systems Engineering principles
+* Knowledge of C#, ASP.NET, SQL, JavaScript
 
 If you are interested and would like more information, please send an email with your C.V. (in English) attached to andrew.holdsworth@eurodyn.com
 
