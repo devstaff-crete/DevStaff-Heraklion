@@ -9,7 +9,7 @@ There's a lot of us, devs, here in Crete. Yet, we hardly ever get together in la
 * **Don't know where to start?** Are you new to git and MeetUp? Here is a short intro about the tools we use: [Start Here!](StartHere.md)
 
 * **You just want to join the group?** Great!
-  Join our [MeetUp group](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/) or find us live on: [Slack](https://join.slack.com/t/devstaff/shared_invite/enQtNDYyNTI0NjUyMjczLTBmM2U4YzMxZDc3MmVkMWVkZTRkMmIwZTA0MzI3NDdjNDdkZTFiMTBjODA5OWZiZjhiMGQ2NWZhMzc2ZWNkYjY)
+  Join our [MeetUp group](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/) or find us live on: [Slack](https://join.slack.com/t/devstaff/shared_invite/enQtNDYyNTI0NjUyMjczLWUyN2ZkOGJjYWQyMzU2MTE0MjViYTAxYWYxMjVlMzk2ZDk1N2I3ZGI2Y2MxMmMwN2JkNzY5MGUzMGRmN2NlNWM)
 
 * **Want to contribute?** Check the [Contributing Guidelines](CONTRIBUTING.md)
   and the [Code of Conduct](CodeOfConduct.md) and send a pull request!
