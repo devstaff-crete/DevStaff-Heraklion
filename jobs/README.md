@@ -6,24 +6,13 @@ __Be advised that Job Openings older than 3 months will be removed for the sake 
 
 ## .NET Web-Developer for International e-Government Projects @ [European Dynamics](https://www.eurodyn.com)
 
-European Dynamics currently have a vacancy for a .NET Web-developer, fluent in English, who would ideally be based in Heraklion, Greece to integrate on-site with the existing team.
+European Dynamics currently have a vacancy for a .NET Web-developer, fluent in English, who would ideally be based in Heraklion, Greece to integrate on-site with the existing team. All levels are welcome to apply!
 
-### Responsibilities
-
-* Design and development of web-based applications and databases, including user interfaces and reports
-* Troubleshooting of issues in the production operation of web-based applications
-* Technical documentation (e.g. technical description of software solution, installation manual, etc.)
-
-### Requirements
-
-* University degree in Computer Science
-* Experience in development of web-based applications, using modern Microsoft tools and technologies
-* Good understanding of Software / Systems Engineering principles
-* Knowledge of C#, ASP.NET, SQL, JavaScript
+[Read more & Apply here](https://european-dynamics.workable.com/j/0119E4AC46)
 
 If you are interested and would like more information, please send an email with your C.V. (in English) attached to andrew.holdsworth@eurodyn.com
 
-* PubDate: 23/09/2019
+* PubDate: 24/09/2019
 
 ## Back-end Developer (Heraklion or Remote) @ [Enartia](https://www.enartia.com/)
 
