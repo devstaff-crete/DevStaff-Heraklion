@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Front-end Developer (Heraklion or Athens) @ [BestPrice](https://www.bestprice.gr)
+
+BestPrice is looking for a talented Front-end Developer to be part of the engineering team in a fast-paced, dynamic and cross-functional environment to help us build high quality, scalable web and mobile applications.
+
+[Read more & Apply here](https://bestprice.workable.com/j/A298E65924)
+
+* PubDate: 10/10/2019
+
 ## .NET Web-Developer for International e-Government Projects @ [European Dynamics](https://www.eurodyn.com)
 
 European Dynamics currently have a vacancy for a .NET Web-developer, fluent in English, who would ideally be based in Heraklion, Greece to integrate on-site with the existing team. All levels are welcome to apply!
