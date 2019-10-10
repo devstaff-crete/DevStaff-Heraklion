@@ -1,7 +1,7 @@
 # DevStaff intro presentation
 The `slides-devstaff-intro.html` file contains the intro presentation of the DevStaff's meetup in an open format. We use [reveal.js](https://github.com/hakimel/reveal.js) as the engine behind the presentation.
 
-The presentation originally set up using the free plan of [slides.com](https://slides.com/).
+The presentation was originally set up using the free plan of [slides.com](https://slides.com/).
 
 ## Using the presentation
 
