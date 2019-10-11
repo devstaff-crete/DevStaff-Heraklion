@@ -21,6 +21,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #49 | 10/10/2019 | [Mobile App Development](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup49-MobileAppDevelopment) |
 | #48 | 12/09/2019 | [Automation](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup48-Automation) |
 | #47 | 11/07/2019 | [Privacy by Design](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup47-PrivacyByDesign) |
 | #46 | 13/06/2019 | [Automated Testing](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup46-AutomatedTesting) |
