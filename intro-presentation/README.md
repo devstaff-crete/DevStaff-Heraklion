@@ -11,7 +11,7 @@ This presentation can be used by just downloading the `slides-devstaff-intro.htm
 
 ## Edit the presentation using a text editor
 
-The presentation can be edited by using a simple text editor. The agenda slide can be easily edited using this way.
+The presentation can be edited by using a simple text editor. The agenda slide can be easily edited using this way or can even be ignored in some cases.
 
 ## Edit the presentation using [slides.com](https://slides.com/)
 For more advanced editing it is highly recommended to use the [slides.com](https://slides.com/) service.
