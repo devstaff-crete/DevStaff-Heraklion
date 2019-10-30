@@ -26,8 +26,8 @@ Make sure you configure your notification options on meetup.com to receive notif
 ## Suggest / Vote for Meetups
 
 <img src="images/github.png" align="right"  height="80" >
-We found *github* to be very convenient for organizing our topics and voting for meetups. 
-If you are new to github, don't worry. This is a great chance to start using it! 
+We found *GitHub* to be very convenient for organizing our topics and voting for meetups. 
+If you are new to GitHub, don't worry. This is a great chance to start using it! 
 
 Our topic voting method is simple, head to the [issues](https://github.com/devstaff-crete/DevStaff-Heraklion/issues?q=is%3Aopen+is%3Aissue+label%3ATopics), find one or more talk topics that you like and vote for them by writing a comment with a `:+1:` in it. Each topic is voted two months before the meetup date.
 
