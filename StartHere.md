@@ -29,7 +29,7 @@ Make sure you configure your notification options on meetup.com to receive notif
 We found *github* to be very convenient for organizing our topics and voting for meetups. 
 If you are new to github, don't worry. This is a great chance to start using it! 
 
-Our topic voting method is simple, head to the [issues](https://github.com/devstaff-crete/DevStaff-Heraklion/issues?q=is%3Aopen+is%3Aissue+label%3ATopics), find one or more talk topics that you like and vote for them by writing a comment with a `:+1:` in it. Each topic is voted two months before the meetup date.
+Our topic voting method is simple, every quarter, we send a topic poll, containing 5 or more topics. There, you rate all topics from 1-10, based on how much you prefer each topic to be in the next three. When the poll closes, the top three posts are selected, and then presented in the next 3 meetups. But how does the Org Team select which topics will make it into the poll? It's simple: it looks in the Issues page of this project, and finds proposed issues with speakers. So if you want to propose a topic for the vote, go ahead and open a new Issue with the topic tag! If you can be a speaker in that, or any other topic, add a :speaker: (`:speaker:`) comment, so we know you are available to make a short presentation on this topic, along with other members of our community!
 
 ## Join the chat
 We have a slack group where you can find the latest tech news, interesting articles, random pieces of information and a lot of heated discussions! Drop an email to [info@devstaff.gr](mailto:info@devstaff.gr?subject:Slack Invite), so we can send you an invite. 
