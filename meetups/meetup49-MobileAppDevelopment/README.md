@@ -12,3 +12,5 @@ Talks:
 Snacks and drinks will be available after the end of the meetup - please schedule to stay for some time, so we can get to know each other better.
 
 As a final note - big thanks to our venue sponsor, Pancretan Cooperative Bank, and our catering sponsor, Enartia! They keep the meetup free to attend, accessible and provide us with some snacks and drinks that keep people around for discussions. Thanks!
+
+You can find the [YouTube Live Stream - Video on Demand here](https://www.youtube.com/watch?v=9f8-M1smorg)
