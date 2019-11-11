@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Junior Web Developer @ RentCar.gr
+
+RentCar.gr is looking for a Junior Web Developer to be part of the development team.
+
+[Read more & Apply here](https://rentcar.gr/jobs/)
+
+* PubDate: 11/11/2019
+
 ## Front-end Developer (Heraklion or Athens) @ [BestPrice](https://www.bestprice.gr)
 
 BestPrice is looking for a talented Front-end Developer to be part of the engineering team in a fast-paced, dynamic and cross-functional environment to help us build high quality, scalable web and mobile applications.
