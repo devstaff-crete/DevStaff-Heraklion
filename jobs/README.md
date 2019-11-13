@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Senior Developer C/C++ (Heraklion or Athens) @ [Forthnet](http://www.forthnet.gr)
+
+Forthnet is looking for a passionate and experienced Software Developer to work in its IT department in either Athens or Heraklion.
+
+[Read more & Apply here](http://nova.gr/careers)
+
+* PubDate: 13/11/2019
+
 ## Junior Web Developer @ RentCar.gr
 
 RentCar.gr is looking for a Junior Web Developer to be part of the development team.
