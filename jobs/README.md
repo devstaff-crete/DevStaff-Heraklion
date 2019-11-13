@@ -10,7 +10,8 @@ Forthnet is looking for a passionate and experienced Software Developer to work 
 
 [Read more & Apply here](http://nova.gr/careers)
 
-* PubDate: 10/10/2019
+* PubDate: 13/11/2019
+
 ## Junior Web Developer @ RentCar.gr
 
 RentCar.gr is looking for a Junior Web Developer to be part of the development team.
