@@ -4,22 +4,6 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
-## QA Engineer (Heraklion or Athens) @ [Sunlight](https://www.sunlight.io)
-
-Sunlight.io is looking for a talented QA engineer to work in a totally chalenging enviroment, preferably in Heraklion, but Athens works for us as well.
-
-[Read more & Apply here](mailto:cv@sunlight.io)
-
-* PubDate: 17/12/2019
-
-## Support Engineer (Heraklion or Athens) @ [Sunlight](https://www.sunlight.io)
-
-Sunlight.io is looking for a naturaly inquirying Support engineer to work closesly with our clients, preferably in Athens, but Heraklion works for us as well.
-
-[Read more & Apply here](mailto:cv@sunlight.io)
-
-* PubDate: 17/12/2019
-
 
 ## Senior Developer C/C++ (Heraklion or Athens) @ [Forthnet](http://www.forthnet.gr)
 
