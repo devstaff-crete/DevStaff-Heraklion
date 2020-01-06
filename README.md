@@ -23,6 +23,8 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #51 | 12/12/2019 | [UI / UX](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup51-UIUX) |
+| #50 | 14/11/2019 | [GraphQL](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup50-GraphQL) |
 | #49 | 10/10/2019 | [Mobile App Development](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup49-MobileAppDevelopment) |
 | #48 | 12/09/2019 | [Automation](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup48-Automation) |
 | #47 | 11/07/2019 | [Privacy by Design](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup47-PrivacyByDesign) |
