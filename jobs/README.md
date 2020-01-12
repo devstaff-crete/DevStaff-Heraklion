@@ -4,6 +4,13 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+##  Senior Frontend Developer / Web Designer (Heraklion) @ [iWorx](http://www.iworx.gr)
+
+iWorx is looking for a passionate Senior Frontend Developer / Web Designer to join our Team.
+
+[Read more & Apply here](https://github.com/iworx-greece/jobs/blob/master/README.md)
+
+* PubDate: 12/01/2020
 
 ## Senior Front-end Developer (Heraklion or Remote) @ [BestPrice](https://www.bestprice.gr)
 
