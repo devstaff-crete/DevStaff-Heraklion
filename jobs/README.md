@@ -4,9 +4,10 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
-##  .NET Web-Developer for an international e-Government project (Heraklion/Chania/Rethymnon) @ [European Dynamics](http://www.eurodyn.com)
+## .NET Web-Developer for an international project (Heraklion/Chania/Rethymnon) @ [European Dynamics](http://www.eurodyn.com)
 
-We currently have a vacancy for a .NET Web-developer fluent in English, to offer his/her services as an expert, who will be based in Heraklion, Chania or Rethymnon, Greece.
+We currently have a vacancy for a .NET Web-developer fluent in English, to offer his/her services as an expert
+who will be based in Heraklion, Chania or Rethymnon, Greece.
 
 [Read more & Apply here](https://apply.workable.com/european-dynamics/j/0119E4AC46/)
 
