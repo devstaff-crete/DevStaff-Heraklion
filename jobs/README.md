@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+##  Jr. Front-end Developer (Heraklion) @ [Netmechanics LLC](https://www.netmechanics.gr)
+
+Are you a front-end coder with an eye for design? **Join our Team.** 
+
+Netmechanics is looking for ambitious and creative individuals to join our growing team, in a fast-paced and inspiring work environment.
+
+[Read more & Apply here](https://github.com/Netmechanics/jobs/blob/master/dev-front-end-junior.md)
+
+* PubDate: 22/01/2020
+
 ## .NET Web-Developer for an international project (Heraklion/Chania/Rethymnon) @ [European Dynamics](http://www.eurodyn.com)
 
 We currently have a vacancy for a .NET Web-developer fluent in English, to offer his/her services as an expert
