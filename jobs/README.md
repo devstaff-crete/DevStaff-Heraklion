@@ -4,6 +4,38 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## E-Commerce Web Developer (Heraklion Crete]) @ [Digital Bird](https://www.digitalbird.gr/)
+
+**Why would you want to work for us as a Web Developer ?**
+Ready to Join us? We are a young and passionate team, that is constantly growing! Our modern and minimalistic offices are in the city centre of Heraklion. We are an easy-going company rolling with the moto #weflyonline. Are you ready to fly with us?
+
+**Role Summary**
+ The ideal candidate will design and maintain code using WordPress and WooCommerce.
+ As it is a senior position, we will be relying on your individual expertise to recommend improvements/strategies to help us enhance our sites and web applications as we move into the future.
+  
+**Key Accountabilities**
+ 
+* 3+ years of experience working with Opencart, Woocommerce, Expression Engine or any other ecommerce platform 
+* Build responsive websites/eshops within open and custom CMSs
+* Provide maintenance and upkeep to legacy sites and client programs
+* Ensure code quality through testing and debugging
+* Use of HTML, php, JavaScript, CSS
+* Integrate commerce application with backend systems using a variety of technologies (i.e. messaging, web services, REST APIs.
+* Apply knowledge of industry trends and developments to improve service to our clients
+* Minimun three year's experience is similar position
+* Bachelor's degree in computer science or related field.
+* In house position.
+
+**The Benefits**
+ 
+* Α fun, friedly environment that will allow you to be your best with a great company culture.
+* Laptop and equipment of employee’s choice
+* Education Included: we cover the cost of any educational needs ( courses , books and seminars) 
+
+[Read more & Apply here](https://www.digitalbird.gr/eukairies-karieras/#apply)
+
+* PubDate: 22/01/2020
+
 ##  Jr. Front-end Developer (Heraklion) @ [Netmechanics LLC](https://www.netmechanics.gr)
 
 Are you a front-end coder with an eye for design? **Join our Team.** 
