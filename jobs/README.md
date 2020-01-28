@@ -6,27 +6,7 @@ __Be advised that Job Openings older than 3 months will be removed for the sake 
 
 ## Backend Developer (Heraklion) @ [Epignosis](https://www.epignosishq.com)
 
-**Description**
-
-Epignosis is a leading software company. We hire people with a broad set of technical skills, ready to take on high technological challenges and impact on thousands of users. Our engineers revolutionize eLearning by working on large-scale applications and eLearning services for thousands of customers around the world. From eFront to TalentLMS and then TalentCards, we are providing exciting eLearning experiences to our users, one technological achievement after another.
-As a member of our development team, you’ll work on an advanced PHP codebase, helping us further expand our industry-leading eLearning platforms and build new innovative online training solutions.
-
-**Requirements**
-
-- 2-5 years of proven professional experience as a Software Engineer, preferably on enterprise-grade products
-- High standards in terms of code quality, reusability, testability and maintainability, as well as solid OOP knowledge.
-- Comfortable designing and implementing high-performance applications, profiling, refactoring, and improving slow code.
-- Good working knowledge of the Linux command line, GitHub, open source tools, and the PHP standard library and ecosystem.
-
-**Benefits**
-
-You’ll enjoy perks and benefits that make you more productive at work and contribute to your professional development, including:
-- Competitive compensation packages
-- Private health insurance plan
-- Ticket restaurant benefits
-- Professional and personal development opportunities (lots of them)
-- A vibrant working environment full of creative individuals
-- Work/life balance ― i.e., we go big AND we go home
+Epignosis is a leading software company.From eFront to TalentLMS and then TalentCards, we are providing exciting eLearning experiences to our users, one technological achievement after another. As a member of our development team, you’ll work on an advanced PHP codebase, helping us further expand our industry-leading eLearning platforms and build new innovative online training solutions.
 
 [Read more & Apply here](https://apply.workable.com/epignosis/j/10C4FE75BB/)
 
