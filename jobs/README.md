@@ -4,6 +4,12 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Backend Developer (Heraklion) @ [Epignosis](https://www.epignosishq.com)
+
+Epignosis is a leading software company.From eFront to TalentLMS and then TalentCards, we are providing exciting eLearning experiences to our users, one technological achievement after another. As a member of our development team, you’ll work on an advanced PHP codebase, helping us further expand our industry-leading eLearning platforms and build new innovative online training solutions.
+
+[Read more & Apply here](https://apply.workable.com/epignosis/j/10C4FE75BB/)
+
 ## E-Commerce Web Developer (Heraklion Crete]) @ [Digital Bird](https://www.digitalbird.gr/)
 
 **Why would you want to work for us as a Web Developer ?**
