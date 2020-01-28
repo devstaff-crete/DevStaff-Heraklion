@@ -10,6 +10,8 @@ Epignosis is a leading software company.From eFront to TalentLMS and then Talent
 
 [Read more & Apply here](https://apply.workable.com/epignosis/j/10C4FE75BB/)
 
+* PubDate: 28/01/2020
+
 ## E-Commerce Web Developer (Heraklion Crete]) @ [Digital Bird](https://www.digitalbird.gr/)
 
 **Why would you want to work for us as a Web Developer ?**
