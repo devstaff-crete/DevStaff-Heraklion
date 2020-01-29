@@ -4,6 +4,20 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## C Software Developer @ [NLnet Labs](https://nlnetlabs.nl/)
+
+NLnet Labs is a not-for-profit foundation with a long heritage in research and development, Internet architecture and governance, as well as stability and security in the area of DNS and inter-domain routing.
+
+Are you a software developer who wants to work on one of the most respected open source DNS software projects in the world? Are you self-organising and like working in a small, highly specialised team of developers and researchers? Join NLnet Labs and get an opportunity to do what you do best in a place without an open office plan, devoid of endless meetings and free of rigid processes.
+
+Software developer – C programming language
+Location: Amsterdam Science Park
+Full-time preferred, but part-time is a possibility
+
+[Read more & Apply here](https://nlnetlabs.nl/careers/openings/)
+
+* PubDate: 29/01/2020
+
 ## Backend Developer (Heraklion) @ [Epignosis](https://www.epignosishq.com)
 
 Epignosis is a leading software company.From eFront to TalentLMS and then TalentCards, we are providing exciting eLearning experiences to our users, one technological achievement after another. As a member of our development team, you’ll work on an advanced PHP codebase, helping us further expand our industry-leading eLearning platforms and build new innovative online training solutions.
