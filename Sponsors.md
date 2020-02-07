@@ -50,7 +50,6 @@ At the end of every meetup we have a networking session that offers - perhaps - 
 
 A sponsorship package of 100 EUR / meetup helps our meetup attendees satisfy their hunger and thirst, all in the good name of your company. 
 
-
 The list below describes the awareness benefits that our catering sponsor receives in return:
 * leaflets (can be left on table at entrance),
 * online banner on DevStaff website (with back-link do-follow),
@@ -79,6 +78,18 @@ The list below describes the awareness benefits that our Logo sponsor receives i
 * online banner on DevStaff Sponsors page website (with back-link do-follow) for 3 months,
 * “Thank you” mention in facebook & Twitter page post,
 * “Thank-you” message by organizers during Meetup (not by company/individual).
+
+## Equipment Sponsor
+As we are not close to the local community of Crete we try to live stream our monthly meetups and supply VoD through Youtube. FOr this reason we use equipment which mosto of the times is not suitable for our need.
+
+So we want some equipment to support even better our live stream capabilities such as two 1080p usb cameras and a deskptop micorphone.
+
+The list below describes the awareness benefits that our equipment sponsor receives in return for every 100 EUR offer:
+* leaflets (can be left on table at entrance),
+* online banner on DevStaff website (with back-link do-follow),
+* “Thank-you” message by organizers during Meetup (not by company),
+* Sponsor’s slide in DevStaff Welcome presentation,
+* “Thank you” mention in facebook page post.
 
 ## How to contact us about Sponsorship opportunities
 Depending on the time of year and ongoing sponsor engagements, some, or all, of the above options may or may not be available. Please contact us at info @t devstaff d0t gr, so you can get in touch with the Org Team and discuss the available options. 
