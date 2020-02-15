@@ -26,7 +26,7 @@ Make sure you configure your notification options on meetup.com to receive notif
 ## Suggest / Vote for Meetups
 
 <img src="images/github.png" align="right"  height="80" >
-We found *github* to be very convenient for organizing our topics and voting for meetups. 
+We found GitHub to be very convenient for organizing our topics and voting for meetups. 
 If you are new to github, don't worry. This is a great chance to start using it! 
 
 Our topic voting method is simple, every quarter, we send a topic poll, containing 5 or more topics. There, you rate all topics from 1-10, based on how much you prefer each topic to be in the next three. When the poll closes, the top three posts are selected, and then presented in the next 3 meetups. But how does the Org Team select which topics will make it into the poll? It's simple: it looks in the Issues page of this project, and finds proposed issues with speakers. So if you want to propose a topic for the vote, go ahead and open a new Issue with the topic tag! If you can be a speaker in that, or any other topic, add a :speaker: (`:speaker:`) comment, so we know you are available to make a short presentation on this topic, along with other members of our community!
