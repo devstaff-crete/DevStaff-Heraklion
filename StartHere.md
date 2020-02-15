@@ -4,7 +4,7 @@ So, there's a lot of us, devs, here in Crete...
 
 > Yet, we hardly ever get together in large groups, or even know each other -- somewhat strange for our small community, we hope you'll agree. 
 
-_This ^^ is what we wrote 6 years back. There's now more than 1,000 devs in our [meetup group](https://www.meetup.com/devstaff/)._
+_This ^^ is what we wrote 6 years back. There's now more than 1,100 devs in our [meetup group](https://www.meetup.com/devstaff/)._
 
 DevStaff is an attempt at bringing us all together for informal chats about what we're all passionate about: _technology_ and _software_. Our goal is to make Crete a better place for developers to live and work in!
 
