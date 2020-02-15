@@ -16,9 +16,9 @@ Discuss issues you've faced, discover new & better ways of working (together), c
 
 ## Attend Meetups
 
-<a href="http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/"><img src="images/meetup.png" align="left"  height="80" ></a>
+<a href="https://www.meetup.com/devstaff/"><img src="images/meetup.png" align="left"  height="80" ></a>
 
-The main tool for organizing our meetings is *meetup.com*. The first step is head [there](http://www.meetup.com/DevStaff-A-Developer-Community-Gathering-In-Crete/) and join the group. 
+The main tool for organizing our meetings is *meetup.com*. The first step is head [there](https://www.meetup.com/devstaff/) and join the group. 
 
 Make sure you configure your notification options on meetup.com to receive notifications about upcoming events!
 
