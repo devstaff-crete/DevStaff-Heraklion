@@ -70,6 +70,16 @@ The list below describes the awareness benefits that our venue sponsor receives 
 * Sponsor’s slide in DevStaff Welcome presentation,
 * “Thank you” mention in facebook page post.
 
+## Logo Sponsor
+We like changes so we are open to new proposals for a new logo. We are focusing on some 'rebranding' of DevStaff and a new Logo is the most prominent starting point of this trip. 
+
+So we want some Logo proposals for the DevStaff Community! We are truly open to any proposal so feel free to contact us!
+
+The list below describes the awareness benefits that our Logo sponsor receives in return:
+* online banner on DevStaff Sponsors page website (with back-link do-follow) for 3 months,
+* “Thank you” mention in facebook & Twitter page post,
+* “Thank-you” message by organizers during Meetup (not by company/individual).
+
 ## How to contact us about Sponsorship opportunities
 Depending on the time of year and ongoing sponsor engagements, some, or all, of the above options may or may not be available. Please contact us at info @t devstaff d0t gr, so you can get in touch with the Org Team and discuss the available options. 
 

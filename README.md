@@ -15,12 +15,18 @@ There's a lot of us, devs, here in Crete. Yet, we hardly ever get together in la
   and the [Code of Conduct](CodeOfConduct.md) and send a pull request!
 * **Curious about what's next?** Check the [topic voting analytics](http://analytics.devstaff.gr)!
 
+* **Want to be social?** Find us on: [Twitter](https://twitter.com/devstaff_gr), [YouTube](https://www.youtube.com/channel/UC8qmn3Nv9QJZ2P_WyhoewHw/videos), [MeetUp](https://www.meetup.com/devstaff/), [LinkedIn](https://www.linkedin.com/company/devstaff/about/), and [facebook](https://www.facebook.com/Devstaff/).
+
 ## MeetUps :speaker:
 
 The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #53 | 13/02/2020 | [VueJs](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup53-VueJs) |
+| #52 | 09/01/2020 | [IoT - Smart Home](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup52-IoTSmartHome) |
+| #51 | 12/12/2019 | [UI/UX](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup51-UIUX) |
+| #50 | 14/11/2019 | [GraphQL](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup50-GraphQL) |
 | #49 | 10/10/2019 | [Mobile App Development](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup49-MobileAppDevelopment) |
 | #48 | 12/09/2019 | [Automation](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup48-Automation) |
 | #47 | 11/07/2019 | [Privacy by Design](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup47-PrivacyByDesign) |
