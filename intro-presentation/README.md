@@ -16,4 +16,4 @@ The presentation can be edited by using a simple text editor. The agenda slide c
 ## Edit the presentation using [slides.com](https://slides.com/)
 For more advanced editing it is highly recommended to use the [slides.com](https://slides.com/) service.
 
-Using an account, the html can be imported using the import tool (more info [here](https://help.slides.com/knowledgebase/articles/271213-import-from-reveal-js)). Than the new presentation can be exported using the export tool (more info [here](https://help.slides.com/knowledgebase/articles/1855975-export-to-html-reveal-js)). 
+Using an account, the html can be imported using the import tool (more info [here](https://help.slides.com/knowledgebase/articles/271213-import-from-reveal-js)). Then the new presentation can be exported using the export tool (more info [here](https://help.slides.com/knowledgebase/articles/1855975-export-to-html-reveal-js)). 
