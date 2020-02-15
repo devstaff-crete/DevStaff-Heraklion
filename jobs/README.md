@@ -26,7 +26,7 @@ Epignosis is a leading software company.From eFront to TalentLMS and then Talent
 
 * PubDate: 28/01/2020
 
-## E-Commerce Web Developer (Heraklion Crete]) @ [Digital Bird](https://www.digitalbird.gr/)
+## E-Commerce Web Developer (Heraklion Crete) @ [Digital Bird](https://www.digitalbird.gr/)
 
 **Why would you want to work for us as a Web Developer ?**
 Ready to Join us? We are a young and passionate team, that is constantly growing! Our modern and minimalistic offices are in the city centre of Heraklion. We are an easy-going company rolling with the moto #weflyonline. Are you ready to fly with us?
