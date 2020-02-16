@@ -81,12 +81,3 @@ As part of BestPrice Engineering team, you will work in a fast-paced, dynamic an
 [Read more & Apply here](https://bestprice.workable.com/j/19D228D684)
 
 * PubDate: 09/01/2020
-
-## Senior Developer C/C++ (Heraklion or Athens) @ [Forthnet](http://www.forthnet.gr)
-
-Forthnet is looking for a passionate and experienced Software Developer to work in its IT department in either Athens or Heraklion.
-
-[Read more & Apply here](http://nova.gr/careers)
-
-* PubDate: 13/11/2019
-
