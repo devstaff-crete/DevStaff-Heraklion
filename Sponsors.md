@@ -80,16 +80,21 @@ The list below describes the awareness benefits that our Logo sponsor receives i
 * “Thank-you” message by organizers during Meetup (not by company/individual).
 
 ## Equipment Sponsor
-As we are not close to the local community of Crete we try to live stream our monthly meetups and supply VoD through Youtube. FOr this reason we use equipment which mosto of the times is not suitable for our need.
+As we are not limited only to the local community of Crete we try to live stream our monthly meetups and supply VoD through YouTube. For this reason we use equipment which most of the times is not suitable for our needs.
 
-So we want some equipment to support even better our live stream capabilities such as two 1080p usb cameras and a deskptop micorphone.
+So we would like to upgrade our equipment, to improve our live streaming capabilities. The initial equipment required is:
+* Logitech C922 Pro (for the presentation) [~80 EUR]
+* Logitech C922 Pro (for the presenter) [~80 EUR]
+* Desktop Microphone [~50 EUR]
+* usb hub and usb extension
 
-The list below describes the awareness benefits that our equipment sponsor receives in return for every 100 EUR offer:
+The list below describes the awareness benefits that our equipment sponsor receives for sponsoring two or more of the items above:
 * leaflets (can be left on table at entrance),
 * online banner on DevStaff website (with back-link do-follow),
 * “Thank-you” message by organizers during Meetup (not by company),
 * Sponsor’s slide in DevStaff Welcome presentation,
-* “Thank you” mention in facebook page post.
+* “Thank you” mention in DevStaff's Facebook page.
+* “Thank you” mention in DevStaff's Twitter page.
 
 ## How to contact us about Sponsorship opportunities
 Depending on the time of year and ongoing sponsor engagements, some, or all, of the above options may or may not be available. Please contact us at info @t devstaff d0t gr, so you can get in touch with the Org Team and discuss the available options. 
