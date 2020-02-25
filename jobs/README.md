@@ -4,6 +4,15 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Kalispera! [Fairlo](https://fairlo.se)
+
+We are happy to announce that we today mark a new era for the Heraklion tech scene. Fairlo - one of Swedens hottest Fintechs is coming to Herkalion with full force and the mission to establish a Tech Hub that will, in the long run, compete with the best in Europe!
+
+We will start with a few devs the first months to build the foundation and then go to 10 devs within the first year.  Together with the support of the community are we going to put Heraklion on the map as a hot and interesting tech city!
+We are coming to Heraklion on the 4:th of March and are happy to meet all of you who are interested in Fairlo Tech Hub. Feel free to reach out.
+
+[Apply here](https://careers.fairlo.se/jobs/838432-senior-developer-to-heraklion-tech-hub)
+
 ## C Software Developer @ [NLnet Labs](https://nlnetlabs.nl/)
 
 NLnet Labs is a not-for-profit foundation with a long heritage in research and development, Internet architecture and governance, as well as stability and security in the area of DNS and inter-domain routing.
