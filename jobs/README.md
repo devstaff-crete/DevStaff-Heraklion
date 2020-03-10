@@ -4,6 +4,15 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## DevOps Engineer @ [Ortec for Communications](https://www.orteccommunications.com/)
+ORTEC for Communications started in 2011 and is a fast growing, innovative product that helps large companies optimise their internal communications, thereby increasing employee engagement. Since 2014, O4C has established a team in Heraklion and now are looking for a new DevOps Engineer to join our team!
+
+Our ambition is to build a digital workplace tool that empowers every employee to get their work done and to feel connected to the company they work for. This vacancy is your chance to play a significant role in the development of our product. We are at the beginning of our cloud native transition so your input will determine the future of our infrastructure. As the team is small your actions and decisions will have immediate impact. If you love to make fundamental changes to production systems used by customers all over the world, this is the job for you!
+
+Check more info about the company and the job opening [here](https://www.orteccommunications.com/vacancy-devops-engineer-in-crete/)
+
+- PubDate: 10/03/2020
+
 ## Senior Developer @ [Fairlo](https://fairlo.se/)
 
 Kalispera!
