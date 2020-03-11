@@ -4,6 +4,34 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Mid Level Python Software Engineer @ [Pressidium](https://pressidium.com)
+
+Pressidium is a premium web hosting and management service that provides fast, robust, scalable and secure hosting to owners and managers of professional WordPress sites.
+
+We are looking for a motivated and professional Mid Level Python Software Engineer to help us maintain the best Enterprise WordPress platform that is trusted by thousands of clients around the world.
+
+Join the team and help us build something incredible!
+
+### Requirements
+
+* 2+ years experience building applications on Python 2/3
+* Familiar with **Flask** Web Application Framework
+* Good knowledge of **Celery** Distributed Task Queue
+* Solid experience with **Docker** 
+* Exposure to **PyTest** framework 
+* Ability and aptitude to build and maintain continuous integration (CI) and continuous deployment (CD)
+* Knowledge of GIT, code branching/merging strategies, and familiarity with tools such as GitHub, GitLab or similar.
+
+### What we offer
+
+* 100% Remote Full-Time Position
+* Competitive salary
+* Career growth
+* An very interesting platform to work on :smile:
+
+[Apply here](<mailto:careers@pressidium.com>)
+
+
 ## DevOps Engineer @ [Ortec for Communications](https://www.orteccommunications.com/)
 ORTEC for Communications started in 2011 and is a fast growing, innovative product that helps large companies optimise their internal communications, thereby increasing employee engagement. Since 2014, O4C has established a team in Heraklion and now are looking for a new DevOps Engineer to join our team!
 
