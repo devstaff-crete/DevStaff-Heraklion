@@ -4,11 +4,11 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
-## Mid Level Python Software Engineer @ [Pressidium](https://pressidium.com)
+## Python Software Engineer @ [Pressidium](https://pressidium.com)
 
 Pressidium is a premium web hosting and management service that provides fast, robust, scalable and secure hosting to owners and managers of professional WordPress sites.
 
-We are looking for a motivated and professional Mid Level Python Software Engineer to help us maintain the best Enterprise WordPress platform that is trusted by thousands of clients around the world.
+We are looking for a motivated and professional **Python Software Engineer** to help us maintain the best Enterprise WordPress platform that is trusted by thousands of clients around the world.
 
 Join the team and help us build something incredible!
 
