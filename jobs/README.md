@@ -12,6 +12,8 @@ We are looking for a motivated and professional **Python Software Engineer** to 
 
 [Apply here](<mailto:careers@pressidium.com>)
 
+- PubDate: 12/03/2020
+
 
 ## DevOps Engineer @ [Ortec for Communications](https://www.orteccommunications.com/)
 ORTEC for Communications started in 2011 and is a fast growing, innovative product that helps large companies optimise their internal communications, thereby increasing employee engagement. Since 2014, O4C has established a team in Heraklion and now are looking for a new DevOps Engineer to join our team!
