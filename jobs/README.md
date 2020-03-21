@@ -4,6 +4,17 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Frontend Developer @ [improvIT](https://www.improvit.gr)
+
+improvIT is an insuretech company that was founded in 2009 with the vision to create a premier services firm which will comprise the first choice in IT consulting for insurers. Since then, improvIT has grown significantly. Many successful projects have been delivered to insurers throughout Europe improving their operations and contributing to their growth.
+
+We are seeking for a brilliant **Frontend Developer** to join our team in Athens or work remotely from the area of Heraklion Crete! You will be using ES6 and Vue.js to build great products with high-end user facing features, internal tools and experiences that help us and our customers become smarter.
+
+[Apply here](https://apply.workable.com/improvit/j/B8610D85CF/)
+
+- PubDate: 21/03/2020
+
+
 ## Python Software Engineer @ [Pressidium](https://pressidium.com)
 
 Pressidium is a premium web hosting and management service that provides fast, robust, scalable and secure hosting to owners and managers of professional WordPress sites. 
