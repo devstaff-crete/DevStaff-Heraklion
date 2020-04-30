@@ -4,6 +4,22 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Senior Front-end Developer (Heraklion or Remote) @ [BestPrice](https://www.bestprice.gr)
+
+BestPrice is looking for a talented Senior Front-end Developer to be part of the engineering team in a fast-paced, dynamic and cross-functional environment to help us build high quality, scalable web and mobile applications.
+
+[Read more & Apply here](https://www.bestprice.gr/careers/senior-frontend-engineer)
+
+* PubDate: 30/04/2020
+
+## Senior Back-end Developer (Heraklion or Remote) @ [BestPrice](https://www.bestprice.gr)
+
+As part of BestPrice Engineering team, you will work in a fast-paced, dynamic and cross-functional environment, using cutting-edge technologies.
+
+[Read more & Apply here](https://www.bestprice.gr/careers/senior-backend-engineer)
+
+* PubDate: 30/04/2020
+
 ## Frontend Developer @ [improvIT](https://www.improvit.gr)
 
 improvIT is an insuretech company that was founded in 2009 with the vision to create a premier services firm which will comprise the first choice in IT consulting for insurers. Since then, improvIT has grown significantly. Many successful projects have been delivered to insurers throughout Europe improving their operations and contributing to their growth.
@@ -110,19 +126,3 @@ iWorx is looking for a passionate Senior Frontend Developer / Web Designer to jo
 [Read more & Apply here](https://github.com/iworx-greece/jobs/blob/master/README.md)
 
 * PubDate: 12/01/2020
-
-## Senior Front-end Developer (Heraklion or Remote) @ [BestPrice](https://www.bestprice.gr)
-
-BestPrice is looking for a talented Senior Front-end Developer to be part of the engineering team in a fast-paced, dynamic and cross-functional environment to help us build high quality, scalable web and mobile applications.
-
-[Read more & Apply here](https://bestprice.workable.com/j/FFA1EBF3B4)
-
-* PubDate: 09/01/2020
-
-## Senior Back-end Developer (Heraklion or Remote) @ [BestPrice](https://www.bestprice.gr)
-
-As part of BestPrice Engineering team, you will work in a fast-paced, dynamic and cross-functional environment, using cutting-edge technologies.
-
-[Read more & Apply here](https://bestprice.workable.com/j/19D228D684)
-
-* PubDate: 09/01/2020
