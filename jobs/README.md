@@ -115,7 +115,7 @@ iWorx is looking for a passionate Senior Frontend Developer / Web Designer to jo
 
 BestPrice is looking for a talented Senior Front-end Developer to be part of the engineering team in a fast-paced, dynamic and cross-functional environment to help us build high quality, scalable web and mobile applications.
 
-[Read more & Apply here](https://bestprice.workable.com/j/FFA1EBF3B4)
+[Read more & Apply here](https://www.bestprice.gr/careers/senior-frontend-engineer)
 
 * PubDate: 09/01/2020
 
@@ -123,6 +123,6 @@ BestPrice is looking for a talented Senior Front-end Developer to be part of the
 
 As part of BestPrice Engineering team, you will work in a fast-paced, dynamic and cross-functional environment, using cutting-edge technologies.
 
-[Read more & Apply here](https://bestprice.workable.com/j/19D228D684)
+[Read more & Apply here](https://www.bestprice.gr/careers/senior-backend-engineer)
 
 * PubDate: 09/01/2020
