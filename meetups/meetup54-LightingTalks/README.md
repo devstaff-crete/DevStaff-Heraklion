@@ -1,1 +1,0 @@
-# meetup54-LightingTalks
