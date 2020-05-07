@@ -23,7 +23,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
-| #54 | 12/03/2020 | [Go Language](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup54-GoLanguage) |
+| #54 | 14/05/2020 | [Lightning Talks](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup54-LightningTalks) |
 | #53 | 13/02/2020 | [VueJs](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup53-VueJs) |
 | #52 | 09/01/2020 | [IoT - Smart Home](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup52-IoTSmartHome) |
 | #51 | 12/12/2019 | [UI/UX](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup51-UIUX) |
