@@ -20,16 +20,6 @@ As part of BestPrice Engineering team, you will work in a fast-paced, dynamic an
 
 * PubDate: 30/04/2020
 
-## Frontend Developer @ [improvIT](https://www.improvit.gr)
-
-improvIT is an insuretech company that was founded in 2009 with the vision to create a premier services firm which will comprise the first choice in IT consulting for insurers. Since then, improvIT has grown significantly. Many successful projects have been delivered to insurers throughout Europe improving their operations and contributing to their growth.
-
-We are seeking for a brilliant **Frontend Developer** to join our team in Athens or work remotely from the area of Heraklion Crete! You will be using ES6 and Vue.js to build great products with high-end user facing features, internal tools and experiences that help us and our customers become smarter.
-
-[Apply here](https://apply.workable.com/improvit/j/B8610D85CF/)
-
-- PubDate: 21/03/2020
-
 
 ## Python Software Engineer @ [Pressidium](https://pressidium.com)
 
