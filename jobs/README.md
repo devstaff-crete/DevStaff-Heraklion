@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Engineer (Remote) @ [Travelstaytion](https://www.travelstaytion.com)
+
+Travelstaytion is looking for a passionate and experienced Software Engineer. 
+
+[Read more & Apply here](https://apply.workable.com/staytion-ltd/j/DFF311728F/)
+
+* PubDate: 05/06/2020
+
 ## Senior Front-end Developer (Heraklion or Remote) @ [BestPrice](https://www.bestprice.gr)
 
 BestPrice is looking for a talented Senior Front-end Developer to be part of the engineering team in a fast-paced, dynamic and cross-functional environment to help us build high quality, scalable web and mobile applications.
