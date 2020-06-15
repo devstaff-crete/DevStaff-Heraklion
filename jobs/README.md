@@ -4,6 +4,29 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Junior Database Administrator and Programming in SQL Procedural language @ [ICS_FORTH](https://www.ics.forth.gr)
+
+### Description
+ICS_FORTH is looking for a talented Junior Database Administrator to join our team of professionals. The estimated duration of the contract is twelve (12) months with the possibility of extension.
+
+**Location**: Nik.Plastira 100, Voutes
+
+### Requirements
+*	Degree in Computer Science or other relevant degree
+*	Excellent written and oral communication in Greek
+*	Good written and oral communication in English
+*	Proven experience of at least one (1) year in PL/pgSQL (PostgreSQL) or PL/SQL (Oracle) or MySQL 
+*	Fulfilled military obligations (for male candidates)
+
+### Desired Skills
+*	Experience of at least three (3) years in PL / pgSQL (PostgreSQL) or PL / SQL (Oracle) or MySQL.
+*	Experience of at least one (1) year in Database management in Linux environment.
+*	Programming experience in BASH and / or Python for automation and / or control functions / processes.
+
+For more info, please contact: dimos@ics.forth.gr 
+
+* PubDate: 16/06/2020
+
 ## Software Engineer (Remote) @ [Travelstaytion](https://www.travelstaytion.com)
 
 Travelstaytion is looking for a passionate and experienced Software Engineer. 
