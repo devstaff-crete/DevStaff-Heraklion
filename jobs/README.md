@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Junior Database Administrator and Programming in SQL Procedural language @ [ICS_FORTH](https://www.ics.forth.gr)
+
+ICS_FORTH is looking for a talented Junior Database Administrator to join our team of professionals. The estimated duration of the contract is twelve (12) months with the possibility of extension.
+
+[Read more](https://jobs.ics.forth.gr/job_opportunities/1509_GR_ADA_ICS-1509_%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7_domain_new_%CE%A8%CE%A7%CE%94%CE%98469%CE%97%CE%9A%CE%A5-%CE%944%CE%92.pdf)
+
+* PubDate: 18/06/2020
+
 ## Software Engineer (Remote) @ [Travelstaytion](https://www.travelstaytion.com)
 
 Travelstaytion is looking for a passionate and experienced Software Engineer. 
