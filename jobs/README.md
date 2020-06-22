@@ -4,6 +4,17 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Programmer/Developer in the Institute of Computer Science (ICS) Foundation for Research and Technology – Hellas (FORTH) (https://www.ics.forth.gr)
+
+The candidate is expected to assist in implementation, development and tests of the extensions for the open source software ARTEMIS (bgpartemis.org). He/she will also be responsible for user support and ticket administration. The duration of the contract is twelve (12) months and can be extended.
+
+[Read more](https://jobs.ics.forth.gr/job_opportunities/1551_EN_ADA_ICS_1551_%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7_RAVEN_Programmer_6%CE%96%CE%A55469%CE%97%CE%9A%CE%A5-%CE%9E%CE%A4%CE%97.pdf)
+
+[Apply](https://jobs.ics.forth.gr/apply.php?l=e&possition_id=1551)
+
+* PubDate: 19/06/2020
+* Closing date: 06/07/2020 
+
 ## Junior Database Administrator and Programming in SQL Procedural language @ [ICS_FORTH](https://www.ics.forth.gr)
 
 ICS_FORTH is looking for a talented Junior Database Administrator to join our team of professionals. The estimated duration of the contract is twelve (12) months with the possibility of extension.
