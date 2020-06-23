@@ -4,7 +4,7 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
-## Programmer/Developer in the Institute of Computer Science (ICS) Foundation for Research and Technology – Hellas (FORTH) (https://www.ics.forth.gr)
+## Programmer/Developer in the Institute of Computer Science (ICS) Foundation for Research and Technology – Hellas (FORTH) (https://www.ics.forth.gr) (Heraklion or Remote)
 
 The candidate is expected to assist in implementation, development and tests of the extensions for the open source software ARTEMIS (bgpartemis.org). He/she will also be responsible for user support and ticket administration. The duration of the contract is twelve (12) months and can be extended.
 
