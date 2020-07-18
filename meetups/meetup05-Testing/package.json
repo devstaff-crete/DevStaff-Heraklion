@@ -21,7 +21,7 @@
     "test": "grunt mochaTest"
   },
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "chai": "^3.4.1",
