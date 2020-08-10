@@ -4,6 +4,19 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## E-Commerce Web Developer (Heraklion Crete) @ [Digital Bird](https://www.digitalbird.gr/)
+
+**Why would you want to work for us as a Web Developer ?**
+Ready to Join us? We are a young and passionate team, that is constantly growing! Our modern and minimalistic offices are in the city centre of Heraklion. We are an easy-going company rolling with the moto #weflyonline. Are you ready to fly with us?
+
+**Role Summary**
+ The ideal candidate will design and maintain code using WordPress and WooCommerce.
+ As it is a senior position, we will be relying on your individual expertise to recommend improvements/strategies to help us enhance our sites and web applications as we move into the future.
+
+[Read more & Apply here](https://www.digitalbird.gr/eukairies-karieras/#apply)
+
+* PubDate: 10/08/2020
+
 ## Web Developer @ [Real TV](http://www.realtv-media.de/)
 
 Real TV is looking for Web Developers.
@@ -111,19 +124,6 @@ Epignosis is a leading software company.From eFront to TalentLMS and then Talent
 [Read more & Apply here](https://apply.workable.com/epignosis/j/10C4FE75BB/)
 
 * PubDate: 28/01/2020
-
-## E-Commerce Web Developer (Heraklion Crete) @ [Digital Bird](https://www.digitalbird.gr/)
-
-**Why would you want to work for us as a Web Developer ?**
-Ready to Join us? We are a young and passionate team, that is constantly growing! Our modern and minimalistic offices are in the city centre of Heraklion. We are an easy-going company rolling with the moto #weflyonline. Are you ready to fly with us?
-
-**Role Summary**
- The ideal candidate will design and maintain code using WordPress and WooCommerce.
- As it is a senior position, we will be relying on your individual expertise to recommend improvements/strategies to help us enhance our sites and web applications as we move into the future.
-
-[Read more & Apply here](https://www.digitalbird.gr/eukairies-karieras/#apply)
-
-* PubDate: 22/01/2020
 
 ##  Jr. Front-end Developer (Heraklion) @ [Netmechanics LLC](https://www.netmechanics.gr)
 
