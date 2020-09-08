@@ -23,6 +23,8 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #57 | 10/09/2020 | [Availability and monitoring/alerting
+](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup57-AvailabilityAndMonitoringAlerting
 | #56 | 09/07/2020 | [Open Discussion](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup56-OpenDiscussion) |
 | #55 | 11/06/2020 | [Go Language](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup55-GoLanguage) |
 | #54 | 14/05/2020 | [Lightning Talks](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup54-LightningTalks) |
