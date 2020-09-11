@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Web Developer @ [Cool Digital](https://cool-digital.co.uk/)
+
+Cool Digital is looking for a Web Developer.
+
+[Read more here](https://cool-digital.co.uk/we-are-hiring/)
+
+* PubDate: 11/09/2020
+
 ## E-Commerce Web Developer (Heraklion Crete) @ [Digital Bird](https://www.digitalbird.gr/)
 
 **Why would you want to work for us as a Web Developer ?**
