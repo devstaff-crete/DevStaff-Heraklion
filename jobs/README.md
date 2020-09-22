@@ -11,14 +11,6 @@ Enartia is looking for several passionate software crafters who can spread and g
 
 * PubDate: 15/09/2020
 
-## Back-end Developer @ [Enartia](https://www.enartia.com/)
-Enartia is looking for an experienced, analytical, and self-motivated Back-end Developer to join our team.
-For this role, working hours can be used either on-site or up to 100% remotely.
-
-[Read more & Apply here](https://apply.workable.com/enartia/j/020FDA41C1/)
-
-* PubDate: 15/09/2020
-
 ## Web Developer @ [Cool Digital](https://cool-digital.co.uk/)
 
 Cool Digital is looking for a Web Developer.
