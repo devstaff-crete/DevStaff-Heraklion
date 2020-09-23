@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Sortware Engineers @ [Gnosis](https://jadbio.com)
+
+Gnosis Data Analysis is looking for Software Engineers with passion  
+
+[Read more & Apply here](https://www.jadbio.com/careers/)
+
+* PubDate: 23/09/2020
+
 ## Senior Software Engineer @ [Enartia](https://www.enartia.com/)
 Enartia is looking for several passionate software crafters who can spread and grow the <3 for maintainability, testability and well-crafted, quality code. They should be constant learners, value team-work over egos, take pride in their code and be focused on building customer-first solutions.
 
