@@ -4,6 +4,22 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Senior Java Software Engineer @ [Agile Actors](https://www.agileactors.com)
+
+Agile Actors is looking for Senior Java Software Engineers. Remote working is available.
+
+[Read more & Apply here](https://apply.workable.com/agileactors/j/D170D71B82/)
+
+* PubDate: 28/09/2020
+
+## Remote Medior/Senior Front-End Engineer (React) @ [Agile Actors](https://www.agileactors.com)
+
+Agile Actors is looking for Medior or Senior Front-End (React) Engineers.
+
+[Read more & Apply here](https://apply.workable.com/agileactors/j/89413B1464/)
+
+* PubDate: 28/09/2020
+
 ## Sortware Engineers @ [Gnosis](https://jadbio.com)
 
 Gnosis Data Analysis is looking for Software Engineers with passion  
