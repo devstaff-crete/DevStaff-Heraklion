@@ -4,6 +4,42 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Front-end Developer @ [Ecoworld S.A](https://greekferries-club.gr/)
+
+Ecoworld Sa is currently looking for 1-2 experienced Frontend Developers to join our IT team in Heraklion, Crete. 
+Part of your job will be to build the ‘client-side’ of our travel-related web applications. 
+You should be able to translate our company and customer needs into functional and appealing interactive applications. 
+If you are interested in working in a pleasant multi-national environment, are hard-working, self-motivated and
+passionate about your work, we would love to hear from you.
+
+Responsibilities
+• Use markup languages like HTML to create user-friendly web pages
+• Maintain and improve websites
+• Design mobile-based features
+• Collaborate with back-end developers and web designers to improve usability
+• Help back-end developers with coding and troubleshooting
+• Ensure high quality graphic standards and brand consistency
+• Stay up-to-date on emerging technologies
+• Get feedback from, and build solutions for, users and customers
+
+Necessary qualifications: 
+• Excellent knowledge of Html5 / CSS3
+• JavaScript / jQuery
+• Wordpress
+• Responsive Web Design
+• Bootstrap 4
+• Proven work experience.
+
+Considered a Plus:
+• PHP
+• ASP.NET
+• Wordpress (custom themes/plugins)
+
+[Read more & Apply here](https://greekferries-club.gr/company/work-places/)
+
+* PubDate: 05/10/2020
+
+
 ## Senior front-end Software Engineer (Chania/Remote) @ [SKY express](https://www.skyexpress.gr)
 
 SKY express is currently seeking for an experienced front-end software engineer to join our development lab in Chania. Part of your job will be to participate in the design and implementation and testing of highly engaging internal as well as customer facing web applications. The right candidate should be passionate, self-motivated, and willing to collaborate closely with non-technical teams.
