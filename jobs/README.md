@@ -4,6 +4,26 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Mid/Senior Backend Engineer @ [Fairlo](https://www.fairlo.se)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden, who's now taking our first steps in establishing a Tech Hub in Heraklion.  
+
+We’re looking for a Software Engineer to join the Heraklion team, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://careers.fairlo.se/jobs/838432-mid-senior-backend-developer-to-heraklion-tech-hub)
+
+* PubDate: 12/10/2020
+
+## Mid/Senior Fullstack Engineer @ [Fairlo](https://www.fairlo.se)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden, who's now taking our first steps in establishing a Tech Hub in Heraklion.  
+
+We’re looking for a Software Engineer to join the Heraklion team, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://careers.fairlo.se/jobs/965929-mid-senior-fullstack-developer-to-heraklion-tech-hub)
+
+* PubDate: 12/10/2020
+
 ## Senior front-end Software Engineer (Chania/Remote) @ [SKY express](https://www.skyexpress.gr)
 
 SKY express is currently seeking for an experienced front-end software engineer to join our development lab in Chania. Part of your job will be to participate in the design and implementation and testing of highly engaging internal as well as customer facing web applications. The right candidate should be passionate, self-motivated, and willing to collaborate closely with non-technical teams.
