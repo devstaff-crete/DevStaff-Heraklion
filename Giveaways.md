@@ -1,10 +1,10 @@
 # Giveaways
 From time to time DevStaff has the opportunity to offer some giveaways during the meetups. The prizes are provided by [sponsors](https://github.com/devstaff-crete/DevStaff-Heraklion/blob/master/Sponsors.md) in return of advertising.
 
-The process, the tools and the rules we use for these giveaways are described here:.
+The process, the tools and the rules we use for these giveaways are described here.
 
 # Prizes list
-All prizes will be written down at each meetup's announcement at [meetup.com](https://www.meetup.com/devstaff/). Moreover, at the intro presentation, when sponsors are presented, each prize will be explicitly mentioned as well as the type, the amount of prizes and the sponsor of each one.
+All prizes will be written down at each meetup's announcement at [meetup.com](https://www.meetup.com/devstaff/). Moreover, at the intro presentation, when sponsors are presented, each prize will be explicitly mentioned along with the type, the amount of prizes and the sponsor of each one.
 
 # Participants eligibility
 All participants of a meetup are eligible for the raffling process including the speaker(s), attendees, and org team members. The participants of a meetup are the members that have joined our meetup's place (in case of physical meetups) or our communication tool (in case of remote meetups).
