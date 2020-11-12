@@ -10,6 +10,8 @@ Pressidium, a premium web hosting and management service that provides fast, rob
 
 [Read more & Apply here](https://pressidium.com/careers/senior-python-developer/)
 
+* PubDate: 12/11/2020
+
 ## Mid/Senior Backend Engineer @ [Fairlo](https://www.fairlo.se)
 
 Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden, who's now taking our first steps in establishing a Tech Hub in Heraklion.  
