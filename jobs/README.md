@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Senior Python Software Developer @ [Pressidium](https://pressidium.com)
+
+Pressidium, a premium web hosting and management service that provides fast, robust, scalable, and secure hosting to owners and managers of professional WordPress sites, is looking for a motivated and professional Senior Python Software Developer to join the team that is responsible for maintaining the best Enterprise WordPress platform out there, that is trusted by thousands of clients around the world.
+
+[Read more & Apply here](https://pressidium.com/careers/senior-python-developer/)
+
+* PubDate: 12/11/2020
+
 ## Mid/Senior Backend Engineer @ [Fairlo](https://www.fairlo.se)
 
 Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden, who's now taking our first steps in establishing a Tech Hub in Heraklion.  
