@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Support Engineer @ [Sunlight](https://sunlight.io)
+
+Sunlight.io is building the next-generation cloud platform technology and we are looking for a Support Engineers to be part of our team and provide enterprise-level assistance to our customers. Our team is developing the most efficient hyper-converged infrastructure (HCI) Cloud platform, based on our new high-performance Hypervisor technology.
+
+You will help our customers install our software on the machines at their site and help diagnose and troubleshoot software and hardware problems. 
+
+[Read more & Apply here](https://sunlight.zohorecruit.com/jobs/Careers/551923000000405121/Support-Engineer?source=CareerSite)
+
+* PubDate: 01/12/2020
+
 ## DevOps Engineer - SysAdmin @ [Sunlight](https://sunlight.io)
 
 Sunlight.io is building the next-generation cloud platform technology and we are looking for a DevOps Engineer to be part of our team! Our team is developing the most efficient hyper-converged infrastructure (HCI) Cloud platform, based on our new high-performance Hypervisor technology. 
