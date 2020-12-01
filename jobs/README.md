@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## DevOps Engineer - SysAdmin @ [Sunlight](https://sunlight.io)
+
+Sunlight.io is building the next-generation cloud platform technology and we are looking for a DevOps Engineer to be part of our team! Our team is developing the most efficient hyper-converged infrastructure (HCI) Cloud platform, based on our new high-performance Hypervisor technology. 
+
+[Read more & Apply here](https://sunlight.zohorecruit.com/jobs/Careers/551923000000405081/DevOps-Engineer---SysAdmin?source=CareerSite)
+
+* PubDate: 01/12/2020
+
 ## Senior Python Software Developer @ [Pressidium](https://pressidium.com)
 
 Pressidium, a premium web hosting and management service that provides fast, robust, scalable, and secure hosting to owners and managers of professional WordPress sites, is looking for a motivated and professional Senior Python Software Developer to join the team that is responsible for maintaining the best Enterprise WordPress platform out there, that is trusted by thousands of clients around the world.
