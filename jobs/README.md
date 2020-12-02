@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Solutions Architect & AWS specialist @ [Fairlo](https://www.fairlo.se)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden, who's now taking our first steps in establishing a Tech Hub in Heraklion.  
+
+We’re looking for a Software Engineer to join the Heraklion team, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://careers.fairlo.se/jobs/983178-solutions-architect-aws-specialist)
+
+* PubDate: 02/12/2020
+
 ## Support Engineer @ [Sunlight](https://sunlight.io)
 
 Sunlight.io is building the next-generation cloud platform technology and we are looking for a Support Engineers to be part of our team and provide enterprise-level assistance to our customers. Our team is developing the most efficient hyper-converged infrastructure (HCI) Cloud platform, based on our new high-performance Hypervisor technology.
