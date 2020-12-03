@@ -23,6 +23,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #60 | 10/12/2020 | [Data Protection, Privacy and Android Apps](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup60-Data-Protection-Privacy-and-Android-Apps) |
 | #59 | 12/11/2020 | [The Git Version Control System](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup59-The-Git-Version-Control-System) |
 | #58 | 08/10/2020 | [gRPC: Forget about the REST](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup58-gRPC-Forget-about-the-REST) |
 | #57 | 10/09/2020 | [Availability and monitoring/alerting](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup57-AvailabilityAndMonitoringAlerting)
