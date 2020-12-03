@@ -4,6 +4,18 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Web Developer / IT @ [IMBBC - HCMR](https://imbbc.hcmr.gr) - [lab](http://lab42open.hcmr.gr)
+
+We are looking for a Python Web Developer for our project [PREGO](http://prego.hcmr.gr) to join our team in Heraklion, Crete. 
+
+Our team is developing PREGO, a web-platform, that combines text-mining, data-mining and network analysis to its knowledge base. PREGO (PRocess, Environment, Organism) is a systems-biology approach to elucidate ecosystem function at the microbial dimension.
+
+[Read more & Apply here](https://calls.hcmr.gr/προκήρυξη-για-την-πρόσληψη-ενός-1-ατόμ-206/)
+
+* PubDate: 27/11/2020
+
+*Expires at 11:59pm on Friday December 11th, 2020*
+
 ## Solutions Architect & AWS specialist @ [Fairlo](https://www.fairlo.se)
 
 Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden, who's now taking our first steps in establishing a Tech Hub in Heraklion.  
