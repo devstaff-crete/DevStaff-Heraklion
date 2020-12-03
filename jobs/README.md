@@ -12,7 +12,7 @@ Our team is developing PREGO, a web-platform, that combines text-mining, data-mi
 
 [Read more & Apply here](https://calls.hcmr.gr/προκήρυξη-για-την-πρόσληψη-ενός-1-ατόμ-206/)
 
-* PubDate: 27/11/2020
+* PubDate: 03/12/2020
 
 *Expires at 11:59pm on Friday December 11th, 2020*
 
