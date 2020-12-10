@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## QA Engineer @ [Sunlight](https://sunlight.io)
+
+Sunlight.io is building the next-generation cloud platform technology and we are looking for a Quality Assurance Engineer to work with the Quality Assurance team to provide assistance with ensuring product quality on our enterprise-level Cloud platform.
+
+[Read more & Apply here](https://sunlight.zohorecruit.com/jobs/Careers/551923000000426003/QA-engineer)
+
+* PubDate: 10/12/2020
+
 ## Web Developer / IT @ [IMBBC - HCMR](https://imbbc.hcmr.gr) - [lab](http://lab42open.hcmr.gr)
 
 We are looking for a Python Web Developer for our project [PREGO](http://prego.hcmr.gr) to join our team in Heraklion, Crete. 
