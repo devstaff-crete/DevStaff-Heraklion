@@ -4,6 +4,15 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Engineer @ [Travelstaytion](https://www.travelstaytion.com)
+
+Travelstaytion is looking for a passionate and experienced Software Engineer.
+TravelStaytion.com is a dynamic holiday rental platform with a portfolio of 85.000 properties globally covering more than 750 destinations. Currently partnering with the biggest travel companies in the world developing bespoke and innovating tech solutions that change the way holiday rentals world is working.
+
+[Read more & Apply here](https://apply.workable.com/staytion-ltd/j/AD6B9268C5/)
+
+* PubDate: 18/12/2020
+
 ## QA Engineer @ [Sunlight](https://sunlight.io)
 
 Sunlight.io is building the next-generation cloud platform technology and we are looking for a Quality Assurance Engineer to work with the Quality Assurance team to provide assistance with ensuring product quality on our enterprise-level Cloud platform.
