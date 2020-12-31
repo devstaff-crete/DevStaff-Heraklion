@@ -4,6 +4,24 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Front-end Engineer (Angular) @ [ICS-FORTH](https://www.ics.forth.gr)
+
+The Human Computer Interaction (HCI) lab of ICS-FORTH is looking for an experienced Front-end software engineer (Angular). ICS-1643
+
+[Read more](https://jobs.ics.forth.gr/job_opportunities/1643_GR_ADA_ICS-1643_%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7_%CE%B8%CE%AD%CF%83%CE%B7%CF%82_%CE%9C%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%BF%CF%8D_%CE%9B%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D_DestinationCrete-Dec2020_64%CE%9C%CE%93469%CE%97%CE%9A%CE%A5-%CE%A6%CE%94%CE%A6.pdf) - 
+[Apply here](https://jobs.ics.forth.gr/apply.php?l=e&possition_id=1643)
+
+* PubDate: 31/12/2020
+
+## Back-end Engineer (Laravel - PHP) @ [ICS-FORTH](https://www.ics.forth.gr)
+
+The Human Computer Interaction (HCI) lab of ICS-FORTH is looking for an experienced Back-end software engineer (Laravel - PHP). ICS-1642
+
+[Read more](https://jobs.ics.forth.gr/job_opportunities/1642_GR_ADA_ICS-1642_%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7_%CE%9C%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%9B%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D-%CE%95%CE%A3%CE%A900137-Dec2020_9%CE%A11%CE%92469%CE%97%CE%9A%CE%A5-%CE%96%CE%A7%CE%94.pdf) - 
+[Apply here](https://jobs.ics.forth.gr/apply.php?l=e&possition_id=1642)
+
+* PubDate: 31/12/2020
+
 ## Software Engineer @ [Travelstaytion](https://www.travelstaytion.com)
 
 Travelstaytion is looking for a passionate and experienced Software Engineer.
