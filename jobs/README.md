@@ -3,6 +3,14 @@
 In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push, and create a pull request on GitHub.
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
+## Software Enginner @ [Cytech](https://www.cytechmobile.com)
+
+Come work for a team that works on high-performance telecoms infrastructure systems, built in Java. We believe in TDD & Continuous Integration, and are following a Continuous Delivery pipeline, to support a range of international clients, around the world.
+
+[Apply here](https://apply.workable.com/cytech/j/E62D2AA030/)
+
+* PubDate: 25/01/2021
+
 
 ## Front-end Engineer (Angular) @ [ICS-FORTH](https://www.ics.forth.gr)
 
