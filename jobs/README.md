@@ -77,6 +77,7 @@ TravelStaytion.com is a dynamic holiday rental platform with a portfolio of 85.0
 [Read more & Apply here](https://apply.workable.com/staytion-ltd/j/AD6B9268C5/)
 
 * PubDate: 18/12/2020
+
 ## Web Developer / IT @ [IMBBC - HCMR](https://imbbc.hcmr.gr) - [lab](http://lab42open.hcmr.gr)
 
 We are looking for a Python Web Developer for our project [PREGO](http://prego.hcmr.gr) to join our team in Heraklion, Crete. 
@@ -98,6 +99,7 @@ We’re looking for a Software Engineer to join the Heraklion team, who’ll joi
 [Read more & Apply here](https://careers.fairlo.se/jobs/983178-solutions-architect-aws-specialist)
 
 * PubDate: 02/12/2020
+
 ## DevOps Engineer - SysAdmin @ [Sunlight](https://sunlight.io)
 
 Sunlight.io is building the next-generation cloud platform technology and we are looking for a DevOps Engineer to be part of our team! Our team is developing the most efficient hyper-converged infrastructure (HCI) Cloud platform, based on our new high-performance Hypervisor technology. 
