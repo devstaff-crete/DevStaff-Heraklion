@@ -25,7 +25,7 @@ The main tool for organizing our meetings is *meetup.com*. The first step is to 
 Make sure you configure your notification options on meetup.com in order to receive notifications about upcoming events!
 
 ## Join the chat
-A big part of the community revolves around our a Slack group where you can find the latest tech news, interesting articles, random pieces of information and a lot of heated discussions! Click on the link [here](https://join.slack.com/t/devstaff/shared_invite/enQtNDYyNTI0NjUyMjczLWUyN2ZkOGJjYWQyMzU2MTE0MjViYTAxYWYxMjVlMzk2ZDk1N2I3ZGI2Y2MxMmMwN2JkNzY5MGUzMGRmN2NlNWM) to join. 
+A big part of the community revolves around our Slack group where you can find the latest tech news, interesting articles, random pieces of information and a lot of heated discussions! Click on the link [here](https://join.slack.com/t/devstaff/shared_invite/enQtNDYyNTI0NjUyMjczLWUyN2ZkOGJjYWQyMzU2MTE0MjViYTAxYWYxMjVlMzk2ZDk1N2I3ZGI2Y2MxMmMwN2JkNzY5MGUzMGRmN2NlNWM) to join. 
 
 ## Topics selection / Suggest
 
