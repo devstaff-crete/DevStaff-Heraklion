@@ -1,8 +1,8 @@
 # Hack Sessions
 DevStaff members occasionally organise Hack Sessions on various topics. 
-Org Team will help with great pleasure to organize a Hack Session and create 
-an event on meetup.com for the session!
-!
+The Org Team will help with great pleasure to organize a Hack Session and 
+create an event on meetup.com for the session!
+
 ## How to Start a Hack Session
 Anyone can start a Hack Session! It's a good idea to have found at least 
 one other interested member before opening an issue. The issue MUST contain:
@@ -23,5 +23,5 @@ tutorials to be followed before the session etc.
   network issues
 * Create a Slack channel and add the participants! You need to share data quickly
 * It helps (a lot) to have a whiteboard and a projector/large screen
-* It helps (a lot) to everybody have done their homework (examples, tutorials 
+* It helps (a lot) that everybody has done their homework (examples, tutorials 
   etc). Prerequisites are important for the success of the session!
