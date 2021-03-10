@@ -138,7 +138,3 @@ The community uses a few different chatrooms based on [Slack](https://join.slack
 
 * [The Official DevStaff-Heraklion chatroom](https://devstaff.slack.com/messages/general/)
 * [Το Καφενείο](https://devstaff.slack.com/messages/random/)
-
-## Meetups Presence Statistics :hand:
-
-You can find [Presence Statistics](/statistics/README.md) for some of the latest ΜeetUps.
