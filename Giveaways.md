@@ -33,4 +33,4 @@ as well as the prizes' winners will be stored for 1 year after the Meetup's
 date.
 
 The whole raffle process described at this step will take place during the end 
-of the Meetup (live or) in front of all participants.
+of the Meetup (live or) in front of all the participants.
