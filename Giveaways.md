@@ -28,9 +28,11 @@ prize. The list with the participants alongside the assigned unique number
 will be presented before the giveaway begins. Each participant's unique number 
 corresponding to the random number produced will win the prize. All prizes 
 will be given in the order mentioned at the top of the page in the provided 
-link where participants will fill their details. All details (name and emails) 
-as well as the prizes' winners will be stored for 1 year after the Meetup's 
-date.
+link where participants will fill their details. All details (names and 
+emails) as well as the winners' prizes will be stored for 1 year after the 
+Meetup's date, and will only be accessible by DevStaff Org Team members. 
+For any information or requests you can contact the Org Team at 
+(info@devstaf.gr](mailto:info@devstaf.gr).
 
 The whole raffle process described at this step will take place during the end 
 of the Meetup (live or) in front of all the participants.
