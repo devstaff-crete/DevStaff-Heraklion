@@ -1,6 +1,8 @@
 # Hack Sessions
 DevStaff members occasionally organise Hack Sessions on various topics. 
-Org Team will help with great pleasure to organize a Hack Session!
+Org Team will help with great pleasure to organize a Hack Session and create 
+an event on meetup.com for the session!
+!
 ## How to Start a Hack Session
 Anyone can start a Hack Session! It's a good idea to have found at least 
 one other interested member before opening an issue. The issue MUST contain:
