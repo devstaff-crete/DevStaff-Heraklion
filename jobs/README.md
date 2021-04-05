@@ -4,6 +4,10 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Full stack @ [Cosmos](https://www.niometrics.com)
+
+Everybody understands the importance of so-called big data, but few developers have the chance to work with truly massive data. Join us if you want to tackle one of the most voluminous data sources in our world today: the massive network-level information from telecommunication networks. You will work on data pipelines analysing a total of half a billion subscribers.
+
 ## Software Developer (Data Pipelines) @ [Niometrics](https://www.niometrics.com)
 
 Everybody understands the importance of so-called big data, but few developers have the chance to work with truly massive data. Join us if you want to tackle one of the most voluminous data sources in our world today: the massive network-level information from telecommunication networks. You will work on data pipelines analysing a total of half a billion subscribers.
