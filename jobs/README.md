@@ -4,6 +4,22 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Backend Developer @ [Cosmos](https://www.cosmossport.gr)
+
+We are looking for a motivated .NET Developer with strong problem-solving skills to join our development team in Heraklion, Crete. The team is responsible for the whole lifecycle of our ERP infrastructure that supports our company. If you are passionate about technology, constantly seeking to learn and improve skill set, then you are the type of person we are looking for!
+
+[Read more & Apply here](https://apply.workable.com/cosmos-sport-s-dot-a/j/3FDE61366C/)
+
+* PubDate: 16/04/2021
+
+## Full Stack PHP Developer @ [Cosmos](https://www.cosmossport.gr)
+
+We are looking for a motivated Full Stack PHP Developer with strong problem-solving skills to join our ecommerce development team in Heraklion, Crete. If you are passionate about technology, constantly seeking to learn and improve skill set, then you are the type of person we are looking for!
+
+[Read more & Apply here](https://apply.workable.com/cosmos-sport-s-dot-a/j/3949D9B44B/)
+
+* PubDate: 16/04/2021
+
 ## Software Developer (Data Pipelines) @ [Niometrics](https://www.niometrics.com)
 
 Everybody understands the importance of so-called big data, but few developers have the chance to work with truly massive data. Join us if you want to tackle one of the most voluminous data sources in our world today: the massive network-level information from telecommunication networks. You will work on data pipelines analysing a total of half a billion subscribers.
