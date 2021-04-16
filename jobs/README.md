@@ -12,9 +12,13 @@ We are looking for a motivated .NET Developer with strong problem-solving skil
 
 * PubDate: 16/04/2021
 
-## Full stack @ [Cosmos](https://www.cosmossport.gr)
+## Full Stack PHP Developer @ [Cosmos](https://www.cosmossport.gr)
 
-Everybody understands the importance of so-called big data, but few developers have the chance to work with truly massive data. Join us if you want to tackle one of the most voluminous data sources in our world today: the massive network-level information from telecommunication networks. You will work on data pipelines analysing a total of half a billion subscribers.
+We are looking for a motivated Full Stack PHP Developer with strong problem-solving skills to join our ecommerce development team in Heraklion, Crete. If you are passionate about technology, constantly seeking to learn and improve skill set, then you are the type of person we are looking for!
+
+[Read more & Apply here](https://apply.workable.com/cosmos-sport-s-dot-a/j/3949D9B44B/)
+
+* PubDate: 16/04/2021
 
 ## Software Developer (Data Pipelines) @ [Niometrics](https://www.niometrics.com)
 
