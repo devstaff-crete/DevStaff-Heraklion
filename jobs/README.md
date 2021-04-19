@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Frontend Engineer @ [Fairlo](https://www.fairlo.se)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a Tech Hub in Heraklion. Our founders come from previous startup success, and the team is made up of best-in-class talent.  
+
+We’re looking for Frontend Engineers to join the Heraklion team, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://bit.ly/3sr9ohf)
+
+* PubDate: 19/04/2021
+
 ## Backend Developer @ [Cosmos](https://www.cosmossport.gr)
 
 We are looking for a motivated .NET Developer with strong problem-solving skills to join our development team in Heraklion, Crete. The team is responsible for the whole lifecycle of our ERP infrastructure that supports our company. If you are passionate about technology, constantly seeking to learn and improve skill set, then you are the type of person we are looking for!
