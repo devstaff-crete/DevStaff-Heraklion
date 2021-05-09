@@ -4,6 +4,17 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+
+## QA Engineer @ [Fairlo](https://www.fairlo.se)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a Tech Hub in Heraklion. Our founders come from previous startup success, and the team is made up of best-in-class talent.  
+
+We’re looking for QA Engineers to join the Heraklion team, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://bit.ly/3tsjD6M)
+
+* PubDate: 9/05/2021
+
 ## Backend Engineer @ [Fairlo](https://www.fairlo.se)
 
 Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a Tech Hub in Heraklion. Our founders come from previous startup success, and the team is made up of best-in-class talent.  
