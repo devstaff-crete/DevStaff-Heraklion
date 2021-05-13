@@ -23,6 +23,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #65 | 13/05/2021 | [Testing](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup65-Testing) |
 | #64 | 08/04/2021 | [Laravel PHP Framework](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup64-Laravel-PHP-Framework) |
 | #63 | 11/03/2021 | [Dart / Flutter](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup63-Dart-Flutter) |
 | #62 | 11/02/2021 | [UI/UX Open discussion](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup62-UI-UX-Open-Discussion) |
