@@ -4,6 +4,17 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Senior Frontend Software Engineer @ [Code BGP](https://codebgp.com/)
+
+Code BGP was founded to provide commercial-grade solutions at scale for network operators worldwide, and is backed by a VC. We focus specifically on BGP security, visibility, and automation. 
+Our mission is to provide highly innovative solutions that simplify BGP operations based on open source and proprietary software, making the Internet more robust and efficient. 
+We are US based, with a branch in FORTH, Heraklion, Crete, and we aspire to disrupt the BGP security, visibility and automation landscape.
+We are looking for a Senior Frontend Software Engineer to join our team. 
+
+[Read more & Apply here](https://apply.workable.com/codebgp/j/56C61ACB06/)
+
+* PubDate: 25/05/2021
+
 
 ## QA Engineer @ [Fairlo](https://www.fairlo.se)
 
