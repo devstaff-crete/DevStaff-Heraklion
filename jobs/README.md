@@ -4,6 +4,32 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Frontend Software Engineer (Angular) @ [ICS-FORTH](https://www.ics.forth.gr/hci/about-hci)
+
+The Human Computer Interaction (HCI) lab of ICS-FORTH is an internationally recognised centre of excellence with experience in user interface software technologies, design methodologies & software tools.
+
+We are looking for a Mid/Senior Angular frontend software engineer, who will work in one of the most important digital transformation projects currently underway in Greece (gov.gr e-services). A very competitive compensation package is offered.
+
+[Read more](https://jobs.ics.forth.gr/job_opportunities/1730_GR_ADA_ICS-1730_%CE%A0%CF%81%CE%BF%CE%BA%CE%B7%CC%81%CF%81%CF%85%CE%BE%CE%B7_%CE%B8%CE%B5%CC%81%CF%83%CE%B7%CF%82_%CE%9C%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%BF%CF%85%CC%81_%CE%9B%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%85%CC%81_%CE%A0%CE%91%CE%A100744-May2021-_Frontend_developer_9%CE%9C%CE%922469%CE%97%CE%9A%CE%A5-%CE%9A%CE%A4%CE%98.pdf)
+
+[Apply here](https://jobs.ics.forth.gr/apply.php?l=e&possition_id=1730)
+
+* PubDate: 10/06/2021
+
+
+## Backend Software Engineer (PHP) @ [ICS-FORTH](https://www.ics.forth.gr/hci/about-hci)
+
+The Human Computer Interaction (HCI) lab of ICS-FORTH is an internationally recognised centre of excellence with experience in user interface software technologies, design methodologies & software tools.
+
+We are looking for a Mid/Senior PHP backend software engineer, who will work in one of the most important digital transformation projects currently underway in Greece (gov.gr e-services). A very competitive compensation package is offered.
+
+[Read more](https://jobs.ics.forth.gr/job_opportunities/1731_GR_ADA_ICS-1731_%CE%A0%CF%81%CE%BF%CE%BA%CE%B7%CC%81%CF%81%CF%85%CE%BE%CE%B7_%CE%B8%CE%B5%CC%81%CF%83%CE%B7%CF%82_%CE%9C%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%BF%CF%85%CC%81_%CE%9B%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%85%CC%81_%CE%A0%CE%91%CE%A100744-May2021_-_Backend_developer_9%CE%A7%CE%98%CE%91469%CE%97%CE%9A%CE%A5-%CE%97%CE%92%CE%A3.pdf)
+
+[Apply here](https://jobs.ics.forth.gr/apply.php?l=e&possition_id=1731)
+
+* PubDate: 10/06/2021
+
+
 ## Senior Frontend Software Engineer @ [Code BGP](https://codebgp.com/)
 
 Code BGP was founded to provide commercial-grade solutions at scale for network operators worldwide, and is backed by a VC. We focus specifically on BGP security, visibility, and automation. 
