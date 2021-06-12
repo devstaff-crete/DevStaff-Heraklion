@@ -1,1 +1,1 @@
-# meetup66 - Pythong & Django
+# meetup66 - Python & Django
