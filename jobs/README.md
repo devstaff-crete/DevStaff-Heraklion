@@ -4,6 +4,41 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Front-End Developer @ [ORTEC](https://careers.ortec.com/job/?search_keywords=&search_region=236&search_category=0)
+Keen on front-end development, new technologies and ever-changing projects? Sounds like this might be the job for you!
+
+Most of our projects are built from scratch in an Agile environment, and our front-end developers work with Angular 9 and 10. To improve the service we offer to our customers we are constantly on the lookout for new, exciting technologies and work processes.
+
+We're a team of skilled and passionate craftsmen who love to challenge ourselves with different small and large solutions for very diverse industries.
+
+[Read more & Apply here](https://careers.ortec.com/job/front-end-developer-4/)
+
+* PubDate: 14/06/2021
+
+
+## Back-End Developer @ [ORTEC](https://careers.ortec.com/job/?search_keywords=&search_region=236&search_category=0)
+If you eat C# and SQL Server for breakfast and would love to work with Azure, you might just be the Back-End Developer we're looking for!
+
+We're always on the lookout for a new challenge: most of our projects are built from scratch in an Agile environment, and we strive to employ the latest technologies and work processes both for small and big designs.
+
+We believe a happy teammate is one that gets to try out innovative ideas and develop cool stuff which we can hopefully implement in the future. As passionate and skilled craftsmen, we make a point of sharing our knowledge – and having fun whilst we do what we love, day after day.
+
+[Read more & Apply here](https://careers.ortec.com/job/back-end-developer-8/)
+
+* PubDate: 14/06/2021
+
+## DevOps Engineer @ [ORTEC for Communications](https://careers.ortec.com/job/?search_keywords=&search_region=236&search_category=0)
+
+As a DevOps Engineer at ORTEC for Communications your input will determine the future of our infrastructure.
+At ORTEC for Communications we build a digital workplace platform. This platform enables medium and large companies to support their employees in their everyday tasks and keep them engaged and aligned with the company's mission and values. The platform is multi-channel and includes native mobile apps, a web portal and the TV screens that hang by the coffee corner. Our analytics solution ensures administrators have insights into the platform's usage within the company.
+
+We are a small cohesive team with a start-up mentality: this means we are driven to add value to our product in the most efficient way possible. At the same time, we want to grow the maturity of the product and ensure quality stays high. Striking this balance is challenging, and we are looking for you to help us!
+
+[Read more & Apply here](https://careers.ortec.com/job/devops-engineer-o4c/)
+
+* PubDate: 14/06/2021
+
+
 ## Frontend Software Engineer (Angular) @ [ICS-FORTH](https://www.ics.forth.gr/hci/about-hci)
 
 The Human Computer Interaction (HCI) lab of ICS-FORTH is an internationally recognised centre of excellence with experience in user interface software technologies, design methodologies & software tools.
