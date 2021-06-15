@@ -132,22 +132,3 @@ We are looking for a motivated Full Stack PHP Developer with strong problem-solv
 [Read more & Apply here](https://apply.workable.com/cosmos-sport-s-dot-a/j/3949D9B44B/)
 
 * PubDate: 16/04/2021
-
-## Software Developer (Data Pipelines) @ [Niometrics](https://www.niometrics.com)
-
-Everybody understands the importance of so-called big data, but few developers have the chance to work with truly massive data. Join us if you want to tackle one of the most voluminous data sources in our world today: the massive network-level information from telecommunication networks. You will work on data pipelines analysing a total of half a billion subscribers.
-
-[Read more & Apply here](https://www.niometrics.com/job/software-developer-data-pipelines-athens/)
-
-* PubDate: 25/02/2021
-
-## Network Signatures Engineer @ [Niometrics](https://www.niometrics.com)
-
-Niometrics captures, organises and extracts insights from some of the biggest and most complicated datasets that our modern societies currently produce. We put a magnifying glass on the realities collectively constructed by billions of connected individuals and machines, making sense of how humanity is re-creating wholly new digital universes with bits and bytes – universes that need to be seen, interpreted and explained. From taking deep dives into digital behaviours, to exploring the most intimate interactions between network technology and user experiences, we do it all.
-
-As a Network Signatures Engineer, you are expected to analyse network traffic samples in order to extract the distinguishing characteristics of the flows as well as reverse engineer the many custom protocols which are abundant in the network. You will write and maintain the signatures which classify the bits and bytes passing over the wire to the specific application and component.
-
-[Read more & Apply here](https://www.niometrics.com/job/network-signatures-engineer-athens/)
-
-* PubDate: 25/02/2021
-
