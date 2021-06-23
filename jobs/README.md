@@ -4,6 +4,18 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Engineer @ [Plastika Kritis](https://www.plastikakritis.com)
+Plastika Kritis is a Greek multinational company in the Plastics manufacturing industry.
+
+The IT department of Plastika Kritis, located in Iraklion Crete, analyses and develops software for the internal needs of the company, focused in production and logistics operations.
+
+We are looking for a software engineer with experience in rapid application development tools and databases who will join our software development team.
+
+[Read more & Apply here](https://www.linkedin.com/jobs/view/2591545528/)
+
+* PubDate: 23/06/2021
+
+
 ## Front-End Developer @ [ORTEC](https://careers.ortec.com/job/?search_keywords=&search_region=236&search_category=0)
 Keen on front-end development, new technologies and ever-changing projects? Sounds like this might be the job for you!
 
