@@ -4,6 +4,84 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Back-end Developer (Python) @ [Yodeck](https://www.yodeck.com)
+Yodeck is a next-generation cloud based digital signage service powering tens of thousands of screens across the globe.
+
+We are located in Athens Greece with office availability in Iraklion Crete.
+
+We are looking for an experienced coder to boost development on yodeck’s backend, a RESTful API providing all the endpoints required by the service. Built on Django and Celery, yodeck’s backend is fully integrated with a wide collection of third-party cloud services.
+
+[Read more & Apply here](https://apply.workable.com/yodeck/j/75916628FE/)
+
+* PubDate: 28/06/2021
+
+
+## Embedded Software Developer (Python & Linux) @ [Yodeck](https://www.yodeck.com)
+Yodeck is a next-generation cloud based digital signage service powering tens of thousands of screens across the globe.
+
+We are located in Athens Greece with office availability in Iraklion Crete.
+
+We are looking for a skilled coder to boost development on yodeck’s Player, tailor-made for the Raspberry Pi. Our Player is 95% Python and 5% C, tapping in to the power of high-level languages to automating tasks, but also to the low-level APIs provided by the Raspberry Pi. Like programming and working on low-level Linux stuff? Then, this job is for you!
+
+[Read more & Apply here](https://apply.workable.com/yodeck/j/486A72D7F8/)
+
+* PubDate: 28/06/2021
+
+
+## Lead Quality Assurance Engineer @ [Yodeck](https://www.yodeck.com)
+Yodeck is a next-generation cloud based digital signage service powering tens of thousands of screens across the globe.
+
+We are located in Athens Greece with office availability in Iraklion Crete.
+
+As a Quality Assurance Engineer at Yodeck you will be working closely with our talented teams of engineers to contribute in strengthening the software quality of our product. You will be part of the Agile teams, driving the design, implementation and maintenance of tests that check the end-to-end functionality and quality per product increment.
+
+The ideal candidate has proven experience in Software Testing and Web Services Testing Tools and a good understanding of end to end software testing life cycle. Some knowledge on performance testing and good SQL command is also considered a plus.
+
+[Read more & Apply here](https://apply.workable.com/yodeck/j/6FC4D8CFC5/)
+
+* PubDate: 28/06/2021
+
+
+## Quality Assurance Engineer @ [Yodeck](https://www.yodeck.com)
+Yodeck is a next-generation cloud based digital signage service powering tens of thousands of screens across the globe.
+
+We are located in Athens Greece with office availability in Iraklion Crete.
+
+As a Quality Assurance Engineer at Yodeck you will be working closely with our talented teams of engineers to contribute in strengthening the software quality of our product. You will be part of the Agile teams, driving the design, implementation and maintenance of tests that check the end-to-end functionality and quality per product increment.
+
+The ideal candidate has proven experience in Software Testing and Web Services Testing Tools and a good understanding of end to end software testing life cycle. Some knowledge on performance testing and good SQL command is also considered a plus.
+
+[Read more & Apply here](https://apply.workable.com/yodeck/j/60CCA0CFFE/)
+
+* PubDate: 28/06/2021
+
+
+## Full Stack WordPress Developer @ [Yodeck](https://www.yodeck.com)
+Yodeck is a next-generation cloud based digital signage service powering tens of thousands of screens across the globe.
+
+We are located in Athens Greece with office availability in Iraklion Crete.
+
+We are looking for an experienced FullStack WordPress Developer to join our high-achieving Marketing team! You’ll be responsible for both back-end and front-end development, including (but not limited to) WordPress Gutenberg-based themes. To be successful in this role, you should have a strong understanding of the latest industry trends and content management systems.
+
+[Read more & Apply here](https://apply.workable.com/yodeck/j/1023326CEE/)
+
+* PubDate: 28/06/2021
+
+
+## IT Administrator @ [Yodeck](https://www.yodeck.com)
+Yodeck is a next-generation cloud based digital signage service powering tens of thousands of screens across the globe.
+
+We are looking for an IT to manage our light cloud infrastructure and services, as well as manage tech requests coming in from the rest of the team.
+
+As a fast-growing company in a high-tech space, our teams require a set of IT services, ranging from IT support to shared cloud and on-premise software. Most of our 60 team-members are coders or digital aficionados, so support is little, but some are not and they need your help. You will be in charge of all things tech, and constantly find ways to improve the way we support our teams.
+
+Due to COVID-19, 80% of our people are working remote from the safety of their homes. Due to the nature of the role, you will be required to work full-time in our beautiful office in downtown Athens, Greece.
+
+[Read more & Apply here](https://apply.workable.com/yodeck/j/2EC8BECEC8/)
+
+* PubDate: 28/06/2021
+
+
 ## Software Engineer @ [Plastika Kritis](https://www.plastikakritis.com)
 Plastika Kritis is a Greek multinational company in the Plastics manufacturing industry.
 
