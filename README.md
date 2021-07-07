@@ -23,6 +23,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #67 | 08/07/2021 | [Agile Software Development - Open discussion with panel](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup67-Agile-Software-Development-Open-discussion-with-panel) |
 | #66 | 10/06/2021 | [Python & Django](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup66-Python-and-Django) |
 | #65 | 13/05/2021 | [Testing](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup65-Testing) |
 | #64 | 08/04/2021 | [Laravel PHP Framework](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup64-Laravel-PHP-Framework) |
