@@ -4,6 +4,26 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Senior Front-End Developer (Javascript / Typescript) @ [Logicea](https://www.logicea.com/careers/21-JST20-gr)
+Logicea is a global software consultancy firm offering digital transformation services. Established in 2013 in Washington, DC and having its development centers in Athens and Crete and sales offices in Dubai and Singapore, Logicea has been serving some of the world’s largest companies and organizations. 
+
+We are currently looking for several Senior Front-End Developers (Javascript/Typescript) to join our ever-growing team at our Development Centers in Athens and Heraklion, Greece. The ideal candidate loves the web and is a passionate and creative JavaScript/Typescript developer who is proficient at React.js.
+
+[Read more & Apply here](https://www.logicea.com/careers/21-JST20-gr)
+
+* PubDate: 03/08/2021
+
+
+## Senior Back-End Developer (Java/Kotlin) @ [Logicea](https://www.logicea.com/careers/21-JVK20-gr)
+Logicea is a global software consultancy firm offering digital transformation services. Established in 2013 in Washington, DC and having its development centers in Athens and Crete and sales offices in Dubai and Singapore, Logicea has been serving some of the world’s largest companies and organizations.
+
+We are currently looking for several Senior Back-End Developers (Java/Kotlin) to join our ever-growing team at our Development Centers in Athens and Heraklion, Greece. The ideal candidate will have demonstrated domain experience in building and rolling out infrastructure and applications to deliver successful outcomes.
+
+[Read more & Apply here](https://www.logicea.com/careers/21-JVK20-gr)
+
+* PubDate: 03/08/2021
+
+
 ## Back-end Developer (Python) @ [Yodeck](https://www.yodeck.com)
 Yodeck is a next-generation cloud based digital signage service powering tens of thousands of screens across the globe.
 
