@@ -4,6 +4,15 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Engineer (Javascript / Typescript) @ [The Chat Shop - fully remote](https://www.thechatshop.com/)
+The Chat Shop is built on years of experience. We’ve been at the forefront of the chat industry since 2012, during this time we’ve completed over 3 million chats across 20+ industries, including major global firms.
+
+If you're an experienced Software Engineer, with a passion for software solutions, a thirst for development and a drive for technological innovation, then this is the role for you!
+
+[Read more & Apply here](https://jointhefamily.thechatshop.com/jobs/1330266-software-engineer-fully-remote-greece)
+
+* PubDate: 08/09/2021
+
 ## Senior Front-End Developer (Javascript / Typescript) @ [Logicea](https://www.logicea.com/careers/21-JST20-gr)
 Logicea is a global software consultancy firm offering digital transformation services. Established in 2013 in Washington, DC and having its development centers in Athens and Crete and sales offices in Dubai and Singapore, Logicea has been serving some of the world’s largest companies and organizations. 
 
