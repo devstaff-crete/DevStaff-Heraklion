@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## PHP Software Engineers @ [Jadu](https://www.jadu.net/careers)
+
+Are you passionate about good design and technology, and putting users first? Do you have a thirst for knowledge? Are you nice? :) 
+
+Our culture is vitally important to us and we’re committed to doing everything we can to make Jadu a great place to work. We’re ambitious and want our team to flourish. 
+
+Watch [this video](https://youtu.be/Mp5Vt-dWtwg), and [apply here](http://jadu.peoplehr.net/Pages/JobBoard/Opening.aspx?v=8120299b-0098-4a84-a00d-e4527a2b664d)
+
+* PubDate: 18/01/2022
+
 ## iOS Software Engineer @ [WeatherXM](https://weatherxm.com/)
 
 WeatherXM is a community powered weather station network that rewards weather station owners and provides accurate weather services to web2 & web3 enterprises.
