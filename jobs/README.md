@@ -4,6 +4,16 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Developer (Remote) @ [Enartia](https://www.enartia.com/)
+
+Enartia is a group of brands, Papaki and TopHost, focused on domain registration, web hosting, WordPress, and cloud services. Since April 2021, Enartia has been part of team.blue, a company that offers digital presence and enablement tools such as domains, hosting, email, VPS, and applications to over 2 million SMEs, SoHo, and developer customers across Europe.
+
+The successful applicant will have an enthusiastic attitude for their work with significant experience in creating secure, high-performance applications, constantly improving and optimizing our existing and new infrastructure to deliver on our promise of optimal customer satisfaction.
+
+[Read more & Apply here](https://grcareers.team.blue/jobs/1520472-software-developer-remote)  ·   [All open positions](https://grcareers.team.blue/jobs)
+
+* PubDate: 18/01/2022
+
 ## PHP Software Engineers @ [Jadu](https://www.jadu.net/careers)
 
 Are you passionate about good design and technology, and putting users first? Do you have a thirst for knowledge? Are you nice? :) 
