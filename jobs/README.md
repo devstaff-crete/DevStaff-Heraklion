@@ -4,6 +4,19 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Βlockchain / Smart contract Engineer (Remote)
+
+Good evening!
+
+I ([maninak](https://app.slack.com/client/T06RGB4BU/C06RGB4DQ/user_profile/U2F3S7MMW)) am forwarding a job listing for a friend and colleague based in London. From what I understand it's about a promising new project in the crypto space, for which an international team is being set up and with some big names in the industry behind it, therefore it's a bit hush-hush in the beginning, hence the brief listing.
+
+> We are looking for developers with experience in web3 projects and knowledge of ETH/Solidity, smart contracts and Solana/Rust (optional).
+>Information: kon@codica.net
+
+For any inquiries, please contact Konstantinos (he is Greek BTW). I know he will be happy to explain more when you reach out to him and there's no need to do the official job application thing from the very first email.
+
+* PubDate: 21/01/2022
+
 ## Software Developer (Remote) @ [Enartia](https://www.enartia.com/)
 
 Enartia is a group of brands, Papaki and TopHost, focused on domain registration, web hosting, WordPress, and cloud services. Since April 2021, Enartia has been part of team.blue, a company that offers digital presence and enablement tools such as domains, hosting, email, VPS, and applications to over 2 million SMEs, SoHo, and developer customers across Europe.
