@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Software Engineers @ [Pitcher](https://www.pitcher.com/careers)
+
+Pitcher is a rapidly growing software company headquartered in Zurich, Switzerland that is continuing its expansion globally. We are looking to hire passionate and preferably experienced candidates in various positions worldwide. Check out our list of current vacancies [here](https://boards.eu.greenhouse.io/pitcherag?t=94d58122teu) – you could be exactly the person we’re waiting to meet.
+
+[All open positions](https://boards.eu.greenhouse.io/pitcherag?t=94d58122teu)
+
+* PubDate: 27/01/2022
+
 ## Software Developer (Remote) @ [Enartia](https://www.enartia.com/)
 
 Enartia is a group of brands, Papaki and TopHost, focused on domain registration, web hosting, WordPress, and cloud services. Since April 2021, Enartia has been part of team.blue, a company that offers digital presence and enablement tools such as domains, hosting, email, VPS, and applications to over 2 million SMEs, SoHo, and developer customers across Europe.
