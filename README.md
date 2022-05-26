@@ -23,6 +23,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #72 | 07/06/2022 | [Java Next](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup72-Java-Next) |
 | #71 | 10/02/2022 | [IntelliJ super productivity](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup71-IntelliJ-super-productivity) |
 | #70 | 13/01/2022 | [Monitoring and Alerting Tools](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup70-Monitoring-and-Alerting-Tools) |
 | #69 | 14/10/2021 | [Freelancing and Accounting](https://github.com/devstaff-crete/DevStaff-Heraklion/tree/master/meetups/meetup69-Freelancing-and-Accounting) |
