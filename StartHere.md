@@ -6,7 +6,7 @@ So, there's a lot of us, devs, here in Crete...
 somewhat strange for our small community, we hope you'll agree. 
 
 
-_This ^^ is what we wrote 6 years back. There's now more than 1,300 devs in our
+_This ^^ is what we wrote 6 years back. There's now more than 1,500 devs in our
 _[meetup group](https://www.meetup.com/devstaff/)._
 
 
