@@ -1,22 +1,28 @@
 # DevStaff Community Job Openings
 
-In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push, and create a pull request on GitHub.
+In this section you can find some job openings listed by our community members.
+If you want to add a new job opening do it at the top of the list below, git
+commit, git push, and create a pull request on GitHub.
 
-__Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
+__Be advised that Job Openings older than 3 months will be removed for the sake
+of keeping current. Feel free to repost.__
 
-## ΙΤ Business Analyst @ [Cosmos Sport](https://www.cosmossport.gr/)
+## Student Training in Engineering @ [Google](https://www.google.com/)
 
-Cosmos Sport SA, a member of JD Sports Fashion Plc, is looking for an experienced IT Business Analyst. Position is based in Heraklion, Crete or Athens, Agia Paraskevi according to availability.
+Google is accepting applications from students in their first or second year of
+their B.Sc. in Computer Science or relevant field. You can apply until November
+11th.
 
-[Read more & Apply here](https://apply.workable.com/cosmos-sport-s-dot-a/j/2A1B3FFBBB/)
+[Read more & Apply
+here](https://careers.google.com/jobs/results/106502335259124422/)
 
-*  PubDate: 10/06/2022
+* PubDate: 22/10/2022
 
-## Senior PHP Developer @ [Cosmos Sport](https://www.cosmossport.gr/)
+## Research Intern @ [Google](https://www.google.com/)
 
-Cosmos Sport SA, a member of JD Sports Fashion Plc, is looking for a Senior PHP Developer to join our ecommerce development team in Heraklion, Crete (option for Remote)
+Google is accepting M.Sc. or PhD students in Computer Science or relevant
+fields for internships in Natural Language Understanding, Computer Vision,
+and/or Machine Learning.
 
-[Read more & Apply here](https://apply.workable.com/cosmos-sport-s-dot-a/j/510854941A/)
-
-*  PubDate: 10/06/2022
-
+[Read more & Apply
+here](https://careers.google.com/jobs/results/128162576887358150/)
