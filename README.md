@@ -149,7 +149,7 @@ community**, who would like to contribute / discuss some organizational issues,
 future topics etc. Also a good opportunity to chat about all-things-tech :)
 
 DevStaff is an open community. Open, as in Open Source. If you don't like
-anything about the community you can change it!
+something about the community you can change it!
 
 _Hint: Decisions are made in Org Meetups ;)_
 
