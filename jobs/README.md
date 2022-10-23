@@ -5,7 +5,7 @@ If you want to add a new job opening do it at the top of the list below, git
 commit, git push, and create a pull request on GitHub.
 
 __Be advised that Job Openings older than 3 months will be removed for the sake
-of keeping current. Feel free to repost.__
+of keeping the board up to date. Feel free to repost.__
 
 ## Student Training in Engineering @ [Google](https://www.google.com/)
 
