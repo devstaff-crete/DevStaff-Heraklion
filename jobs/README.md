@@ -15,6 +15,8 @@ We are looking for a Frontend Developer to join our team. The position is remote
 [Read more & Apply
 here](https://apply.workable.com/weave-education/j/A0FC9EE467/)
 
+* PubDate: 2/11/2022
+
 ## Vodafone Crete Tech Hub @ [Vodafone](https://www.vodafone.gr/vodafone-ellados/kariera/vodafone-tech-hub/)
 Hello everybody! Vodafone's Digital Tech Hub has opened in Heraklion, Crete and we are looking for new people.
 You can find more information about the open positions here.
