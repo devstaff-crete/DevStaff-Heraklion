@@ -7,6 +7,13 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## Frontend Developer (Remote) @ [Weave](https://weaveeducation.com/)
+Weave provides a centralized system for managing higher education assessment and accreditation that enables collaboration and helps create a campus-wide culture of continuous improvement.
+
+We are looking for a Frontend Developer to join our team. The position is remote for a US company, however we would prefer a person in Heraklion.
+
+[Read more & Apply
+here](https://apply.workable.com/weave-education/j/A0FC9EE467/)
 
 ## Vodafone Crete Tech Hub @ [Vodafone](https://www.vodafone.gr/vodafone-ellados/kariera/vodafone-tech-hub/)
 Hello everybody! Vodafone's Digital Tech Hub has opened in Heraklion, Crete and we are looking for new people.
