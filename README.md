@@ -115,6 +115,7 @@ The list of all Hack Sessions held by date:
 
 | Date | Title & Link |
 |------|--------------|
+| 24/11/2022 | [Scaffolding Projects](https://www.meetup.com/devstaff/events/289833141/) |
 | 06/10/2022 | [(Smart) Home Automation](https://www.meetup.com/devstaff/events/288836591/) |
 | 23/01/2019 | [Unix CLI / Bash Scripting](https://www.meetup.com/devstaff/events/258289857/) |
 | 17/10/2018 | [How to develop a Distributed App on Ethereum](https://www.meetup.com/devstaff/events/255475024/) |
