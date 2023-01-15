@@ -7,6 +7,18 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## QA Automation Developer @ [Sunlight.io](https://sunlight.io/)
+
+Sunlight.io makes performance possible anywhere - from the cloud to the edge.
+
+The Sunlight HyperConverged Edge is a reliable, secure, zero-touch and economic infrastructure that helps turn your critical edge data into real-time insight and action across your retail stores, manufacturing lines and smart cities.
+
+Sunlight.io is building the next-generation cloud platform technology and we are looking for an Engineer to be part of our QA developer team to ensure product quality. In this role, you will develop and execute explanatory and automated tests which will be conducted before any product launches to ensure the software runs smoothly and meets client needs.
+
+[Read more & Apply here](https://apply.workable.com/sunlight-io/j/3522AF3C04/)
+
+* PubDate: 11/01/2023
+
 ## Vodafone #VodafoneCreteTechHub @Vodafone [(Vodafone Tech Hub < Καριέρα | Vodafone.gr)](https://www.vodafone.gr/vodafone-ellados/kariera/vodafone-tech-hub/)
 Hello everybody! Vodafone's Digital Tech Hub has opened in Heraklion, Crete and we are looking for new people.
 
@@ -41,7 +53,7 @@ We are looking for a Frontend Developer to join our team. The position is remote
 here](https://apply.workable.com/weave-education/j/A0FC9EE467/)
 
 * PubDate: 2/11/2022
-* 
+
 ## Student Training in Engineering @ [Google](https://www.google.com/)
 
 Google is accepting applications from students in their first or second year of
