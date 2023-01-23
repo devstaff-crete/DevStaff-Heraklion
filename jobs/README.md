@@ -7,6 +7,18 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## Front End Engineer @ [Sunlight.io](https://sunlight.io/)
+
+Sunlight.io makes performance possible anywhere - from the cloud to the edge.
+
+The Sunlight HyperConverged Edge is a reliable, secure, zero-touch and economic infrastructure that helps turn your critical edge data into real-time insight and action across your retail stores, manufacturing lines and smart cities.
+
+Sunlight.io is building the next-generation cloud platform technology and we are looking for a frontend engineer to be part of our team and ensure product quality.
+
+[Read more & Apply here](https://apply.workable.com/sunlight-io/j/029D99D812/)
+
+* PubDate: 23/01/2023
+
 ## QA Automation Developer @ [Sunlight.io](https://sunlight.io/)
 
 Sunlight.io makes performance possible anywhere - from the cloud to the edge.
