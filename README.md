@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #76 | 09/02/2023 | [Web Accessibility](meetups/meetup76-Web-Accessibility) |
 | #75 | 08/12/2022 | [Authentication (AuthN) & Authorization (AuthZ)](meetups/meetup75-AuthN-AuthZ) |
 | #74 | 13/10/2022 | [Rust](meetups/meetup74-Rust) |
 | #73 | 14/07/2022 | [Decentralized Finance](meetups/meetup73-Decentralized-Finance) |
