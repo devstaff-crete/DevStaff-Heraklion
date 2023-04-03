@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #78 | 05/04/2023 | [From developer to entrepreneur](meetups/meetup78-From-developer-to-entrepreneur) |
 | #77 | 09/03/2023 | [React & Next.js](meetups/meetup77-React-and-Nextjs) |
 | #76 | 09/02/2023 | [Web Accessibility](meetups/meetup76-Web-Accessibility) |
 | #75 | 08/12/2022 | [Authentication (AuthN) & Authorization (AuthZ)](meetups/meetup75-AuthN-AuthZ) |
