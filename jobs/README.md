@@ -26,7 +26,7 @@ clients.
 
 [Read more & Apply here](https://biopix-t.com/career/)
 
-* PubDate: 28/04/2023
+* PubDate: 28/04/2022
 
 ## Senior Backend Engineers @ [Fairlo](https://www.fairlo.se)
 
