@@ -1,0 +1,6 @@
+cidr_block        = "10.10.10.0/24"
+vpc_name          = "vpc-petousis"
+tag_product       = "Petousis webser"
+tag_description   = "petousis project"
+tag_environment   = "dev"
+tag_orchestration = "https://github.com/ZervakisGeorgios/devstaff-terraformcontrol-petousis"
