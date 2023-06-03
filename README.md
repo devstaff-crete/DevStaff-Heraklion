@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #80 | 08/06/2023 | [Unlocking Digital Marketing Success](meetups/meetup80-Unlocking-Digital-Marketing-Success) |
 | #79 | 11/05/2023 | [Exploring DevOps and Terraform for IaC and CI/CD](meetups/meetup79-Exploring-DevOps-and-Terraform) |
 | #78 | 05/04/2023 | [From developer to entrepreneur](meetups/meetup78-From-developer-to-entrepreneur) |
 | #77 | 09/03/2023 | [React & Next.js](meetups/meetup77-React-and-Nextjs) |
