@@ -7,6 +7,26 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## DevOps Engineer @ [ORTEC](https://ortec.com)
+
+At ORTEC for Communications we build a digital workplace platform. This platform enables medium and large companies to support their employees in their everyday tasks and keep them engaged and aligned with the company’s mission and values.
+
+We are now seeking to recruit a DevOps Engineer to join our team in Heraklion and help us with our cloud native transition.
+
+[Read more & Apply here](https://careers.ortec.com/job/devops-engineer-o4c-2)
+
+* PubDate: 23/06/2023
+
+## Backend Developer @ [ORTEC](https://ortec.com)
+
+At ORTEC for Communications we build a digital workplace platform. This platform enables medium and large companies to support their employees in their everyday tasks and keep them engaged and aligned with the company’s mission and values.
+
+We are now seeking to recruit a Backend Developer to join our team in Heraklion and help us grow our platform. 
+
+[Read more & Apply here](https://careers.ortec.com/job/back-end-developer-newhealth)
+
+* PubDate: 23/06/2023
+
 ## Python Developer @ [BIOPIX-T](https://www.biopix-t.com)
 
 Here at BIOPIX-T we’re breaking new ground in molecular diagnostics with
