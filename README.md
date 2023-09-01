@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #82 | 07/09/2023 | [Large Scale Search & Graph Processing](meetups/meetup82-Large-Scale-Search-and-Graph-Processing) |
 | #81 | 13/07/2023 | [Battle of Java Frameworks](meetups/meetup81-Battle-of-Java-Frameworks) |
 | #80 | 08/06/2023 | [Unlocking Digital Marketing Success](meetups/meetup80-Unlocking-Digital-Marketing-Success) |
 | #79 | 11/05/2023 | [Exploring DevOps and Terraform for IaC and CI/CD](meetups/meetup79-Exploring-DevOps-and-Terraform) |
