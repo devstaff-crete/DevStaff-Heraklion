@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #83 | 12/10/2023 | [Kubernetes: Scalable app deployments](meetups/meetup83-Kubernetes-Scalable-app-deployments) |
 | #82 | 07/09/2023 | [Large Scale Search & Graph Processing](meetups/meetup82-Large-Scale-Search-and-Graph-Processing) |
 | #81 | 13/07/2023 | [Battle of Java Frameworks](meetups/meetup81-Battle-of-Java-Frameworks) |
 | #80 | 08/06/2023 | [Unlocking Digital Marketing Success](meetups/meetup80-Unlocking-Digital-Marketing-Success) |
