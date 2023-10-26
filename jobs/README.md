@@ -30,24 +30,3 @@ Cloud Services Company is searching for skilled and talented engineers to develo
 [Read more & Apply here](https://www.pelatologio.gr/doc.php?category=job_ads&did=258&sub1=4&sub2=56&lang=1)
 
 * PubDate: 22/08/2023
-
-## DevOps Engineer @ [ORTEC](https://ortec.com)
-
-At ORTEC for Communications we build a digital workplace platform. This platform enables medium and large companies to support their employees in their everyday tasks and keep them engaged and aligned with the company’s mission and values.
-
-We are now seeking to recruit a DevOps Engineer to join our team in Heraklion and help us with our cloud native transition.
-
-[Read more & Apply here](https://careers.ortec.com/job/devops-engineer-o4c-2)
-
-* PubDate: 23/06/2023
-
-## Backend Developer @ [ORTEC](https://ortec.com)
-
-At ORTEC for Communications we build a digital workplace platform. This platform enables medium and large companies to support their employees in their everyday tasks and keep them engaged and aligned with the company’s mission and values.
-
-We are now seeking to recruit a Backend Developer to join our team in Heraklion and help us grow our platform. 
-
-[Read more & Apply here](https://careers.ortec.com/job/back-end-developer-newhealth)
-
-* PubDate: 23/06/2023
-
