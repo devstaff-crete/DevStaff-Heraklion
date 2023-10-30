@@ -7,7 +7,8 @@ The presentation was originally set up using the free plan of [slides.com](https
 
 This presentation can be used by just downloading the `slides-devstaff-intro.html` file and opening it using a browser.
 
-`Caution`: The first slide contains a template for the agenda of each meetup so it has to be edited before using it.
+`Caution`: There are some slides that have to be updated in order to complete the presentation. These include the meetup's banner image,
+the agenda of the meetup and the sponsors.
 
 ## Edit the presentation using a text editor
 
