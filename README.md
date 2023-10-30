@@ -141,12 +141,6 @@ The list of all Hack Sessions held by date:
 More hack sessions have been organized, but they are missing from this list. If
 you know any, please help adding them by submitting a Pull Request.
 
-## Projects :construction:
-
-Find [Open Source Software](projects/README.md) and Projects currently
-developed by DevStaff Members. You can add your own by sending us a Pull
-Request.
-
 ## Job Postings :postal_horn:
 
 Check the [job openings](jobs/README.md), posted by DevStaff members. You can
