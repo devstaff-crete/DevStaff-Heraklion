@@ -20,20 +20,19 @@ are the members that have joined our Meetup's place (in case of physical
 Meetups) or our communication tool (in case of remote Meetups).
 
 ## Raffle Process
-During the Meetup (especially during the intro and at the closing phase) a 
-link (to Google Forms) will be shared where everyone present will be able to 
-add their name & email in order to participate to the raffling process. A 
-number will be assigned to each participant's entry and then we will use
-[random.org](https://www.random.org/) to generate one number per giveaway 
-prize. The list with the participants alongside the assigned unique number 
-will be presented before the giveaway begins. Each participant's unique number 
-corresponding to the random number produced will win the prize. All prizes 
-will be given in the order mentioned at the top of the page in the provided 
-link where participants will fill their details. All details (names and 
-emails) as well as the winners' prizes will be stored for 1 year after the 
-Meetup's date, and will only be accessible by DevStaff Org Team members. 
-For any information or requests you can contact the Org Team at 
-[info@devstaf.gr](mailto:info@devstaf.gr).
+At the end of each meetup, we are using our [draw
+app](https://github.com/devstaff-crete/devstaff-draw) to pick the necessary
+amount of prize winners. They are then contacted within a week by an Org Team
+member to collect their shiny new tool / license / swag!
 
 The whole raffle process described at this step will take place during the end 
 of the Meetup (live or) in front of all the participants.
+
+---
+
+**Did you know?**
+
+Our app is open source, and it always welcomes Pull Requests to add features,
+fix bugs, and in general become even better at addressing our needs.
+
+---
