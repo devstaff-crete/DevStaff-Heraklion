@@ -6,6 +6,13 @@ Hopefully the list below will give you something interesting to do with your spa
 
 If you want to add a new project, open a new PR with your project details!
 
+## Image generator for Devstaff's meetups
+A simple script that uses a svg as a template for generating images for the meetup events of Devstaff.
+
+* DevStaff members: @Bellangelo
+* Ongoing project
+* More info: https://github.com/Bellangelo/Devstaff-Meetup-Image-Generator
+
 ## Devstaff.gr - The official Devstaff website
 It doesn't need an introduction, you may [visit it](http://devstaff.gr)
 
