@@ -11,7 +11,9 @@ As a thank you for sponsoring a number of the upcoming meetups, we will feature 
 
 ### How financial contributions are used
 
-The financial contributions may be used by DevStaff for various purposes to support the community, e.g., providing food at a meetup, ordering swag to give out to community members, etc. 
+The financial contributions may be used by DevStaff for various purposes to support the community.
+The primary purpose is to support the catering of a meetup which boosts the socializing part of the meetups!
+Other purposes may include ordering swag to give out to community members, etc. 
 These activities are expensed in accordance to OpenCollective's policies, including submitting a receipt for transparency purposes.
 
 ## Other ways to sponsor
