@@ -7,7 +7,7 @@ The main way to sponsor DevStaff is through [our OpenCollective page](https://op
 * One-time contribution of a custom amount
 * One-time contributions of predefined amounts to sponsor a number of next meetups
 
-As a thank you for sponsoring a number of next meetups, we will feature you in those meetups by mentioning you and your contribution.
+As a thank you for sponsoring a number of the upcoming meetups, we will feature you in those meetups by mentioning you and your contribution.
 
 ### How financial contributions are used
 
