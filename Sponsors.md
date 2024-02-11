@@ -2,7 +2,7 @@
 
 ## Main way to sponsor: OpenCollective
 
-The main way to sponsor DevStaff is through our OpenCollective page [here](https://opencollective.com/devstaff), which helps us gather financial contributions via a transparent system. There, you can find the available contribution options such as:
+The main way to sponsor DevStaff is through [our OpenCollective page](https://opencollective.com/devstaff), which helps us gather financial contributions via a transparent system. There, you can find the available contribution options such as:
 
 * One-time contribution of a custom amount
 * One-time contributions of predefined amounts to sponsor a number of next meetups
