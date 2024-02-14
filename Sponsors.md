@@ -25,34 +25,20 @@ We provide a few other ways to sponsor DevStaff outside OpenCollective, that pro
 
 Help the community members wear the DevStaff community name with pride! With this option, you can sponsor the purchase of promotional material with the DevStaff brand, in return for awareness of your own brand.  (Please note we do not currently offer a co-branding option, see below for awareness benefits). All material will be made available to community and org team members.
 
-Each swag pack may include a dev-friendly cool looking t-shirt, and/or "Raki" / "Tsikoudia" shot glasses, and/or any other item that can fit in the budget.
+No developer is complete without a dev-friendly cool looking t-shirt or laptop stickers. A "badge of honor" for many, a hipster trend for some... but the reality is that dev t-shirts and laptop stickers are highly sought after! Each swag pack may include a dev-friendly cool looking t-shirt, and/or "Raki" / "Tsikoudia" shot glasses, and/or laptop stickers, and/or any other item that can fit in the budget. 
 
-Each swag pack will be awarded to lucky attendees through a lottery that will take place at the meetup. Your company will be publicly thanked for making this possible. 
+Swag packs may be given to lucky attendees (e.g., through a lottery that can take place at the meetup), or to speakers, or to community members. Your company will be publicly thanked for making this possible. 
 
-Get in contact with us to discuss swag pack opportunities. Please note that depending on the amount of swag packs, we will publicly thank you in a number of next meetups. For example:
+Get in contact with us (at [info@devstaff.gr](mailto:info@devstaff.gr?subject:Swag%20Sponsorship)) to discuss swag pack opportunities. Please note that depending on the amount, we will publicly thank you in a number of next meetups. For example:
 
-* 5 swag packs - i.e. awareness for you for ONE meetup. 
-* 10 swag packs - i.e. awareness for you for TWO meetups. 
-* 20 swag packs - i.e. awareness for you for FOUR meetups. 
+* Around 100 EUR on swag packs - i.e. awareness for you for ONE meetup. 
+* Around 200 EUR on swag packs - i.e. awareness for you for TWO meetups. 
+* Around 400 EUR on swag packs - i.e. awareness for you for FOUR meetups. 
 
 The list below describes the awareness benefits that our branding sponsor receives in return:
 * leaflets (can be left on a table at entrance),
 * "Thank you" message by organizers during Meetup (not by company),
 * "Thank you" message during Swag Pack draw
-* "Thank you" mention in our social media.
-
-Note: the invoices will be issued directly to the sponsoring company by our own suppliers. 
-
-### DevStaff Laptop Stickers Sponsor
-
-No developer laptop is complete without laptop stickers. A “badge of honor” for many, a hipster trend for some... but the reality is that laptop stickers are highly sought after! 
-
-Get in contact with us to discuss laptop sticker opportunities.
-
-The list below describes the awareness benefits that the sponsor receives in return:
-* leaflets (can be left on a table at entrance),
-* "Thank you" message by organizers during Meetup (not by company),
-* "Thank you" message in every meetup, as long as we still have stickers to give away.
 * "Thank you" mention in our social media.
 
 Note: the invoices will be issued directly to the sponsoring company by our own suppliers. 
@@ -84,7 +70,7 @@ The list below describes the awareness benefits that our venue sponsor receives 
 * "Thank you" mention in our social media.
 
 ### How to contact us about Sponsorship opportunities
-Depending on the time of year and ongoing sponsor engagements, some, or all, of the above options may or may not be available. Please contact us at info @t devstaff d0t gr, so you can get in touch with the Org Team and discuss the available options. 
+Depending on the time of year and ongoing sponsor engagements, some, or all, of the above options may or may not be available. Please contact us at [info@devstaff.gr](mailto:info@devstaff.gr?subject:Sponsorship), so you can get in touch with the Org Team and discuss the available options. 
 
 ### Sponsor Eligibility
 We did discuss about whether sponsorship should be open to IT companies at all (so that we wouldn't face any competition / conflict of interest issues), however, we agreed that we will not place any explicit constraints for the time being. 
