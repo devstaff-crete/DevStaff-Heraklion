@@ -1,17 +1,28 @@
 # Sponsors
 
-## Main way to sponsor: OpenCollective
+## Main way to sponsor us financially: through OpenCollective
 
 The main way to sponsor DevStaff is through [our OpenCollective page](https://opencollective.com/devstaff), which helps us gather financial contributions via a transparent system. There, you can find the available contribution options such as:
 
 * One-time contribution of a custom amount
 * One-time contributions of predefined amounts to sponsor a number of next meetups
 
-As a thank you for sponsoring a number of the upcoming meetups, we will feature you in those meetups by mentioning you and your contribution.
+After contributing, you can be listed in OpenCollective's DevStaff contributors. 
+Also, as a thank you for sponsoring a number of the upcoming meetups, we will feature you in those meetups by mentioning you and your contribution.
+See the "Awareness benefits" section below for more details.
 
-### How financial contributions are used
+## Awareness benefits
 
-The financial contributions may be used by DevStaff for various purposes and activities to support the community.
+The list below describes the awareness benefits that the sponsor receives in return:
+
+* "Thank you" message by organizers (not by company) during the sponsored meetups.
+* "Thank you" mention in our social media before and/or after the sponsored meetups.
+* The sponsor may leave leaflets on a table at the entrance during the sponsored meetups.
+* We may list the sponsor may be listed in our website's [sponsors page](https://www.devstaff.gr/sponsors).
+
+## How financial contributions are used
+
+The financial contributions made through OpenCollective may be used by DevStaff for various purposes and activities to support the community.
 These activities are decided by the org team and the org meetups which are open to anyone in the community.
 The primary purpose is to support the catering of a meetup which boosts the socializing part of the meetups!
 Other purposes may include ordering swag to give out to community members, etc. 
@@ -31,15 +42,11 @@ Swag packs may be given to lucky attendees (e.g., through a lottery that can tak
 
 Get in contact with us (at [info@devstaff.gr](mailto:info@devstaff.gr?subject:Swag%20Sponsorship)) to discuss swag pack opportunities. Please note that depending on the amount, we will publicly thank you in a number of next meetups. For example:
 
-* Around 100 EUR on swag packs - i.e. awareness for you for ONE meetup. 
-* Around 200 EUR on swag packs - i.e. awareness for you for TWO meetups. 
-* Around 400 EUR on swag packs - i.e. awareness for you for FOUR meetups. 
+* Around 200 EUR on swag packs - i.e. awareness for you for ONE meetup. 
+* Around 500 EUR on swag packs - i.e. awareness for you for THREE meetups. 
+* Around 1000 EUR on swag packs - i.e. awareness for you for SIX meetups. 
 
-The list below describes the awareness benefits that our branding sponsor receives in return:
-* leaflets (can be left on a table at entrance),
-* "Thank you" message by organizers during Meetup (not by company),
-* "Thank you" message during Swag Pack draw
-* "Thank you" mention in our social media.
+See the section "Awareness benefits" for more details on awareness benefits. Additionally, we will thank you during any Swag Pack lottery in the sponsored meetups.
 
 Note: the invoices will be issued directly to the sponsoring company by our own suppliers. 
 
@@ -49,12 +56,12 @@ At the end of every meetup we have a networking session that offers - perhaps - 
 
 Get in contact with us to discuss catering opportunities.
 
+As a sponsor, you will enjoy all the standard awareness benefits we offer (see the section "Awareness benefits" for more details), and additionally we will:
+
 The list below describes the awareness benefits that our catering sponsor receives in return:
-* leaflets (can be left on a table at entrance),
-* online banner on DevStaff website (with back-link do-follow),
-* "Thank you" message by organizers during Meetup (not by company),
-* Sponsor's slide in DevStaff Welcome presentation,
-* "Thank you" mention in our social media.
+* All the standard awareness benefits we offer (see the section "Awareness benefits" for more details). 
+* Online banner on DevStaff website (with back-link do-follow).
+* Sponsor's slide in DevStaff Welcome presentation.
 
 ### Venue Sponsor
 
@@ -63,11 +70,9 @@ High quality human interactions happen more naturally in a nice setting. The ven
 We want venues that are accessible, large enough for our size and provide the necessary equipment (e.g. fast internet connection, projector, comfortable seating, etc.) to help our meet-ups run smoothly. You can find more details in [this relevant discussion](https://github.com/devstaff-crete/DevStaff-Heraklion/issues/185). We prefer a venue that is free and without any unreasonable demands. 
 
 The list below describes the awareness benefits that our venue sponsor receives in return:
-* leaflets (can be left on a table at entrance),
-* online banner on DevStaff website (with back-link do-follow),
-* "Thank-you" message by organizers during Meetup (not by company),
-* Sponsor’s slide in DevStaff Welcome presentation,
-* "Thank you" mention in our social media.
+* All the standard awareness benefits we offer (see the section "Awareness benefits" for more details). 
+* Online banner on DevStaff website (with back-link do-follow).
+* Sponsor's slide in DevStaff Welcome presentation.
 
 ### How to contact us about Sponsorship opportunities
 Depending on the time of year and ongoing sponsor engagements, some, or all, of the above options may or may not be available. Please contact us at [info@devstaff.gr](mailto:info@devstaff.gr?subject:Sponsorship), so you can get in touch with the Org Team and discuss the available options. 
