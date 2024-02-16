@@ -19,7 +19,7 @@ The list below describes the awareness benefits that the sponsor receives in ret
 * "Thank you" message by organizers (not by company) during the sponsored meetups.
 * "Thank you" mention in our social media.
 * The sponsor may leave leaflets on a table at the entrance during the sponsored meetups.
-* We may list the sponsor may be listed in our website's [sponsors page](https://www.devstaff.gr/sponsors).
+* The sponsor will be considered to be added in our website's [sponsors page](https://www.devstaff.gr/sponsors).
 
 ## How financial contributions are used
 
