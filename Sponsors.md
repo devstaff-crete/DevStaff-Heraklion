@@ -15,8 +15,9 @@ See the "Awareness benefits" section below for more details.
 
 The list below describes the awareness benefits that the sponsor receives in return:
 
+* "Thank you" mention in the announcement of the sponsored meetups.
 * "Thank you" message by organizers (not by company) during the sponsored meetups.
-* "Thank you" mention in our social media before and/or after the sponsored meetups.
+* "Thank you" mention in our social media.
 * The sponsor may leave leaflets on a table at the entrance during the sponsored meetups.
 * We may list the sponsor may be listed in our website's [sponsors page](https://www.devstaff.gr/sponsors).
 
