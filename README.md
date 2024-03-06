@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #86 | 14/03/2024 | [Elevating Software Quality: Inception, Accessibility and Performance Testing](meetups/meetup87-Elevating-Software-Quality) |
 | #86 | 08/02/2024 | [Exploring what's new in Angular 17](meetups/meetup86-Exploring-whats-new-in-Angular-17) |
 | #85 | 11/01/2024 | [First-Time Manager: From Team Member to Team Leader](meetups/meetup85-First-Time-Manager) |
 | #84 | 09/11/2023 | [ChatGPT and Large Language Models (LLMS)](meetups/meetup84-ChatGPT-and-Large-Language-Models) |
