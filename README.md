@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #89 | 30/05/2024 | [Exploring Private Decentralized Storage: An Evening with Ian Preston and Peergos](meetups/meetup89-Exploring-Private-Decentralized-Storage) |
 | #88 | 11/04/2024 | [Modern Security Practices](meetups/meetup88-Modern-Security-Practices) |
 | #87 | 14/03/2024 | [Elevating Software Quality: Inception, Accessibility and Performance Testing](meetups/meetup87-Elevating-Software-Quality) |
 | #86 | 08/02/2024 | [Exploring what's new in Angular 17](meetups/meetup86-Exploring-whats-new-in-Angular-17) |
