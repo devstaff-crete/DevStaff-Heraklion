@@ -7,6 +7,16 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## Senior Backend Engineer @ [Fairlo](https://www.fairlo.se)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a Tech hub in Heraklion. Our founders come from previous startup success, and the team is made up of best-in-class talent.  
+
+We’re looking for a Senior Backend Engineer to join the Heraklion team, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://careers.fairlo.se/jobs/4532514-senior-backend-engineer)  ·   [All open positions](https://careers.fairlo.se/)
+
+* PubDate: 10/06/2024
+  
 ## IS Middlware Engineer @ [NOVA](https://www.nova.gr)
 
 NOVA is a telecom provider in Greece, that came from the merger of Wind and Nova (ex-Forthnet) in the start of 2023. We are looking to hire a Middleware Engineer to join the team in Heraklion, Crete.
