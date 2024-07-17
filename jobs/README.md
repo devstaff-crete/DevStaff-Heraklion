@@ -7,6 +7,27 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## Novibet job openings
+[Novibet](https://www.novibet.gr/) Novibet is looking for talented Tech professionals to join our new team in our HQ in Heraklion of Crete!
+
+Do you want to be part of our rapidly growing team?
+
+Keep reading below...!
+
+If you are interested in submitting your application
+
+__Positions Available (4):__
+
+[.Net Software Developer (Heraklion, Crete)](https://apply.workable.com/novibet/j/0B51AD0B51/)
+
+[Senior .Net Software Developer (Heraklion, Crete)](https://apply.workable.com/novibet/j/E005BB6CFD/)
+
+[QA Engineer (Heraklion, Crete)](https://apply.workable.com/novibet/j/11FD25484E/)
+
+[Senior QA Engineer (Heraklion, Crete)](https://apply.workable.com/novibet/j/AFB4EF3598/)
+
+* PubDate: 17/07/2024
+
 ## Turintech job openings
 
 [Turintech AI](https://www.turintech.ai/) is a leading company in AI-driven software development. We are expanding our team and are looking for talented individuals to join us in shaping the future of technology.
