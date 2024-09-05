@@ -7,6 +7,16 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## Senior & Mid Backend Engineers @ [Fairlo](https://www.linkedin.com/company/fairlo)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://www.google.gr/maps/place/Fairlo/@35.340333,25.1203905,18z/data=!4m6!3m5!1s0x149a5b000c5babe3:0x242a453cc5ebc386!8m2!3d35.3408923!4d25.1209928!16s%2Fg%2F11y4nsr8j5?entry=ttu). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
+
+We’re looking for Senior and Mid level Backend Engineers to join the Heraklion team, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://careers.fairlo.se/jobs/4532514-senior-mid-backend-engineers)  ·   [All open positions](https://careers.fairlo.se/)
+
+* PubDate: 05/09/2024
+
 ## Novibet job openings
 [Novibet](https://www.novibet.gr/) Novibet is looking for talented Tech professionals to join our new team in our HQ in Heraklion of Crete!
 
@@ -81,13 +91,3 @@ __Positions Available (4):__
   - Coming soon... You can apply by sending your CV to [nikos@turintech.ai](mailto:nikos@turintech.ai)
 
 PubDate: 22/06/2024
-
-## Senior Backend Engineer @ [Fairlo](https://www.fairlo.se)
-
-Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a Tech hub in Heraklion. Our founders come from previous startup success, and the team is made up of best-in-class talent.  
-
-We’re looking for a Senior Backend Engineer to join the Heraklion team, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
-
-[Read more & Apply here](https://careers.fairlo.se/jobs/4532514-senior-backend-engineer)  ·   [All open positions](https://careers.fairlo.se/)
-
-* PubDate: 10/06/2024
