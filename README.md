@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #92 | 10/10/2024 | [From Zero to Spark: An introduction to Big Data Processing](meetups/meetup92-From-Zero-to-Spark) |
 | #91 | 12/09/2024 | [Optimizing Teams and Processes](meetups/meetup91-Optimizing-Teams-and-Processes)                                                            |
 | #90 | 11/07/2024 | [Modern Git Development Tools & Workflows](meetups/meetup90-Modern-Git-Development) |
 | #89 | 30/05/2024 | [Exploring Private Decentralized Storage: An Evening with Ian Preston and Peergos](meetups/meetup89-Exploring-Private-Decentralized-Storage) |
