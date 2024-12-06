@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link |
 |-----|------------|--------------|
+| #94 | 12/12/2024 | [Introducing Bluesky and ATProto](meetups/meetup94-introducing-bluesky-and-atproto) |
 | #93 | 14/11/2024 | [The Only Constant? Change - The Story of racket.gr](meetups/meetup93-racket-gr) |
 | #92 | 10/10/2024 | [From Zero to Spark: An introduction to Big Data Processing](meetups/meetup92-From-Zero-to-Spark) |
 | #91 | 12/09/2024 | [Optimizing Teams and Processes](meetups/meetup91-Optimizing-Teams-and-Processes)                                                            |
