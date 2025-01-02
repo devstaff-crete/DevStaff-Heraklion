@@ -7,6 +7,25 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## Web Developer @ [infomen](https://www.linkedin.com/company/infomen-gr/)
+
+Η infomen αναζητά Web Developer με εμπειρία στην κατασκευή ιστοσελίδων.
+
+Απαραίτητα προσόντα:
+- PHP & PHP frameworks (laravel ή άλλο παρεμφερές)
+- ︎WordPress (υλοποίηση custom WordPress theme)
+- ︎Εξοικείωση με καποια απο τις πλατφόρμες ηλεκτρονικού εμπορίου WooCommerce, CS-Cart, Opencart
+- ︎HTML, ︎CSS, ︎jQuery,︎ Javascript︎, xml
+
+Πρόσθετα προσόντα που θα εκτιμηθουν:
+︎Μικροδιαχείριση server (εξοικείωση με linux ,whm, email management , DNS settings, εγκατασταση SSL certificate, server security , network managent)
+
+Θα συνεκτιμηθούν δείγματα δουλειάς που θα υποβάλει ο υποψήφιος.
+
+Στείλτε μας το βιογραφικό σας στο dev@infomen.gr
+
+* PubDate: 02/01/2025
+
 ## Senior & Mid Backend Engineers @ [Fairlo](https://www.linkedin.com/company/fairlo)
 
 Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://www.google.gr/maps/place/Fairlo/@35.340333,25.1203905,18z/data=!4m6!3m5!1s0x149a5b000c5babe3:0x242a453cc5ebc386!8m2!3d35.3408923!4d25.1209928!16s%2Fg%2F11y4nsr8j5?entry=ttu). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
