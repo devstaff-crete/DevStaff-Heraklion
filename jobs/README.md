@@ -7,15 +7,25 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
-## Senior & Mid Backend Engineers @ [Fairlo](https://www.linkedin.com/company/fairlo)
+## Cloud/Senior Backend Engineer @ [Fairlo](https://www.linkedin.com/company/fairlo)
 
-Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://www.google.gr/maps/place/Fairlo/@35.340333,25.1203905,18z/data=!4m6!3m5!1s0x149a5b000c5babe3:0x242a453cc5ebc386!8m2!3d35.3408923!4d25.1209928!16s%2Fg%2F11y4nsr8j5?entry=ttu). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
 
-We’re looking for Senior and Mid level Backend Engineers to join the Heraklion team, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+We’re looking for a Cloud/Senior Backend Engineer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
 
-[Read more & Apply here](https://careers.fairlo.se/jobs/4532514-senior-mid-backend-engineers)  ·   [All open positions](https://careers.fairlo.se/)
+[Read more & Apply here](https://careers.fairlo.se/jobs/5458965-cloud-engineer-senior-backend-engineer)  ·   [All open positions](https://careers.fairlo.se/)
 
-* PubDate: 05/09/2024
+* PubDate: 22/01/2025
+
+## UI/UX designer @ [Fairlo](https://www.linkedin.com/company/fairlo)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
+
+We’re looking for a UI/UX designer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://careers.fairlo.se/jobs/5465739-a-ux-designer-with-a-good-heart-great-talent-and-world-class-ambition)  ·   [All open positions](https://careers.fairlo.se/)
+
+* PubDate: 22/01/2025
 
 ## Novibet job openings
 [Novibet](https://www.novibet.gr/) Novibet is looking for talented Tech professionals to join our new team in our HQ in Heraklion of Crete!
