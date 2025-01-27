@@ -7,6 +7,16 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## Full-Stack Developer @ [Tourmie](https://tourmie.com)
+
+Tourmie is an all-in-one Guest Experience application that helps Hotels and Vacation Rentals efficiently manage, assist, and engage their guests. It combines features such as digital guest guide, online check-in, online requests, cross-selling and upselling services, area guide, messaging, and more in one easy-to-use application, personalized with guests’ details and accessible from any device, without downloading or installing. A new way for the hospitality industry to automate manual processes, enhance guest experience, and increase revenue.
+
+We’re looking for a Full-Stack Developer to join our team, our ideal candidate will work within our growing team at our offices in Heraklion, Crete.
+
+[Read more & Apply here](https://tourmie.com/careers/full-stack-developer)  ·   [All open positions](https://tourmie.com/careers)
+
+* PubDate: 27/01/2025
+
 ## Cloud/Senior Backend Engineer @ [Fairlo](https://www.linkedin.com/company/fairlo)
 
 Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
