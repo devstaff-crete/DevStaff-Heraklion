@@ -18,7 +18,7 @@ of keeping the board up to date. Feel free to repost.__
 - ︎HTML, ︎CSS, ︎jQuery,︎ Javascript︎, xml
 
 Πρόσθετα προσόντα που θα εκτιμηθουν:
-︎Μικροδιαχείριση server (εξοικείωση με linux ,whm, email management , DNS settings, εγκατασταση SSL certificate, server security , network managent)
+︎Μικροδιαχείριση server (εξοικείωση με linux, whm, email management, DNS settings, εγκατασταση SSL certificate, server security, network management)
 
 Θα συνεκτιμηθούν δείγματα δουλειάς που θα υποβάλει ο υποψήφιος.
 
