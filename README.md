@@ -135,6 +135,7 @@ The list of all Hack Sessions held by date:
 
 | Date | Title & Link |
 |------|--------------|
+| 30/01/2025 | [Contributing to open source projects](https://www.meetup.com/devstaff/events/305797041/) |
 | 16/05/2024 | [Coding Escape Room](https://www.meetup.com/devstaff/events/300958988/) |
 | 25/11/2022 | [Scaffolding Projects](https://www.meetup.com/devstaff/events/289833141/) |
 | 06/10/2022 | [(Smart) Home Automation](https://www.meetup.com/devstaff/events/288836591/) |
