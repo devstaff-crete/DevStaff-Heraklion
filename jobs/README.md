@@ -7,6 +7,28 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## Jobs @ [domeba](https://www.domeba.com/en/)
+
+As a manufacturer of compliance management software, we have been operating in a crisis-proof environment for over 25 years because companies always have to play it safe, no matter how things are going. Legislation and rules remain in place and so does the need for our software.
+
+We’re opening an exciting new chapter by founding a branch on the beautiful island of Crete. We’re looking for pioneers who are ready to shape our future from day one and lay the foundation for our success in Greece. 
+
+Are you an experienced full-stack developer or tester? Then take a look at our job openings.
+
+### Professional Software Developer (all genders)
+
+[Read more & Apply here](https://www.domeba.com/en/jobs/job-detail/position/1953361/)  
+
+### Senior Software Developer (all genders)
+[Read more & Apply here](https://www.domeba.com/en/jobs/job-detail/position/1953365/)  
+
+### Software Tester (all genders)
+[Read more & Apply here](https://www.domeba.com/en/jobs/job-detail/position/1950234/)  
+
+[All open positions](https://www.domeba.com/en/jobs/)
+
+* PubDate: 10/02/2025
+
 ## QA Engineer @ [Fairlo](https://www.linkedin.com/company/fairlo)
 
 Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
