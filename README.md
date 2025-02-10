@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link                                                                                                                                 |
 |-----|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| #96 | 13/02/2025 | [Navigating Academia: Insights from Developers and Researchers](meetups/meetup96-navigating-academia)                                        |
 | #95 | 09/01/2025 | [Lightning Talks](meetups/meetup95-lightning-talks)                                                                                          |
 | #94 | 12/12/2024 | [Introducing Bluesky and ATProto](meetups/meetup94-introducing-bluesky-and-atproto)                                                          |
 | #93 | 14/11/2024 | [The Only Constant? Change - The Story of racket.gr](meetups/meetup93-racket-gr)                                                             |
