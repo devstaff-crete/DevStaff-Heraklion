@@ -7,6 +7,36 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## QA Engineer @ [Fairlo](https://www.linkedin.com/company/fairlo)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
+
+We’re looking for a QA Engineer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://careers.fairlo.se/jobs/5493964-quality-assurance-engineer)  ·   [All open positions](https://careers.fairlo.se/)
+
+* PubDate: 01/04/2025
+
+## Cloud/Senior Backend Engineer @ [Fairlo](https://www.linkedin.com/company/fairlo)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
+
+We’re looking for a Cloud/Senior Backend Engineer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://careers.fairlo.se/jobs/5458965-cloud-engineer-senior-backend-engineer)  ·   [All open positions](https://careers.fairlo.se/)
+
+* PubDate: 01/04/2025
+
+## UI/UX designer @ [Fairlo](https://www.linkedin.com/company/fairlo)
+
+Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
+
+We’re looking for a UI/UX designer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+
+[Read more & Apply here](https://careers.fairlo.se/jobs/5465739-a-ux-designer-with-a-good-heart-great-talent-and-world-class-ambition)  ·   [All open positions](https://careers.fairlo.se/)
+
+* PubDate: 01/04/2025
+
 ## Jobs @ [domeba](https://www.domeba.com/en/)
 
 As a manufacturer of compliance management software, we have been operating in a crisis-proof environment for over 25 years because companies always have to play it safe, no matter how things are going. Legislation and rules remain in place and so does the need for our software.
@@ -29,16 +59,6 @@ Are you an experienced full-stack developer or tester? Then take a look at our j
 
 * PubDate: 10/02/2025
 
-## QA Engineer @ [Fairlo](https://www.linkedin.com/company/fairlo)
-
-Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
-
-We’re looking for a QA Engineer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
-
-[Read more & Apply here](https://careers.fairlo.se/jobs/5493964-quality-assurance-engineer)  ·   [All open positions](https://careers.fairlo.se/)
-
-* PubDate: 31/01/2025
-
 ## Full-Stack Developer @ [Tourmie](https://tourmie.com)
 
 Tourmie is an all-in-one Guest Experience application that helps Hotels and Vacation Rentals efficiently manage, assist, and engage their guests. It combines features such as digital guest guide, online check-in, online requests, cross-selling and upselling services, area guide, messaging, and more in one easy-to-use application, personalized with guests’ details and accessible from any device, without downloading or installing. A new way for the hospitality industry to automate manual processes, enhance guest experience, and increase revenue.
@@ -48,26 +68,6 @@ We’re looking for a Full-Stack Developer to join our team, our ideal candidate
 [Read more & Apply here](https://tourmie.com/careers/full-stack-developer)  ·   [All open positions](https://tourmie.com/careers)
 
 * PubDate: 27/01/2025
-
-## Cloud/Senior Backend Engineer @ [Fairlo](https://www.linkedin.com/company/fairlo)
-
-Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
-
-We’re looking for a Cloud/Senior Backend Engineer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
-
-[Read more & Apply here](https://careers.fairlo.se/jobs/5458965-cloud-engineer-senior-backend-engineer)  ·   [All open positions](https://careers.fairlo.se/)
-
-* PubDate: 22/01/2025
-
-## UI/UX designer @ [Fairlo](https://www.linkedin.com/company/fairlo)
-
-Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
-
-We’re looking for a UI/UX designer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
-
-[Read more & Apply here](https://careers.fairlo.se/jobs/5465739-a-ux-designer-with-a-good-heart-great-talent-and-world-class-ambition)  ·   [All open positions](https://careers.fairlo.se/)
-
-* PubDate: 22/01/2025
 
 ## Novibet job openings
 [Novibet](https://www.novibet.gr/) Novibet is looking for talented Tech professionals to join our new team in our HQ in Heraklion of Crete!
