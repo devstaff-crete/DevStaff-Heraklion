@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link                                                                                                                                 |
 |-----|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| #98 | 10/04/2025 | [Hack Business Ideas - Find, test, and build things people actually want](meetups/meetup98-hack-business-ideas)                              |
 | #97 | 13/03/2025 | [Bluetooth technology, from a Linux systems engineer's perspective](meetups/meetup97-bluetooth)                                              |
 | #96 | 13/02/2025 | [Navigating Academia: Insights from Developers and Researchers](meetups/meetup96-navigating-academia)                                        |
 | #95 | 09/01/2025 | [Lightning Talks](meetups/meetup95-lightning-talks)                                                                                          |
