@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #   | Date       | Title & Link                                                                                                                                 |
 |-----|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| #99 | 08/05/2025 | [Revolutionizing monoliths - Practical Journeys to Modern Architecture](meetups/meetup99-revolutionizing-monoliths)                          |
 | #98 | 10/04/2025 | [Hack Business Ideas - Find, test, and build things people actually want](meetups/meetup98-hack-business-ideas)                              |
 | #97 | 13/03/2025 | [Bluetooth technology, from a Linux systems engineer's perspective](meetups/meetup97-bluetooth)                                              |
 | #96 | 13/02/2025 | [Navigating Academia: Insights from Developers and Researchers](meetups/meetup96-navigating-academia)                                        |
