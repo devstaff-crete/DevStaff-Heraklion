@@ -20,7 +20,7 @@ exchange ideas!
 * **Want to contribute?** Check the [Contributing Guidelines](CONTRIBUTING.md)
   and the [Code of Conduct](CodeOfConduct.md) and send a pull request!
 
-* **Want to be social?** Find us on: [Twitter](https://twitter.com/devstaff_gr), [YouTube](https://www.youtube.com/channel/UC8qmn3Nv9QJZ2P_WyhoewHw/videos), [MeetUp](https://www.meetup.com/devstaff/), [LinkedIn](https://www.linkedin.com/company/devstaff/about/), and [facebook](https://www.facebook.com/Devstaff/).
+* **Want to be social?** Find us on: [Twitter/X](https://x.com/devstaff_gr), [Bluesky](https://bsky.app/profile/devstaff.gr), [YouTube](https://www.youtube.com/channel/UC8qmn3Nv9QJZ2P_WyhoewHw/videos), [MeetUp](https://www.meetup.com/devstaff/), [LinkedIn](https://www.linkedin.com/company/devstaff/about/), and [facebook](https://www.facebook.com/Devstaff/).
 
 ## MeetUps :speaker:
 
