@@ -7,35 +7,20 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
-## Frontend Engineer @ [Fairlo](https://www.linkedin.com/company/fairlo)
+## Jobs @ [Fairlo](https://www.linkedin.com/company/fairlo)
 
 Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
 
-We’re looking for a Frontend Engineer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
+We’re looking for several positions to join our team in Heraklion(Hybrid) and be part of taking the Fairlo's Tech hub to the next level:
 
-[Read more & Apply here](https://careers.fairlo.se/jobs/5958504-frontend-engineer-react)  ·   [All open positions](https://careers.fairlo.se/)
+* [Frontend Engineer](https://careers.fairlo.se/jobs/5958504-frontend-engineer-react)
+* [QA Engineer](https://careers.fairlo.se/jobs/5493964-quality-assurance-engineer)
+* [Junior Backend Engineer](https://careers.fairlo.se/jobs/6373052-junior-backend-engineer)
+* [Senior Backend Engineer](https://careers.fairlo.se/jobs/6361748-senior-backend-engineer)
+* [Senior Backend/Cloud Engineer](https://careers.fairlo.se/jobs/5458965-senior-backend-engineer-with-an-interest-for-the-cloud)
+* [Office manager](https://careers.fairlo.se/jobs/6360846-office-manager)
 
-* PubDate: 22/05/2025
-  
-## QA Engineer @ [Fairlo](https://www.linkedin.com/company/fairlo)
-
-Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
-
-We’re looking for a QA Engineer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
-
-[Read more & Apply here](https://careers.fairlo.se/jobs/5493964-quality-assurance-engineer)  ·   [All open positions](https://careers.fairlo.se/)
-
-* PubDate: 22/05/2025
-
-## Cloud/Senior Backend Engineer @ [Fairlo](https://www.linkedin.com/company/fairlo)
-
-Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
-
-We’re looking for a Cloud/Senior Backend Engineer to join us, who’ll join Fairlo's success story and be part of taking the Fairlo Tech hub to the next level.
-
-[Read more & Apply here](https://careers.fairlo.se/jobs/5458965-cloud-engineer-senior-backend-engineer)  ·   [All open positions](https://careers.fairlo.se/)
-
-* PubDate: 22/05/2025
+PubDate: 1/9/2025
 
 ## Jobs @ [domeba](https://www.domeba.com/en/)
 
