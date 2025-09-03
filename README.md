@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #    | Date       | Title & Link                                                                                                                                 |
 |------|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| #101 | 11/09/2025 | [Modern Infrastructure Management](meetups/meetup101-infra-management)                                                                       |
 | #100 | 12/05/2025 | [The Big Celebration](meetups/meetup100-the-big-celebration)                                                                                 |
 | #99  | 08/05/2025 | [Revolutionizing monoliths - Practical Journeys to Modern Architecture](meetups/meetup99-revolutionizing-monoliths)                          |
 | #98  | 10/04/2025 | [Hack Business Ideas - Find, test, and build things people actually want](meetups/meetup98-hack-business-ideas)                              |
