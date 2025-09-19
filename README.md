@@ -142,6 +142,7 @@ The list of all Hack Sessions held by date:
 
 | Date | Title & Link |
 |------|--------------|
+| 30/09/2025 | [AI for Devs: Crafting Creativity with Gemini 2.5, Imagen & Co](https://www.meetup.com/devstaff/events/310743941/?eventOrigin=home_page_upcoming_events%24all) |
 | 30/01/2025 | [Contributing to open source projects](https://www.meetup.com/devstaff/events/305797041/) |
 | 16/05/2024 | [Coding Escape Room](https://www.meetup.com/devstaff/events/300958988/) |
 | 25/11/2022 | [Scaffolding Projects](https://www.meetup.com/devstaff/events/289833141/) |
