@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #    | Date       | Title & Link                                                                                                                                 |
 |------|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| #102 | 30/09/2025 | [[Hack Session] AI for Devs: Crafting Creativity with Gemini 2.5, Imagen & Co](meetups/meetup102-hack-session-gemini)                        |
 | #101 | 11/09/2025 | [Modern Infrastructure Management](meetups/meetup101-infra-management)                                                                       |
 | #100 | 12/05/2025 | [The Big Celebration](meetups/meetup100-the-big-celebration)                                                                                 |
 | #99  | 08/05/2025 | [Revolutionizing monoliths - Practical Journeys to Modern Architecture](meetups/meetup99-revolutionizing-monoliths)                          |
