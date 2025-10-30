@@ -17,6 +17,8 @@ We are seeking a C# Software Engineer to join our team in Heraklion, Crete (hybr
 
 <b>Apply here:</b> [View vacancy](https://ortec.com/en/careers/career/backend%20developer?id=a0wSZ00000ANQTtYAP)
 
+PubDate: 30/10/2025
+
 ## Jobs @ [Fairlo](https://www.linkedin.com/company/fairlo)
 
 Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
