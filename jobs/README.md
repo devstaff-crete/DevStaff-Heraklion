@@ -7,6 +7,18 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## Senior Backend Developer @ [Ortec](https://ortec.com/)
+
+ORTEC is a global leader in advanced analytics and optimization software, helping organizations improve efficiency and decision‑making through smart, data‑driven solutions. 
+
+We are seeking a C# Software Engineer to join our team in Heraklion, Crete (hybrid work). In this role, you will design, develop, and maintain backend systems using C# and .NET, working on projects with real‑world impact across various industries.
+
+<b>Why Join:</b> Work with modern technologies, collaborate with experienced professionals, and contribute to products that make a difference.
+
+<b>Apply here:</b> [View vacancy](https://ortec.com/en/careers/career/backend%20developer?id=a0wSZ00000ANQTtYAP)
+
+PubDate: 30/10/2025
+
 ## Jobs @ [Fairlo](https://www.linkedin.com/company/fairlo)
 
 Fairlo creates financial services that are truly fair. We're one of the hottest and fastest-growing fintech companies in Sweden with offices in Stockholm and a [Tech hub in Heraklion](https://careers.fairlo.se/locations/iraklio). Our founders come from previous startup success, and the team is made up of best-in-class talent.  
