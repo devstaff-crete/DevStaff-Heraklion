@@ -7,7 +7,7 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
-## Senior Backend Developer @ [Ortec](https://ortec.com/)
+## C# Software Engineer @ [Ortec](https://ortec.com/)
 
 ORTEC is a global leader in advanced analytics and optimization software, helping organizations improve efficiency and decision‑making through smart, data‑driven solutions. 
 
