@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #    | Date       | Title & Link                                                                                                                                 |
 |------|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| #104 | 11/12/2025 | ["AI Product Manager" and Other Stupid Job Titles](meetups/meetup104-ai-job-title)                                                           |
 | #103 | 13/11/2025 | [Unlocking Smart Home Potential: Automation, Integration, and Innovation](meetups/meetup103-smart-home)                                      |
 | #102 | 09/10/2025 | [AI Coding Assistants](meetups/meetup102-ai-code-assistants)                                                                                 |
 | #101 | 11/09/2025 | [Modern Infrastructure Management](meetups/meetup101-infra-management)                                                                       |
