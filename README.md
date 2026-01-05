@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #    | Date       | Title & Link                                                                                                                                 |
 |------|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| #105 | 08/01/2026 | [Programming for kids & New Year's Cake (kopi pitas!)](meetups/meetup105-kids-programming)                                                   |
 | #104 | 11/12/2025 | ["AI Product Manager" and Other Stupid Job Titles](meetups/meetup104-ai-job-title)                                                           |
 | #103 | 13/11/2025 | [Unlocking Smart Home Potential: Automation, Integration, and Innovation](meetups/meetup103-smart-home)                                      |
 | #102 | 09/10/2025 | [AI Coding Assistants](meetups/meetup102-ai-code-assistants)                                                                                 |
@@ -75,7 +76,7 @@ The list of all MeetUps held by date:
 | #60  | 10/12/2020 | [Data Protection, Privacy and Android Apps](meetups/meetup60-Data-Protection-Privacy-and-Android-Apps)                                       |
 | #59  | 12/11/2020 | [The Git Version Control System](meetups/meetup59-The-Git-Version-Control-System)                                                            |
 | #58  | 08/10/2020 | [gRPC: Forget about the REST](meetups/meetup58-gRPC-Forget-about-the-REST)                                                                   |
-| #57  | 10/09/2020 | [Availability and monitoring/alerting](meetups/meetup57-AvailabilityAndMonitoringAlerting)                                                   
+| #57  | 10/09/2020 | [Availability and monitoring/alerting](meetups/meetup57-AvailabilityAndMonitoringAlerting)                                                   |
 | #56  | 09/07/2020 | [Open Discussion](meetups/meetup56-OpenDiscussion)                                                                                           |
 | #55  | 11/06/2020 | [Go Language](meetups/meetup55-GoLanguage)                                                                                                   |
 | #54  | 14/05/2020 | [Lightning Talks](meetups/meetup54-LightningTalks)                                                                                           |
