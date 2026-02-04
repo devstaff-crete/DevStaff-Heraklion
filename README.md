@@ -28,6 +28,7 @@ The list of all MeetUps held by date:
 
 | #    | Date       | Title & Link                                                                                                                                 |
 |------|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| #106 | 12/02/2026 | [Unlocking Tech Careers: Insider Insights & Job Hunting Strategies](meetups/meetup106-unlock-tech-careers)                                   |
 | #105 | 08/01/2026 | [Programming for kids & New Year's Cake (kopi pitas!)](meetups/meetup105-kids-programming)                                                   |
 | #104 | 11/12/2025 | ["AI Product Manager" and Other Stupid Job Titles](meetups/meetup104-ai-job-title)                                                           |
 | #103 | 13/11/2025 | [Unlocking Smart Home Potential: Automation, Integration, and Innovation](meetups/meetup103-smart-home)                                      |
@@ -146,6 +147,7 @@ The list of all Hack Sessions held by date:
 
 | Date | Title & Link |
 |------|--------------|
+| 21/01/2026 | [Home Automation](https://www.meetup.com/devstaff/events/312845594/) |
 | 30/09/2025 | [AI for Devs: Crafting Creativity with Gemini 2.5, Imagen & Co](https://www.meetup.com/devstaff/events/310743941/) |
 | 30/01/2025 | [Contributing to open source projects](https://www.meetup.com/devstaff/events/305797041/) |
 | 16/05/2024 | [Coding Escape Room](https://www.meetup.com/devstaff/events/300958988/) |
