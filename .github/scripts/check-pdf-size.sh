@@ -12,7 +12,7 @@ while IFS= read -r file; do
       # Use awk instead of bash to do floating point math
       # (5.3 MB instead of 5 MB)
       size_mb=$(awk "BEGIN {printf \"%.1f\", $size / 1024 / 1024}")
-      large_files+=$(printf '- `%s` (%s MB)\n' "$file" "$size_mb")
+      large_files+=$(printf "- `%s` (%s MB)\n" "$file" "$size_mb")
     fi
   fi
 done < <(gh pr diff "$PR_NUMBER" --name-only | grep -i '\.pdf$')
