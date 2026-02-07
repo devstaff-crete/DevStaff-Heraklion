@@ -1,25 +1,22 @@
-name: Check PDF Size
+name: Check File Size
 
 on:
   pull_request:
-    paths:
-      - "**/*.pdf"
-      - "**/*.PDF"
 
 permissions:
   pull-requests: write
 
 jobs:
-  check-pdf-size:
+  check-file-size:
     runs-on: ubuntu-slim
     steps:
       - name: Checkout PR
         uses: actions/checkout@v4
 
-      - name: Check for large PDF files
+      - name: Check for large files
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
           REPO: ${{ github.repository }}
           MAX_SIZE_MB: "5"
-        run: bash .github/scripts/check-pdf-size.sh
+        run: bash .github/scripts/check-file-size.sh

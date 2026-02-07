@@ -3,7 +3,7 @@ set -euo pipefail
 
 max_size_bytes=$((MAX_SIZE_MB * 1024 * 1024))
 
-# Go over all PDFs in this PR
+# Go over all files in this PR
 large_files=""
 while IFS= read -r file; do
   if [ -f "$file" ]; then
@@ -15,20 +15,20 @@ while IFS= read -r file; do
       large_files+=$(printf " - $file ($size_mb MB)\n")
     fi
   fi
-done < <(gh pr diff "$PR_NUMBER" --name-only | grep -i '\.pdf$')
+done < <(gh pr diff "$PR_NUMBER" --name-only)
 
 if [ -n "$large_files" ]; then
-  body="## Large PDF file(s) detected
+  body="## Large file(s) detected
 
 > [!WARNING]
-> This PR contains large PDF files!
+> This PR contains large files!
 
-The following PDF files in this PR exceed the recommended size of ${MAX_SIZE_MB}
+The following files in this PR exceed the recommended size of ${MAX_SIZE_MB}
 MB:
 
 ${large_files}
 
-Large PDFs inflate the git repository size permanently, making it slower to
+Large files inflate the git repository size permanently, making it slower to
 clone for everyone.
 
 Please consider compressing your PDF before committing. You can either use your
@@ -66,7 +66,7 @@ file is not stored in the git history at all."
 
   # Post or update the comment
   existing_comment_id=$(gh api "repos/${REPO}/issues/${PR_NUMBER}/comments" \
-    --jq '.[] | select(.body | contains("Large PDF file(s) detected")) | .id' \
+    --jq '.[] | select(.body | contains("Large file(s) detected")) | .id' \
     | head -n 1)
 
   if [ -n "$existing_comment_id" ]; then
@@ -79,5 +79,5 @@ file is not stored in the git history at all."
     echo "Posted new comment."
   fi
 else
-  echo "All PDF files are within the ${MAX_SIZE_MB} MB limit."
+  echo "All files are within the ${MAX_SIZE_MB} MB limit."
 fi
