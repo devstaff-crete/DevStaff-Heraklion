@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   check-pdf-size:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
       - name: Checkout PR
         uses: actions/checkout@v4
