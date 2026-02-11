@@ -22,7 +22,7 @@ For this reason, a sponsor receives the following awareness benefits in return:
 * The sponsor may leave leaflets on a table at the entrance during the sponsored meetups.
 * The sponsor will be considered to be added in our website's [sponsors page](https://www.devstaff.gr/sponsors).
 
-Note that Devstaff's [meetup group](https://www.meetup.com/devstaff/) is home to over 1780 members and counting.
+Note that Devstaff's [meetup group](https://www.meetup.com/devstaff/) is home to over 2000 members and counting.
 Each month (except for the summer break), roughly [40-70 talented developers](https://www.meetup.com/devstaff/events/?type=past) gather for engaging meetups, where knowledge is shared, connections are made, and innovation thrives.
 With your help, we are able to sustain this momentum and foster our growing community.
 
