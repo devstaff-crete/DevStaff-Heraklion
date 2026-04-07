@@ -148,6 +148,7 @@ The list of all Hack Sessions held by date:
 
 | Date | Title & Link |
 |------|--------------|
+| 09/04/2026 | [Coding Agents](https://www.meetup.com/devstaff/events/314161955/) |
 | 21/01/2026 | [Home Automation](https://www.meetup.com/devstaff/events/312845594/) |
 | 30/09/2025 | [AI for Devs: Crafting Creativity with Gemini 2.5, Imagen & Co](https://www.meetup.com/devstaff/events/310743941/) |
 | 30/01/2025 | [Contributing to open source projects](https://www.meetup.com/devstaff/events/305797041/) |
