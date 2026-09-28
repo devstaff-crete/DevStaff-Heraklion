@@ -9,25 +9,6 @@ of keeping the board up to date. Feel free to repost.__
 
 ---
 
-## Full-Stack Developer @ Tourmie
-
-| Link | [Apply](https://tourmie.com/careers/full-stack-developer/) |
-|------|-----|
-| Date | 2026-09-03 |
-
-Tourmie is a guest experience platform for hotels and vacation rental managers.
-We combine online check-in, digital guides, automated messaging, and a local
-services marketplace into a single branded app — no downloads required.
-
-### What You’ll Do
-
-* Build and maintain features across the full stack using TypeScript, Node.js, and Angular
-* Work closely with product and design to ship solutions that address real host and guest pain points
-* Own features end-to-end: scoping, implementation, testing, deployment
-* Improve performance, code quality, and developer experience
-* Contribute to API integrations with PMS platforms and channel managers
-* Write clear technical documentation
-
 ## Senior Software Engineer (Backend / Infrastructure) @ MxM – University of Crete
 
 | Link | [Apply](https://github.com/mensxmachina/New-Positions-MxM) |
@@ -131,4 +112,25 @@ We offer a competitive salary based on experience, potential startup equity/opti
 **Application deadline:** 31 October 2026
 
 Apply with your **CV** and a short description of your relevant experience and interests at **[mensxmachina@gmail.com](mailto:mensxmachina@gmail.com)**.
+
+## Full-Stack Developer @ Tourmie
+
+| Link | [Apply](https://tourmie.com/careers/full-stack-developer/) |
+|------|-----|
+| Date | 2026-09-03 |
+
+Tourmie is a guest experience platform for hotels and vacation rental managers.
+We combine online check-in, digital guides, automated messaging, and a local
+services marketplace into a single branded app — no downloads required.
+
+### What You’ll Do
+
+* Build and maintain features across the full stack using TypeScript, Node.js, and Angular
+* Work closely with product and design to ship solutions that address real host and guest pain points
+* Own features end-to-end: scoping, implementation, testing, deployment
+* Improve performance, code quality, and developer experience
+* Contribute to API integrations with PMS platforms and channel managers
+* Write clear technical documentation
+
+
 
