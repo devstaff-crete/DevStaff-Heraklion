@@ -28,13 +28,14 @@ services marketplace into a single branded app — no downloads required.
 * Contribute to API integrations with PMS platforms and channel managers
 * Write clear technical documentation
 
-## Senior Software Engineer @ MxM – University of Crete
+## Senior Software Engineer (Backend / Infrastructure) @ MxM – University of Crete
 
-| Link     | [Full position & application details](https://github.com/mensxmachina/New-Positions-MxM) |
-| -------- | ---------------------------------------------------------------------------------------- |
-| Date     | 2026-09-22                                                                               |
-| Location | Heraklion, Crete                                                                         |
-| Type     | Full-time                                                                                |
+| Link | [Apply](https://github.com/mensxmachina/New-Positions-MxM) |
+|------|-----|
+| Date | 2026-09-22 |
+
+**Location:** Heraklion, Crete  
+**Type:** Full-time
 
 **MxM** is building a new AI platform for **causal analysis and machine learning**, supported by an **EIC Transition grant** and developed by an internationally recognized research group at the **University of Crete**.
 
@@ -59,15 +60,14 @@ We offer a competitive salary based on experience, potential startup equity/opti
 
 Apply with your **CV** and a short description of your relevant experience and interests at **[mensxmachina@gmail.com](mailto:mensxmachina@gmail.com)**.
 
----
+## Senior Software Engineer (ML / MLOps) @ MxM – University of Crete
 
-## Senior Software Engineer @ MxM – University of Crete
+| Link | [Apply](https://github.com/mensxmachina/New-Positions-MxM) |
+|------|-----|
+| Date | 2026-09-22 |
 
-| Link     | [Full position & application details](https://github.com/mensxmachina/New-Positions-MxM) |
-| -------- | ---------------------------------------------------------------------------------------- |
-| Date     | 2026-09-22                                                                               |
-| Location | Heraklion, Crete                                                                         |
-| Type     | Full-time                                                                                |
+**Location:** Heraklion, Crete  
+**Type:** Full-time
 
 **MxM** is building a new AI platform for **causal analysis and machine learning**, supported by an **EIC Transition grant** and developed by an internationally recognized research group at the **University of Crete**.
 
@@ -94,15 +94,14 @@ We offer a competitive salary based on experience, potential startup equity/opti
 
 Apply with your **CV** and a short description of your relevant experience and interests at **[mensxmachina@gmail.com](mailto:mensxmachina@gmail.com)**.
 
----
-
 ## Product Owner/Manager @ MxM – University of Crete
 
-| Link     | [Full position & application details](https://github.com/mensxmachina/New-Positions-MxM) |
-| -------- | ---------------------------------------------------------------------------------------- |
-| Date     | 2026-09-22                                                                               |
-| Location | Heraklion, Crete                                                                         |
-| Type     | Full-time                                                                                |
+| Link | [Apply](https://github.com/mensxmachina/New-Positions-MxM) |
+|------|-----|
+| Date | 2026-09-22 |
+
+**Location:** Heraklion, Crete  
+**Type:** Full-time
 
 **MxM** is transforming cutting-edge research in **causal discovery, machine learning and AI** into a new commercial data analytics platform, supported by an **EIC Transition grant** and developed at the **University of Crete**.
 
@@ -132,3 +131,4 @@ We offer a competitive salary based on experience, potential startup equity/opti
 **Application deadline:** 31 October 2026
 
 Apply with your **CV** and a short description of your relevant experience and interests at **[mensxmachina@gmail.com](mailto:mensxmachina@gmail.com)**.
+
